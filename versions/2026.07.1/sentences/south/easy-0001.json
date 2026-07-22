@@ -1,0 +1,710 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.1",
+  "difficulty": "easy",
+  "region": "south",
+  "schema_version": 1,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0001",
+      "language_style": "standard",
+      "random_key": 2145186019,
+      "text": "Mở rèm bên trái ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0002",
+      "language_style": "standard",
+      "random_key": 1984112094,
+      "text": "Bật đèn trần trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0003",
+      "language_style": "standard",
+      "random_key": 367066512,
+      "text": "Bật quạt ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0004",
+      "language_style": "standard",
+      "random_key": 826819188,
+      "text": "Bật đèn tại bàn ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0005",
+      "language_style": "standard",
+      "random_key": 1425933464,
+      "text": "Đóng toàn bộ rèm cửa trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0006",
+      "language_style": "standard",
+      "random_key": 1453092879,
+      "text": "Mở toàn bộ rèm bên phải trong phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0007",
+      "language_style": "standard",
+      "random_key": 801832077,
+      "text": "Đóng toàn bộ rèm bên trái trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0008",
+      "language_style": "standard",
+      "random_key": 508645425,
+      "text": "Mở toàn bộ rèm cửa trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0009",
+      "language_style": "standard",
+      "random_key": 199091797,
+      "text": "Tắt quạt ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0010",
+      "language_style": "standard",
+      "random_key": 370360296,
+      "text": "Tắt đèn trần ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0011",
+      "language_style": "standard",
+      "random_key": 1337602806,
+      "text": "Bật đèn trần trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0012",
+      "language_style": "standard",
+      "random_key": 1911291117,
+      "text": "Tắt quạt ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0013",
+      "language_style": "standard",
+      "random_key": 1436264733,
+      "text": "Bật quạt trần trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0014",
+      "language_style": "standard",
+      "random_key": 800311102,
+      "text": "Tắt đèn trần trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0015",
+      "language_style": "standard",
+      "random_key": 2130492722,
+      "text": "Tắt toàn bộ đèn ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0016",
+      "language_style": "standard",
+      "random_key": 1456837934,
+      "text": "Tắt đèn trần trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0017",
+      "language_style": "standard",
+      "random_key": 1297561206,
+      "text": "Bật toàn bộ đèn ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0018",
+      "language_style": "standard",
+      "random_key": 1309363062,
+      "text": "Đóng rèm cửa ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0019",
+      "language_style": "standard",
+      "random_key": 682260317,
+      "text": "Bật đèn trần ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0020",
+      "language_style": "standard",
+      "random_key": 971815697,
+      "text": "Tắt quạt trần trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0021",
+      "language_style": "standard",
+      "random_key": 855432626,
+      "text": "Tắt điều hòa ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0022",
+      "language_style": "standard",
+      "random_key": 1187619206,
+      "text": "Mở toàn bộ rèm bên phải trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0023",
+      "language_style": "standard",
+      "random_key": 363450918,
+      "text": "Bật quạt ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0024",
+      "language_style": "standard",
+      "random_key": 1014045911,
+      "text": "Bật điều hòa trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0025",
+      "language_style": "standard",
+      "random_key": 1920853425,
+      "text": "Đóng rèm cửa ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0026",
+      "language_style": "standard",
+      "random_key": 264923653,
+      "text": "Tắt đèn trần ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0027",
+      "language_style": "standard",
+      "random_key": 1053950355,
+      "text": "Tắt điều hòa ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0028",
+      "language_style": "standard",
+      "random_key": 883605578,
+      "text": "Bật quạt trần trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0029",
+      "language_style": "standard",
+      "random_key": 2029957328,
+      "text": "Tắt quạt trần trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0030",
+      "language_style": "standard",
+      "random_key": 1452720267,
+      "text": "Tắt đèn ngủ ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0031",
+      "language_style": "standard",
+      "random_key": 1270578072,
+      "text": "Tắt điều hòa ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0032",
+      "language_style": "standard",
+      "random_key": 1172068800,
+      "text": "Bật đèn trần trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0033",
+      "language_style": "standard",
+      "random_key": 2131289458,
+      "text": "Bật đèn trần ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0034",
+      "language_style": "standard",
+      "random_key": 1484318802,
+      "text": "Bật đèn ngủ ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0035",
+      "language_style": "standard",
+      "random_key": 1626495569,
+      "text": "Tắt đèn trần trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0036",
+      "language_style": "standard",
+      "random_key": 891895706,
+      "text": "Đóng toàn bộ rèm bên trái trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0037",
+      "language_style": "standard",
+      "random_key": 526059943,
+      "text": "Tắt đèn ngủ ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0038",
+      "language_style": "standard",
+      "random_key": 1972229999,
+      "text": "Bật đèn ngủ trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0039",
+      "language_style": "standard",
+      "random_key": 83580053,
+      "text": "Tắt đèn ngủ ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0040",
+      "language_style": "standard",
+      "random_key": 1204465072,
+      "text": "Mở rèm cửa ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0041",
+      "language_style": "standard",
+      "random_key": 1502582028,
+      "text": "Bật toàn bộ đèn ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0042",
+      "language_style": "standard",
+      "random_key": 1255465716,
+      "text": "Bật đèn ngủ ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0043",
+      "language_style": "standard",
+      "random_key": 1485108066,
+      "text": "Bật điều hòa ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0044",
+      "language_style": "standard",
+      "random_key": 651312720,
+      "text": "Mở toàn bộ rèm cửa trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0045",
+      "language_style": "standard",
+      "random_key": 1004708772,
+      "text": "Mở rèm cửa ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0046",
+      "language_style": "standard",
+      "random_key": 235634809,
+      "text": "Tắt quạt trần trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0047",
+      "language_style": "standard",
+      "random_key": 1434160189,
+      "text": "Bật quạt trần ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0048",
+      "language_style": "standard",
+      "random_key": 1097645891,
+      "text": "Đóng toàn bộ rèm cửa trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0049",
+      "language_style": "standard",
+      "random_key": 1478858371,
+      "text": "Đóng rèm bên trái ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0050",
+      "language_style": "standard",
+      "random_key": 1475987962,
+      "text": "Bật quạt trần ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0051",
+      "language_style": "standard",
+      "random_key": 496318473,
+      "text": "Bật đèn trần trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0052",
+      "language_style": "standard",
+      "random_key": 1232528381,
+      "text": "Tắt đèn ngủ trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0053",
+      "language_style": "standard",
+      "random_key": 1225812133,
+      "text": "Tắt quạt ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0054",
+      "language_style": "standard",
+      "random_key": 403186694,
+      "text": "Đóng toàn bộ rèm cửa trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0055",
+      "language_style": "standard",
+      "random_key": 831912139,
+      "text": "Đóng rèm bên phải ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0056",
+      "language_style": "standard",
+      "random_key": 823732931,
+      "text": "Bật đèn ngủ ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0057",
+      "language_style": "standard",
+      "random_key": 291305090,
+      "text": "Mở rèm bên phải ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0058",
+      "language_style": "standard",
+      "random_key": 184527713,
+      "text": "Đóng rèm cửa ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0059",
+      "language_style": "standard",
+      "random_key": 734752170,
+      "text": "Mở toàn bộ rèm cửa trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0060",
+      "language_style": "standard",
+      "random_key": 1325115629,
+      "text": "Tắt đèn trần ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0061",
+      "language_style": "standard",
+      "random_key": 1302136424,
+      "text": "Đóng toàn bộ rèm bên phải trong phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0062",
+      "language_style": "standard",
+      "random_key": 1202911957,
+      "text": "Tắt quạt trần ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0063",
+      "language_style": "standard",
+      "random_key": 168629404,
+      "text": "Mở rèm bên phải ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0064",
+      "language_style": "standard",
+      "random_key": 528215124,
+      "text": "Tắt toàn bộ đèn ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0065",
+      "language_style": "standard",
+      "random_key": 909234746,
+      "text": "Tắt đèn trần ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0066",
+      "language_style": "standard",
+      "random_key": 870828238,
+      "text": "Mở rèm cửa ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0067",
+      "language_style": "standard",
+      "random_key": 851557314,
+      "text": "Mở rèm cửa ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0068",
+      "language_style": "standard",
+      "random_key": 382219872,
+      "text": "Tắt điều hòa ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0069",
+      "language_style": "standard",
+      "random_key": 320733118,
+      "text": "Bật toàn bộ đèn ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0070",
+      "language_style": "standard",
+      "random_key": 594921321,
+      "text": "Mở toàn bộ rèm bên trái trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0071",
+      "language_style": "regional",
+      "random_key": 1640497115,
+      "text": "Kéo rèm bên trái ở phòng khách ra giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0072",
+      "language_style": "regional",
+      "random_key": 1385580792,
+      "text": "Tắt điều hòa ở phòng thờ đi giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0073",
+      "language_style": "regional",
+      "random_key": 850897730,
+      "text": "Kéo rèm bên phải ở phòng ăn ra giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0074",
+      "language_style": "regional",
+      "random_key": 754241085,
+      "text": "Mở điều hòa ở phòng thờ lên giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0075",
+      "language_style": "regional",
+      "random_key": 2022729079,
+      "text": "Mở đèn trần ở phòng ngủ nhỏ lên giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0076",
+      "language_style": "regional",
+      "random_key": 631845046,
+      "text": "Tắt điều hòa ở phòng ngủ nhỏ đi giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0077",
+      "language_style": "regional",
+      "random_key": 1865508375,
+      "text": "Tắt quạt trần ở phòng khách đi giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0078",
+      "language_style": "regional",
+      "random_key": 1511600046,
+      "text": "Mở đèn ngủ ở phòng khách giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0079",
+      "language_style": "regional",
+      "random_key": 640905024,
+      "text": "Mở đèn ngủ ở phòng ngủ chính giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0080",
+      "language_style": "regional",
+      "random_key": 1673331341,
+      "text": "Kéo rèm bên trái trong phòng thờ lại giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0081",
+      "language_style": "regional",
+      "random_key": 294559997,
+      "text": "Tắt đèn trần ở phòng ngủ nhỏ đi giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0082",
+      "language_style": "regional",
+      "random_key": 213558190,
+      "text": "Mở đèn trần ở phòng bếp giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0083",
+      "language_style": "regional",
+      "random_key": 232798763,
+      "text": "Kéo rèm cửa trong phòng làm việc lại giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0084",
+      "language_style": "regional",
+      "random_key": 730789237,
+      "text": "Tắt điều hòa trong phòng ăn giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0085",
+      "language_style": "regional",
+      "random_key": 27193542,
+      "text": "Tắt điều hòa ở phòng làm việc đi giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0086",
+      "language_style": "regional",
+      "random_key": 1782884843,
+      "text": "Tắt đèn ngủ trong phòng làm việc giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0087",
+      "language_style": "regional",
+      "random_key": 2145994956,
+      "text": "Mở đèn trần ở phòng làm việc giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0088",
+      "language_style": "regional",
+      "random_key": 2131686133,
+      "text": "Mở điều hòa ở phòng làm việc lên giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0089",
+      "language_style": "regional",
+      "random_key": 1487540115,
+      "text": "Mở quạt trần ở phòng ngủ nhỏ giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0090",
+      "language_style": "regional",
+      "random_key": 2070906001,
+      "text": "Tắt đèn ngủ trong phòng thờ giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0091",
+      "language_style": "regional",
+      "random_key": 1269229048,
+      "text": "Mở đèn ngủ ở phòng ăn lên giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0092",
+      "language_style": "regional",
+      "random_key": 228811369,
+      "text": "Tắt quạt trần ở phòng bếp đi giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0093",
+      "language_style": "regional",
+      "random_key": 1654847470,
+      "text": "Mở quạt trần ở phòng ngủ chính giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0094",
+      "language_style": "regional",
+      "random_key": 923214132,
+      "text": "Mở đèn ngủ ở phòng ăn giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0095",
+      "language_style": "regional",
+      "random_key": 1370242348,
+      "text": "Mở đèn ngủ ở phòng khách lên giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0096",
+      "language_style": "regional",
+      "random_key": 1588674244,
+      "text": "Mở điều hòa ở phòng ngủ nhỏ lên giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0097",
+      "language_style": "regional",
+      "random_key": 1324213897,
+      "text": "Mở quạt trần ở phòng bếp lên giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0098",
+      "language_style": "regional",
+      "random_key": 2062225756,
+      "text": "Kéo rèm bên trái ở phòng làm việc ra giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0099",
+      "language_style": "regional",
+      "random_key": 1062203259,
+      "text": "Mở đèn trần ở phòng thờ giùm tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0100",
+      "language_style": "regional",
+      "random_key": 2091560969,
+      "text": "Kéo rèm bên trái trong phòng ăn lại giùm tôi."
+    }
+  ],
+  "shard": 1
+}

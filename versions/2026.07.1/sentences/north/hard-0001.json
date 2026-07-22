@@ -1,0 +1,710 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.1",
+  "difficulty": "hard",
+  "region": "north",
+  "schema_version": 1,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0001",
+      "language_style": "standard",
+      "random_key": 334810351,
+      "text": "Kiểm tra quạt ban công ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0002",
+      "language_style": "standard",
+      "random_key": 412459154,
+      "text": "Kiểm tra máy lọc không khí phòng đọc ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0003",
+      "language_style": "standard",
+      "random_key": 1013124941,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0004",
+      "language_style": "standard",
+      "random_key": 1455789355,
+      "text": "Đặt nhiệt độ ở phòng giặt thành 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0005",
+      "language_style": "standard",
+      "random_key": 949295391,
+      "text": "Đặt nhiệt độ ở phòng tập thành 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0006",
+      "language_style": "standard",
+      "random_key": 1139516969,
+      "text": "Bật máy lọc không khí phòng đọc trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0007",
+      "language_style": "standard",
+      "random_key": 641631826,
+      "text": "Tăng lên một chút."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0008",
+      "language_style": "standard",
+      "random_key": 667927507,
+      "text": "Tắt máy lọc không khí phòng đọc trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0009",
+      "language_style": "standard",
+      "random_key": 800133043,
+      "text": "Bật quạt ban công trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0010",
+      "language_style": "standard",
+      "random_key": 81578575,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0011",
+      "language_style": "standard",
+      "random_key": 1749083670,
+      "text": "Bật điều hòa phòng kho."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0012",
+      "language_style": "standard",
+      "random_key": 990185894,
+      "text": "Bật đèn ở phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0013",
+      "language_style": "standard",
+      "random_key": 476975749,
+      "text": "Tắt quạt ban công đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0014",
+      "language_style": "standard",
+      "random_key": 1063515343,
+      "text": "Đặt nhiệt độ ở phòng tập thành 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0015",
+      "language_style": "standard",
+      "random_key": 1473667212,
+      "text": "Bật điều hòa phòng kho trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0016",
+      "language_style": "standard",
+      "random_key": 1319347151,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0017",
+      "language_style": "standard",
+      "random_key": 1818722965,
+      "text": "Bật quạt ban công trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0018",
+      "language_style": "standard",
+      "random_key": 993765069,
+      "text": "Bật đèn tại quầy bếp của phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0019",
+      "language_style": "standard",
+      "random_key": 1012993666,
+      "text": "Kiểm tra đèn hồ cá ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0020",
+      "language_style": "standard",
+      "random_key": 1016134278,
+      "text": "Đặt nhiệt độ ở phòng giặt thành 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0021",
+      "language_style": "standard",
+      "random_key": 194719322,
+      "text": "Đặt nhiệt độ ở phòng chơi thành 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0022",
+      "language_style": "standard",
+      "random_key": 343057207,
+      "text": "Bật đèn hồ cá ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0023",
+      "language_style": "standard",
+      "random_key": 1495382448,
+      "text": "Bật máy lọc không khí phòng đọc trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0024",
+      "language_style": "standard",
+      "random_key": 1062389765,
+      "text": "Tắt đèn hồ cá trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0025",
+      "language_style": "standard",
+      "random_key": 1454358248,
+      "text": "Tắt quạt ban công trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0026",
+      "language_style": "standard",
+      "random_key": 443728648,
+      "text": "Bật điều hòa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0027",
+      "language_style": "standard",
+      "random_key": 659593635,
+      "text": "Bật đèn hồ cá trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0028",
+      "language_style": "standard",
+      "random_key": 1289657543,
+      "text": "Đặt nhiệt độ ở phòng giặt thành 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0029",
+      "language_style": "standard",
+      "random_key": 454284520,
+      "text": "Tắt điều hòa phòng kho trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0030",
+      "language_style": "standard",
+      "random_key": 471219532,
+      "text": "Bật đèn ở phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0031",
+      "language_style": "standard",
+      "random_key": 181469869,
+      "text": "Kiểm tra đèn hồ cá ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0032",
+      "language_style": "standard",
+      "random_key": 820703807,
+      "text": "Bật điều hòa phòng kho ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0033",
+      "language_style": "standard",
+      "random_key": 472490153,
+      "text": "Kiểm tra đèn hồ cá ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0034",
+      "language_style": "standard",
+      "random_key": 2096626734,
+      "text": "Tắt điều hòa phòng kho trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0035",
+      "language_style": "standard",
+      "random_key": 400947397,
+      "text": "Bật quạt ban công ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0036",
+      "language_style": "standard",
+      "random_key": 1619593263,
+      "text": "Bật quạt ban công trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0037",
+      "language_style": "standard",
+      "random_key": 1377558667,
+      "text": "Tắt đèn hồ cá trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0038",
+      "language_style": "standard",
+      "random_key": 2007276590,
+      "text": "Đặt nhiệt độ ở phòng giặt thành 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0039",
+      "language_style": "standard",
+      "random_key": 451214391,
+      "text": "Bật đèn hồ cá trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0040",
+      "language_style": "standard",
+      "random_key": 879868219,
+      "text": "Tắt quạt ban công trong phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0041",
+      "language_style": "standard",
+      "random_key": 1993545127,
+      "text": "Đóng rèm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0042",
+      "language_style": "standard",
+      "random_key": 496255594,
+      "text": "Tắt cái kia đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0043",
+      "language_style": "standard",
+      "random_key": 717365112,
+      "text": "Tắt đèn hồ cá trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0044",
+      "language_style": "standard",
+      "random_key": 1674117244,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0045",
+      "language_style": "standard",
+      "random_key": 2134028380,
+      "text": "Bật đèn hồ cá ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0046",
+      "language_style": "standard",
+      "random_key": 195861712,
+      "text": "Tắt máy lọc không khí phòng đọc trong phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0047",
+      "language_style": "standard",
+      "random_key": 1500627882,
+      "text": "Bật quạt ở phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0048",
+      "language_style": "standard",
+      "random_key": 1048512821,
+      "text": "Bật điều hòa phòng kho trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0049",
+      "language_style": "standard",
+      "random_key": 2086732879,
+      "text": "Kiểm tra máy lọc không khí phòng đọc ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0050",
+      "language_style": "standard",
+      "random_key": 708853935,
+      "text": "Đóng toàn bộ rèm trong phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0051",
+      "language_style": "standard",
+      "random_key": 1899101166,
+      "text": "Bật điều hòa phòng kho ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0052",
+      "language_style": "standard",
+      "random_key": 1334173229,
+      "text": "Tắt quạt ban công trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0053",
+      "language_style": "standard",
+      "random_key": 943867425,
+      "text": "Tắt máy lọc không khí phòng đọc trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0054",
+      "language_style": "standard",
+      "random_key": 1425209511,
+      "text": "Mở cái bên trái."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0055",
+      "language_style": "standard",
+      "random_key": 648756252,
+      "text": "Đặt nhiệt độ ở phòng ngủ khách thành 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0056",
+      "language_style": "standard",
+      "random_key": 1653083937,
+      "text": "Bật đèn tại ban công của phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0057",
+      "language_style": "standard",
+      "random_key": 925273048,
+      "text": "Kiểm tra quạt ban công ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0058",
+      "language_style": "standard",
+      "random_key": 1779243097,
+      "text": "Đặt nhiệt độ ở phòng ngủ khách thành 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0059",
+      "language_style": "standard",
+      "random_key": 1827387115,
+      "text": "Bật đèn tại bàn ăn của phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0060",
+      "language_style": "standard",
+      "random_key": 260006741,
+      "text": "Bật đèn hồ cá."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0061",
+      "language_style": "standard",
+      "random_key": 238149622,
+      "text": "Bật máy lọc không khí phòng đọc trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0062",
+      "language_style": "standard",
+      "random_key": 2020720339,
+      "text": "Đặt nhiệt độ ở phòng tập thành 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0063",
+      "language_style": "standard",
+      "random_key": 1353027586,
+      "text": "Bật đèn ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0064",
+      "language_style": "standard",
+      "random_key": 1926974470,
+      "text": "Kiểm tra máy lọc không khí phòng đọc ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0065",
+      "language_style": "standard",
+      "random_key": 722094830,
+      "text": "Tắt máy lọc không khí phòng đọc trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0066",
+      "language_style": "standard",
+      "random_key": 1589615197,
+      "text": "Bật đèn tại quầy bếp của phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0067",
+      "language_style": "standard",
+      "random_key": 1389937522,
+      "text": "Bật đèn tại ban công của phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0068",
+      "language_style": "standard",
+      "random_key": 2005850743,
+      "text": "Trong phòng giặt còn đèn nào đang bật?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0069",
+      "language_style": "standard",
+      "random_key": 2093086370,
+      "text": "Kiểm tra điều hòa phòng kho ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0070",
+      "language_style": "standard",
+      "random_key": 1071081899,
+      "text": "Kiểm tra điều hòa phòng kho ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0071",
+      "language_style": "regional",
+      "random_key": 565713751,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng làm việc hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0072",
+      "language_style": "regional",
+      "random_key": 916770977,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng ăn hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0073",
+      "language_style": "regional",
+      "random_key": 613573007,
+      "text": "Bật đèn hồ cá ở phòng thờ hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0074",
+      "language_style": "regional",
+      "random_key": 173442348,
+      "text": "Bật điều hòa phòng kho ở phòng ngủ chính hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0075",
+      "language_style": "regional",
+      "random_key": 310560777,
+      "text": "Tắt cái bên kia hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0076",
+      "language_style": "regional",
+      "random_key": 1185319101,
+      "text": "Xem hộ tôi đèn hồ cá còn chạy không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0077",
+      "language_style": "regional",
+      "random_key": 1720683773,
+      "text": "Bật đèn phòng ngủ khách hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0078",
+      "language_style": "regional",
+      "random_key": 677054714,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng bếp hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0079",
+      "language_style": "regional",
+      "random_key": 2052850612,
+      "text": "Bật đèn hồ cá ở phòng ăn hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0080",
+      "language_style": "regional",
+      "random_key": 1102767382,
+      "text": "Tắt đèn hồ cá hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0081",
+      "language_style": "regional",
+      "random_key": 1958395982,
+      "text": "Bật đèn phòng chơi hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0082",
+      "language_style": "regional",
+      "random_key": 2008567409,
+      "text": "Bật quạt ban công ở phòng làm việc hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0083",
+      "language_style": "regional",
+      "random_key": 1459732707,
+      "text": "Bật quạt ban công ở phòng bếp hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0084",
+      "language_style": "regional",
+      "random_key": 982487799,
+      "text": "Bật điều hòa phòng kho ở phòng khách hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0085",
+      "language_style": "regional",
+      "random_key": 1734061778,
+      "text": "Bật quạt ban công ở phòng ăn hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0086",
+      "language_style": "regional",
+      "random_key": 928262946,
+      "text": "Bật máy lọc không khí phòng đọc ở phòng thờ hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0087",
+      "language_style": "regional",
+      "random_key": 488442480,
+      "text": "Bật quạt ban công ở phòng thờ hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0088",
+      "language_style": "regional",
+      "random_key": 875862163,
+      "text": "Bật đèn hồ cá ở phòng ngủ chính hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0089",
+      "language_style": "regional",
+      "random_key": 1927650810,
+      "text": "Bật đèn hồ cá ở phòng khách hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0090",
+      "language_style": "regional",
+      "random_key": 1683424484,
+      "text": "Tắt điều hòa phòng chơi giúp tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0091",
+      "language_style": "regional",
+      "random_key": 147634323,
+      "text": "Xem hộ tôi điều hòa phòng kho còn chạy không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0092",
+      "language_style": "regional",
+      "random_key": 625587769,
+      "text": "Bật đèn phòng giặt hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0093",
+      "language_style": "regional",
+      "random_key": 867221770,
+      "text": "Tắt điều hòa phòng giặt giúp tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0094",
+      "language_style": "regional",
+      "random_key": 46347805,
+      "text": "Bật đèn hồ cá ở phòng làm việc hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0095",
+      "language_style": "regional",
+      "random_key": 215182883,
+      "text": "Bật quạt ban công ở phòng ngủ chính hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0096",
+      "language_style": "regional",
+      "random_key": 103724111,
+      "text": "Bật đèn phòng tập hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0097",
+      "language_style": "regional",
+      "random_key": 594808236,
+      "text": "Bật hộ tôi cái đèn ấy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0098",
+      "language_style": "regional",
+      "random_key": 1774885470,
+      "text": "Bật quạt ban công ở phòng khách hộ tôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0099",
+      "language_style": "regional",
+      "random_key": 329399469,
+      "text": "Xem hộ tôi máy lọc không khí phòng đọc còn chạy không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_H_0100",
+      "language_style": "regional",
+      "random_key": 1056133712,
+      "text": "Bật điều hòa phòng kho ở phòng bếp hộ tôi."
+    }
+  ],
+  "shard": 1
+}
