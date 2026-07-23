@@ -1,0 +1,710 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.2",
+  "difficulty": "hard",
+  "region": "central",
+  "schema_version": 1,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0001",
+      "language_style": "standard",
+      "random_key": 1562215085,
+      "text": "Mở rèm tại phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0002",
+      "language_style": "standard",
+      "random_key": 1709010729,
+      "text": "Tắt điều hòa trong phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0003",
+      "language_style": "standard",
+      "random_key": 1451294998,
+      "text": "Đặt nhiệt độ ở phòng đọc sách thành 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0004",
+      "language_style": "standard",
+      "random_key": 1401331604,
+      "text": "Bật đèn hồ cá."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0005",
+      "language_style": "standard",
+      "random_key": 2054725341,
+      "text": "Kiểm tra robot hút bụi ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0006",
+      "language_style": "standard",
+      "random_key": 1180505015,
+      "text": "Bật robot hút bụi ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0007",
+      "language_style": "standard",
+      "random_key": 238382287,
+      "text": "Xem máy lọc không khí còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0008",
+      "language_style": "standard",
+      "random_key": 57217919,
+      "text": "Tắt đèn hồ cá trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0009",
+      "language_style": "standard",
+      "random_key": 1262817198,
+      "text": "Bật đèn ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0010",
+      "language_style": "standard",
+      "random_key": 1232067462,
+      "text": "Trong phòng đọc sách còn đèn nào đang bật?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0011",
+      "language_style": "standard",
+      "random_key": 16581215,
+      "text": "Kiểm tra máy tạo ẩm ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0012",
+      "language_style": "standard",
+      "random_key": 653918,
+      "text": "Đặt nhiệt độ ở phòng đọc sách thành 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0013",
+      "language_style": "standard",
+      "random_key": 683770909,
+      "text": "Kiểm tra máy tạo ẩm ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0014",
+      "language_style": "standard",
+      "random_key": 1359906773,
+      "text": "Bật đèn hồ cá trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0015",
+      "language_style": "standard",
+      "random_key": 705215603,
+      "text": "Tắt đèn hồ cá trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0016",
+      "language_style": "standard",
+      "random_key": 98848697,
+      "text": "Mở rèm tại phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0017",
+      "language_style": "standard",
+      "random_key": 1309249971,
+      "text": "Trong phòng ngủ khách còn đèn nào đang bật?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0018",
+      "language_style": "standard",
+      "random_key": 1273740515,
+      "text": "Đặt nhiệt độ ở phòng ngủ khách thành 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0019",
+      "language_style": "standard",
+      "random_key": 587515218,
+      "text": "Bật máy lọc không khí trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0020",
+      "language_style": "standard",
+      "random_key": 1950049541,
+      "text": "Tắt máy lọc không khí trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0021",
+      "language_style": "standard",
+      "random_key": 1804012562,
+      "text": "Chỉnh điều hòa ở phòng ngủ khách còn 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0022",
+      "language_style": "standard",
+      "random_key": 516401265,
+      "text": "Chỉnh điều hòa ở phòng tập còn 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0023",
+      "language_style": "standard",
+      "random_key": 675096005,
+      "text": "Bật máy tạo ẩm trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0024",
+      "language_style": "standard",
+      "random_key": 1444836750,
+      "text": "Bật máy lọc không khí ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0025",
+      "language_style": "standard",
+      "random_key": 377429482,
+      "text": "Chỉnh điều hòa ở phòng chơi còn 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0026",
+      "language_style": "standard",
+      "random_key": 1009974476,
+      "text": "Trong phòng giặt còn đèn nào đang bật?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0027",
+      "language_style": "standard",
+      "random_key": 1313540092,
+      "text": "Bật máy tạo ẩm ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0028",
+      "language_style": "standard",
+      "random_key": 856292601,
+      "text": "Tắt điều hòa trong phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0029",
+      "language_style": "standard",
+      "random_key": 841437873,
+      "text": "Chỉnh điều hòa ở phòng ngủ khách còn 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0030",
+      "language_style": "standard",
+      "random_key": 635372167,
+      "text": "Bật máy lọc không khí ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0031",
+      "language_style": "standard",
+      "random_key": 1438773907,
+      "text": "Chỉnh điều hòa ở phòng tập còn 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0032",
+      "language_style": "standard",
+      "random_key": 1087469376,
+      "text": "Bật đèn hồ cá ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0033",
+      "language_style": "standard",
+      "random_key": 838763750,
+      "text": "Tắt đèn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0034",
+      "language_style": "standard",
+      "random_key": 1819527815,
+      "text": "Tắt robot hút bụi trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0035",
+      "language_style": "standard",
+      "random_key": 123462072,
+      "text": "Bật quạt ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0036",
+      "language_style": "standard",
+      "random_key": 172062178,
+      "text": "Tắt điều hòa trong phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0037",
+      "language_style": "standard",
+      "random_key": 1135421878,
+      "text": "Đặt nhiệt độ ở phòng tập thành 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0038",
+      "language_style": "standard",
+      "random_key": 705173333,
+      "text": "Bật máy tạo ẩm ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0039",
+      "language_style": "standard",
+      "random_key": 2032405024,
+      "text": "Bật đèn hồ cá trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0040",
+      "language_style": "standard",
+      "random_key": 1329410346,
+      "text": "Chỉnh điều hòa ở phòng đọc sách còn 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0041",
+      "language_style": "standard",
+      "random_key": 1565662995,
+      "text": "Chỉnh điều hòa ở phòng giặt còn 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0042",
+      "language_style": "standard",
+      "random_key": 290353765,
+      "text": "Kiểm tra đèn hồ cá ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0043",
+      "language_style": "standard",
+      "random_key": 348730245,
+      "text": "Trong phòng chơi còn đèn nào đang bật?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0044",
+      "language_style": "standard",
+      "random_key": 489665042,
+      "text": "Tắt máy tạo ẩm trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0045",
+      "language_style": "standard",
+      "random_key": 1659812780,
+      "text": "Đặt nhiệt độ ở phòng đọc sách thành 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0046",
+      "language_style": "standard",
+      "random_key": 168038241,
+      "text": "Chỉnh điều hòa ở phòng đọc sách còn 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0047",
+      "language_style": "standard",
+      "random_key": 271753152,
+      "text": "Đặt nhiệt độ ở phòng ngủ khách thành 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0048",
+      "language_style": "standard",
+      "random_key": 1708133202,
+      "text": "Bật máy tạo ẩm trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0049",
+      "language_style": "standard",
+      "random_key": 1117587090,
+      "text": "Tắt đèn hồ cá trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0050",
+      "language_style": "standard",
+      "random_key": 2069217984,
+      "text": "Tắt robot hút bụi trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0051",
+      "language_style": "standard",
+      "random_key": 1170802482,
+      "text": "Chỉnh điều hòa ở phòng tập còn 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0052",
+      "language_style": "standard",
+      "random_key": 1562200437,
+      "text": "Bật robot hút bụi trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0053",
+      "language_style": "standard",
+      "random_key": 1082133168,
+      "text": "Chỉnh điều hòa ở phòng chơi còn 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0054",
+      "language_style": "standard",
+      "random_key": 373484689,
+      "text": "Bật đèn hồ cá ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0055",
+      "language_style": "standard",
+      "random_key": 636670751,
+      "text": "Đặt nhiệt độ ở phòng đọc sách thành 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0056",
+      "language_style": "standard",
+      "random_key": 1015103111,
+      "text": "Bật đèn hồ cá ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0057",
+      "language_style": "standard",
+      "random_key": 1549807232,
+      "text": "Chỉnh điều hòa ở phòng giặt còn 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0058",
+      "language_style": "standard",
+      "random_key": 2086931195,
+      "text": "Tắt máy tạo ẩm trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0059",
+      "language_style": "standard",
+      "random_key": 518600159,
+      "text": "Đặt nhiệt độ ở phòng chơi thành 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0060",
+      "language_style": "standard",
+      "random_key": 789261944,
+      "text": "Bật máy tạo ẩm trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0061",
+      "language_style": "standard",
+      "random_key": 1120106932,
+      "text": "Đặt nhiệt độ ở phòng đọc sách thành 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0062",
+      "language_style": "standard",
+      "random_key": 1550443130,
+      "text": "Chỉnh điều hòa ở phòng giặt còn 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0063",
+      "language_style": "standard",
+      "random_key": 227314679,
+      "text": "Chỉnh điều hòa ở phòng tập còn 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0064",
+      "language_style": "standard",
+      "random_key": 1961909524,
+      "text": "Đặt nhiệt độ ở phòng đọc sách thành 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0065",
+      "language_style": "standard",
+      "random_key": 976173125,
+      "text": "Bật robot hút bụi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0066",
+      "language_style": "standard",
+      "random_key": 1845546293,
+      "text": "Mở rèm tại phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0067",
+      "language_style": "standard",
+      "random_key": 864495884,
+      "text": "Bật robot hút bụi ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0068",
+      "language_style": "standard",
+      "random_key": 1212914155,
+      "text": "Chỉnh điều hòa ở phòng giặt còn 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0069",
+      "language_style": "standard",
+      "random_key": 718560796,
+      "text": "Kiểm tra máy tạo ẩm ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0070",
+      "language_style": "standard",
+      "random_key": 1574599626,
+      "text": "Bật đèn hồ cá ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0071",
+      "language_style": "regional",
+      "random_key": 1704093703,
+      "text": "Bật đèn hồ cá phòng ngủ chính lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0072",
+      "language_style": "regional",
+      "random_key": 1295762380,
+      "text": "Tắt robot hút bụi ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0073",
+      "language_style": "regional",
+      "random_key": 606197302,
+      "text": "Bật máy tạo ẩm phòng ăn lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0074",
+      "language_style": "regional",
+      "random_key": 1807960764,
+      "text": "Tắt robot hút bụi ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0075",
+      "language_style": "regional",
+      "random_key": 1235168610,
+      "text": "Tắt robot hút bụi ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0076",
+      "language_style": "regional",
+      "random_key": 417386972,
+      "text": "Tắt đèn hồ cá ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0077",
+      "language_style": "regional",
+      "random_key": 560463616,
+      "text": "Bật robot hút bụi phòng làm việc lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0078",
+      "language_style": "regional",
+      "random_key": 572352950,
+      "text": "Bật máy lọc không khí phòng ăn lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0079",
+      "language_style": "regional",
+      "random_key": 382514543,
+      "text": "Tắt robot hút bụi ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0080",
+      "language_style": "regional",
+      "random_key": 944421978,
+      "text": "Bật đèn hồ cá phòng bếp lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0081",
+      "language_style": "regional",
+      "random_key": 5347006,
+      "text": "Tắt đèn hồ cá ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0082",
+      "language_style": "regional",
+      "random_key": 53316841,
+      "text": "Bật máy tạo ẩm phòng ngủ nhỏ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0083",
+      "language_style": "regional",
+      "random_key": 1196078644,
+      "text": "Bật máy tạo ẩm phòng bếp lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0084",
+      "language_style": "regional",
+      "random_key": 741048046,
+      "text": "Bật máy lọc không khí phòng ngủ nhỏ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0085",
+      "language_style": "regional",
+      "random_key": 1368791240,
+      "text": "Bật robot hút bụi phòng ăn lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0086",
+      "language_style": "regional",
+      "random_key": 1259727076,
+      "text": "Bật đèn hồ cá phòng làm việc lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0087",
+      "language_style": "regional",
+      "random_key": 1716524760,
+      "text": "Bật đèn hồ cá phòng khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0088",
+      "language_style": "regional",
+      "random_key": 1246962459,
+      "text": "Bật đèn phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0089",
+      "language_style": "regional",
+      "random_key": 329964846,
+      "text": "Tắt máy lạnh phòng giặt giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0090",
+      "language_style": "regional",
+      "random_key": 1326086992,
+      "text": "Bật robot hút bụi phòng thờ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0091",
+      "language_style": "regional",
+      "random_key": 103271562,
+      "text": "Tắt máy tạo ẩm ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0092",
+      "language_style": "regional",
+      "random_key": 1871850362,
+      "text": "Bật máy tạo ẩm phòng thờ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0093",
+      "language_style": "regional",
+      "random_key": 282281557,
+      "text": "Bật máy lọc không khí phòng thờ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0094",
+      "language_style": "regional",
+      "random_key": 1234951105,
+      "text": "Bật robot hút bụi phòng ngủ chính lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0095",
+      "language_style": "regional",
+      "random_key": 381708467,
+      "text": "Bật máy lọc không khí phòng ngủ chính lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0096",
+      "language_style": "regional",
+      "random_key": 2050719151,
+      "text": "Tắt máy lạnh phòng chơi giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0097",
+      "language_style": "regional",
+      "random_key": 1897435546,
+      "text": "Tắt máy tạo ẩm ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0098",
+      "language_style": "regional",
+      "random_key": 269222724,
+      "text": "Tắt máy tạo ẩm ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0099",
+      "language_style": "regional",
+      "random_key": 1098853101,
+      "text": "Bật máy tạo ẩm phòng ngủ chính lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0100",
+      "language_style": "regional",
+      "random_key": 160723391,
+      "text": "Bật đèn phòng đọc sách."
+    }
+  ],
+  "shard": 1
+}

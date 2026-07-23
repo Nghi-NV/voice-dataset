@@ -1,0 +1,710 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.2",
+  "difficulty": "normal",
+  "region": "north",
+  "schema_version": 1,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0001",
+      "language_style": "standard",
+      "random_key": 569513657,
+      "text": "Tăng điều hòa phòng ngủ nhỏ lên 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0002",
+      "language_style": "standard",
+      "random_key": 477536484,
+      "text": "Chỉnh đèn bàn phòng ăn sáng 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0003",
+      "language_style": "standard",
+      "random_key": 584932969,
+      "text": "Để đèn trần phòng bếp sáng 80 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0004",
+      "language_style": "standard",
+      "random_key": 448811933,
+      "text": "Để đèn trần phòng khách sáng 30 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0005",
+      "language_style": "standard",
+      "random_key": 771619498,
+      "text": "Chỉnh rèm bên trái phòng thờ mở 60 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0006",
+      "language_style": "standard",
+      "random_key": 1716523052,
+      "text": "Cho đèn trần phòng khách sáng 20 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0007",
+      "language_style": "standard",
+      "random_key": 888983336,
+      "text": "Chỉnh rèm cửa phòng khách mở 30 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0008",
+      "language_style": "standard",
+      "random_key": 256658590,
+      "text": "Giảm máy lạnh phòng bếp còn 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0009",
+      "language_style": "standard",
+      "random_key": 1996696881,
+      "text": "Để đèn trần phòng ngủ chính sáng 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0010",
+      "language_style": "standard",
+      "random_key": 1032894017,
+      "text": "Cho đèn trần phòng ăn sáng 70 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0011",
+      "language_style": "standard",
+      "random_key": 1043621402,
+      "text": "Cho quạt đứng phòng ngủ nhỏ chạy mức 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0012",
+      "language_style": "standard",
+      "random_key": 708852963,
+      "text": "Cho quạt trần phòng làm việc chạy mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0013",
+      "language_style": "standard",
+      "random_key": 287589956,
+      "text": "Mở rèm cửa phòng thờ 60 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0014",
+      "language_style": "standard",
+      "random_key": 1022337945,
+      "text": "Đặt máy lạnh phòng ngủ chính ở 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0015",
+      "language_style": "standard",
+      "random_key": 748375779,
+      "text": "Chỉnh rèm bên trái phòng bếp mở 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0016",
+      "language_style": "standard",
+      "random_key": 289598260,
+      "text": "Cho đèn hắt trần phòng thờ sáng 30 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0017",
+      "language_style": "standard",
+      "random_key": 1777688616,
+      "text": "Mở rèm bên trái phòng ăn 45 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0018",
+      "language_style": "standard",
+      "random_key": 407799886,
+      "text": "Mở rèm bên phải phòng khách 75 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0019",
+      "language_style": "standard",
+      "random_key": 831214102,
+      "text": "Mở rèm cửa phòng khách 25 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0020",
+      "language_style": "standard",
+      "random_key": 973471907,
+      "text": "Để đèn hắt trần phòng bếp sáng 100 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0021",
+      "language_style": "standard",
+      "random_key": 296005586,
+      "text": "Tăng điều hòa phòng ngủ chính lên 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0022",
+      "language_style": "standard",
+      "random_key": 869360602,
+      "text": "Chỉnh rèm bên trái phòng ngủ chính mở 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0023",
+      "language_style": "standard",
+      "random_key": 913518143,
+      "text": "Cho đèn trần phòng thờ sáng 70 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0024",
+      "language_style": "standard",
+      "random_key": 85718041,
+      "text": "Chỉnh đèn trần phòng ngủ nhỏ sáng 100 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0025",
+      "language_style": "standard",
+      "random_key": 421635511,
+      "text": "Mở rèm cửa phòng thờ 25 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0026",
+      "language_style": "standard",
+      "random_key": 1399625702,
+      "text": "Mở rèm bên trái phòng ngủ nhỏ 25 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0027",
+      "language_style": "standard",
+      "random_key": 1995806088,
+      "text": "Chỉnh quạt trần phòng bếp lên mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0028",
+      "language_style": "standard",
+      "random_key": 402438465,
+      "text": "Cho đèn bàn phòng thờ sáng 70 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0029",
+      "language_style": "standard",
+      "random_key": 1654135343,
+      "text": "Đặt điều hòa phòng ngủ chính ở 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0030",
+      "language_style": "standard",
+      "random_key": 210999030,
+      "text": "Giảm máy lạnh phòng ngủ nhỏ còn 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0031",
+      "language_style": "standard",
+      "random_key": 165953331,
+      "text": "Để đèn bàn phòng làm việc sáng 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0032",
+      "language_style": "standard",
+      "random_key": 1320066061,
+      "text": "Để đèn hắt trần phòng thờ sáng 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0033",
+      "language_style": "standard",
+      "random_key": 1188432347,
+      "text": "Giảm điều hòa phòng làm việc còn 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0034",
+      "language_style": "standard",
+      "random_key": 1107339415,
+      "text": "Chỉnh đèn hắt trần phòng khách sáng 60 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0035",
+      "language_style": "standard",
+      "random_key": 534962217,
+      "text": "Chỉnh đèn hắt trần phòng làm việc sáng 70 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0036",
+      "language_style": "standard",
+      "random_key": 1952643680,
+      "text": "Chỉnh rèm cửa phòng khách mở 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0037",
+      "language_style": "standard",
+      "random_key": 16377109,
+      "text": "Giảm điều hòa phòng ngủ nhỏ còn 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0038",
+      "language_style": "standard",
+      "random_key": 886593938,
+      "text": "Chỉnh rèm bên trái phòng khách mở 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0039",
+      "language_style": "standard",
+      "random_key": 1605798769,
+      "text": "Đặt điều hòa phòng ăn ở 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0040",
+      "language_style": "standard",
+      "random_key": 715304876,
+      "text": "Chỉnh đèn bàn phòng thờ sáng 20 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0041",
+      "language_style": "standard",
+      "random_key": 1132702263,
+      "text": "Chỉnh rèm bên trái phòng ăn mở 75 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0042",
+      "language_style": "standard",
+      "random_key": 1596961178,
+      "text": "Mở rèm bên trái phòng ăn 30 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0043",
+      "language_style": "standard",
+      "random_key": 161418816,
+      "text": "Tăng điều hòa phòng thờ lên 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0044",
+      "language_style": "standard",
+      "random_key": 197727967,
+      "text": "Để đèn bàn phòng bếp sáng 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0045",
+      "language_style": "standard",
+      "random_key": 1887241262,
+      "text": "Chỉnh rèm bên trái phòng khách mở 25 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0046",
+      "language_style": "standard",
+      "random_key": 114509450,
+      "text": "Mở rèm cửa phòng ăn 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0047",
+      "language_style": "standard",
+      "random_key": 878845492,
+      "text": "Chỉnh đèn trần phòng khách sáng 80 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0048",
+      "language_style": "standard",
+      "random_key": 1430881881,
+      "text": "Đèn trần phòng thờ đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0049",
+      "language_style": "standard",
+      "random_key": 1027823798,
+      "text": "Cho quạt đứng phòng ngủ chính chạy mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0050",
+      "language_style": "standard",
+      "random_key": 269951445,
+      "text": "Chỉnh đèn bàn phòng bếp sáng 60 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0051",
+      "language_style": "standard",
+      "random_key": 1198630214,
+      "text": "Cho quạt trần phòng ăn chạy mức 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0052",
+      "language_style": "standard",
+      "random_key": 1988743385,
+      "text": "Chỉnh quạt trần phòng ăn lên mức 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0053",
+      "language_style": "standard",
+      "random_key": 1407362412,
+      "text": "Chỉnh rèm cửa phòng khách mở 60 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0054",
+      "language_style": "standard",
+      "random_key": 1800434265,
+      "text": "Mở rèm bên phải phòng ngủ nhỏ 25 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0055",
+      "language_style": "standard",
+      "random_key": 2137519917,
+      "text": "Mở rèm bên trái phòng khách 30 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0056",
+      "language_style": "standard",
+      "random_key": 552445751,
+      "text": "Tăng máy lạnh phòng khách lên 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0057",
+      "language_style": "standard",
+      "random_key": 1161691928,
+      "text": "Để đèn bàn phòng ngủ nhỏ sáng 30 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0058",
+      "language_style": "standard",
+      "random_key": 489365375,
+      "text": "Cho đèn trần phòng bếp sáng 20 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0059",
+      "language_style": "standard",
+      "random_key": 808593459,
+      "text": "Đặt điều hòa phòng ngủ chính ở 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0060",
+      "language_style": "standard",
+      "random_key": 576287495,
+      "text": "Đặt điều hòa phòng làm việc ở 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0061",
+      "language_style": "standard",
+      "random_key": 1595118392,
+      "text": "Mở rèm cửa phòng bếp 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0062",
+      "language_style": "standard",
+      "random_key": 1767442809,
+      "text": "Cho quạt trần phòng bếp chạy mức 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0063",
+      "language_style": "standard",
+      "random_key": 1549506499,
+      "text": "Giảm điều hòa phòng ngủ nhỏ còn 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0064",
+      "language_style": "standard",
+      "random_key": 1030609863,
+      "text": "Chỉnh rèm bên phải phòng làm việc mở 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0065",
+      "language_style": "standard",
+      "random_key": 1046789098,
+      "text": "Tăng điều hòa phòng ngủ chính lên 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0066",
+      "language_style": "standard",
+      "random_key": 604027795,
+      "text": "Để đèn hắt trần phòng ngủ chính sáng 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0067",
+      "language_style": "standard",
+      "random_key": 165189865,
+      "text": "Chỉnh điều hòa phòng thờ xuống 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0068",
+      "language_style": "standard",
+      "random_key": 159101175,
+      "text": "Chỉnh rèm bên phải phòng làm việc mở 75 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0069",
+      "language_style": "standard",
+      "random_key": 989394102,
+      "text": "Tăng máy lạnh phòng ngủ chính lên 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0070",
+      "language_style": "standard",
+      "random_key": 1467353264,
+      "text": "Đặt máy lạnh phòng ngủ nhỏ ở 25 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0071",
+      "language_style": "regional",
+      "random_key": 1578025389,
+      "text": "Chỉnh điều hòa phòng thờ còn 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0072",
+      "language_style": "regional",
+      "random_key": 365871209,
+      "text": "Xem hộ điều hòa phòng ăn còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0073",
+      "language_style": "regional",
+      "random_key": 1190877509,
+      "text": "Cho đèn trần phòng khách sáng 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0074",
+      "language_style": "regional",
+      "random_key": 1510335766,
+      "text": "Xem hộ điều hòa phòng ngủ chính còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0075",
+      "language_style": "regional",
+      "random_key": 556794106,
+      "text": "Chỉnh điều hòa phòng ăn còn 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0076",
+      "language_style": "regional",
+      "random_key": 766091591,
+      "text": "Mở rèm phòng làm việc 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0077",
+      "language_style": "regional",
+      "random_key": 499738791,
+      "text": "Cho đèn bàn phòng ngủ chính sáng 80 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0078",
+      "language_style": "regional",
+      "random_key": 764400348,
+      "text": "Cho đèn bàn phòng ăn sáng 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0079",
+      "language_style": "regional",
+      "random_key": 1688339330,
+      "text": "Xem hộ điều hòa phòng làm việc còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0080",
+      "language_style": "regional",
+      "random_key": 1805622683,
+      "text": "Cho đèn trần phòng ăn sáng 20 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0081",
+      "language_style": "regional",
+      "random_key": 1542113993,
+      "text": "Cho đèn hắt trần phòng bếp sáng 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0082",
+      "language_style": "regional",
+      "random_key": 1441606318,
+      "text": "Xem hộ đèn ngủ phòng khách còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0083",
+      "language_style": "regional",
+      "random_key": 1625373624,
+      "text": "Cho quạt trần phòng ngủ chính chạy mức 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0084",
+      "language_style": "regional",
+      "random_key": 62152116,
+      "text": "Cho đèn bàn phòng ngủ nhỏ sáng 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0085",
+      "language_style": "regional",
+      "random_key": 1960360375,
+      "text": "Xem hộ đèn ngủ phòng bếp còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0086",
+      "language_style": "regional",
+      "random_key": 271098400,
+      "text": "Cho đèn trần phòng ngủ nhỏ sáng 20 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0087",
+      "language_style": "regional",
+      "random_key": 1068050049,
+      "text": "Cho đèn hắt trần phòng ngủ chính sáng 20 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0088",
+      "language_style": "regional",
+      "random_key": 1614263963,
+      "text": "Xem hộ quạt trần phòng khách còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0089",
+      "language_style": "regional",
+      "random_key": 1548659373,
+      "text": "Cho quạt đứng phòng khách chạy mức 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0090",
+      "language_style": "regional",
+      "random_key": 1157790471,
+      "text": "Mở rèm phòng thờ 40 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0091",
+      "language_style": "regional",
+      "random_key": 768451324,
+      "text": "Cho đèn trần phòng làm việc sáng 70 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0092",
+      "language_style": "regional",
+      "random_key": 1811958384,
+      "text": "Cho đèn hắt trần phòng ăn sáng 70 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0093",
+      "language_style": "regional",
+      "random_key": 1712460607,
+      "text": "Cho quạt đứng phòng khách chạy mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0094",
+      "language_style": "regional",
+      "random_key": 1900141813,
+      "text": "Cho đèn bàn phòng khách sáng 80 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0095",
+      "language_style": "regional",
+      "random_key": 1921753511,
+      "text": "Cho đèn bàn phòng ngủ chính sáng 100 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0096",
+      "language_style": "regional",
+      "random_key": 45793473,
+      "text": "Xem hộ đèn trần phòng ngủ chính còn bật không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0097",
+      "language_style": "regional",
+      "random_key": 1579593167,
+      "text": "Cho đèn bàn phòng làm việc sáng 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0098",
+      "language_style": "regional",
+      "random_key": 300408015,
+      "text": "Mở rèm phòng ngủ chính 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0099",
+      "language_style": "regional",
+      "random_key": 1812714990,
+      "text": "Cho đèn trần phòng ngủ chính sáng 50 phần trăm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0100",
+      "language_style": "regional",
+      "random_key": 1721078994,
+      "text": "Mở rèm phòng bếp 25 phần trăm."
+    }
+  ],
+  "shard": 1
+}
