@@ -1,0 +1,1010 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.3",
+  "difficulty": "hard",
+  "region": "central",
+  "schema_version": 2,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0001",
+      "language_style": "standard",
+      "random_key": 1562215085,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 50% trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0002",
+      "language_style": "standard",
+      "random_key": 1709010729,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 60% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0003",
+      "language_style": "standard",
+      "random_key": 1451294998,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 60% ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0004",
+      "language_style": "standard",
+      "random_key": 1401331604,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 50% trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0005",
+      "language_style": "standard",
+      "random_key": 2054725341,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 50% trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0006",
+      "language_style": "standard",
+      "random_key": 1180505015,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 40% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0007",
+      "language_style": "standard",
+      "random_key": 238382287,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 80% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0008",
+      "language_style": "standard",
+      "random_key": 57217919,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 60% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0009",
+      "language_style": "standard",
+      "random_key": 1262817198,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 70% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0010",
+      "language_style": "standard",
+      "random_key": 1232067462,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 30% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0011",
+      "language_style": "standard",
+      "random_key": 16581215,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 80% trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0012",
+      "language_style": "standard",
+      "random_key": 653918,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 30% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0013",
+      "language_style": "standard",
+      "random_key": 683770909,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 80% trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0014",
+      "language_style": "standard",
+      "random_key": 1359906773,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 70% trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0015",
+      "language_style": "standard",
+      "random_key": 705215603,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 80% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0016",
+      "language_style": "standard",
+      "random_key": 98848697,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 20% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0017",
+      "language_style": "standard",
+      "random_key": 1309249971,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 40% trong phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0018",
+      "language_style": "standard",
+      "random_key": 1273740515,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 100% trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0019",
+      "language_style": "standard",
+      "random_key": 587515218,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 100% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0020",
+      "language_style": "standard",
+      "random_key": 1950049541,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 40% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0021",
+      "language_style": "standard",
+      "random_key": 1804012562,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 60% ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0022",
+      "language_style": "standard",
+      "random_key": 516401265,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 20% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0023",
+      "language_style": "standard",
+      "random_key": 675096005,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 100% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0024",
+      "language_style": "standard",
+      "random_key": 1444836750,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 30% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0025",
+      "language_style": "standard",
+      "random_key": 377429482,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 70% trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0026",
+      "language_style": "standard",
+      "random_key": 1009974476,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 70% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0027",
+      "language_style": "standard",
+      "random_key": 1313540092,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 80% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0028",
+      "language_style": "standard",
+      "random_key": 856292601,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 70% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0029",
+      "language_style": "standard",
+      "random_key": 841437873,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 60% ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0030",
+      "language_style": "standard",
+      "random_key": 635372167,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 30% trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0031",
+      "language_style": "standard",
+      "random_key": 1438773907,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 70% ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0032",
+      "language_style": "standard",
+      "random_key": 1087469376,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 50% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0033",
+      "language_style": "standard",
+      "random_key": 838763750,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 60% trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0034",
+      "language_style": "standard",
+      "random_key": 1819527815,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 60% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0035",
+      "language_style": "standard",
+      "random_key": 123462072,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 60% trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0036",
+      "language_style": "standard",
+      "random_key": 172062178,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 80% ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0037",
+      "language_style": "standard",
+      "random_key": 1135421878,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 30% trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0038",
+      "language_style": "standard",
+      "random_key": 705173333,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 80% trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0039",
+      "language_style": "standard",
+      "random_key": 2032405024,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 100% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0040",
+      "language_style": "standard",
+      "random_key": 1329410346,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 50% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0041",
+      "language_style": "standard",
+      "random_key": 1565662995,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 60% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0042",
+      "language_style": "standard",
+      "random_key": 290353765,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 20% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0043",
+      "language_style": "standard",
+      "random_key": 348730245,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 40% trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0044",
+      "language_style": "standard",
+      "random_key": 489665042,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 20% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0045",
+      "language_style": "standard",
+      "random_key": 1659812780,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 30% trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0046",
+      "language_style": "standard",
+      "random_key": 168038241,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 70% ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0047",
+      "language_style": "standard",
+      "random_key": 271753152,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 50% trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0048",
+      "language_style": "standard",
+      "random_key": 1708133202,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 70% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0049",
+      "language_style": "standard",
+      "random_key": 1117587090,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 20% ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0050",
+      "language_style": "standard",
+      "random_key": 2069217984,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 100% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0051",
+      "language_style": "standard",
+      "random_key": 1170802482,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 60% trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0052",
+      "language_style": "standard",
+      "random_key": 1562200437,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 60% trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0053",
+      "language_style": "standard",
+      "random_key": 1082133168,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 20% trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0054",
+      "language_style": "standard",
+      "random_key": 373484689,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 80% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0055",
+      "language_style": "standard",
+      "random_key": 636670751,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 100% trong phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0056",
+      "language_style": "standard",
+      "random_key": 1015103111,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 50% ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0057",
+      "language_style": "standard",
+      "random_key": 1549807232,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 60% trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0058",
+      "language_style": "standard",
+      "random_key": 2086931195,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 50% trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0059",
+      "language_style": "standard",
+      "random_key": 518600159,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó về 60% trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0060",
+      "language_style": "standard",
+      "random_key": 789261944,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 40% trong phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0061",
+      "language_style": "standard",
+      "random_key": 1120106932,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 50% trong phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0062",
+      "language_style": "standard",
+      "random_key": 1550443130,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 100% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0063",
+      "language_style": "standard",
+      "random_key": 227314679,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 30% trong phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0064",
+      "language_style": "standard",
+      "random_key": 1961909524,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 70% ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0065",
+      "language_style": "standard",
+      "random_key": 976173125,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để nó ở 100% trong phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0066",
+      "language_style": "standard",
+      "random_key": 1845546293,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 30% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0067",
+      "language_style": "standard",
+      "random_key": 864495884,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 20% ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0068",
+      "language_style": "standard",
+      "random_key": 1212914155,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 40% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0069",
+      "language_style": "standard",
+      "random_key": 718560796,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 20% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0070",
+      "language_style": "standard",
+      "random_key": 1574599626,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở 50% trong phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0071",
+      "language_style": "regional",
+      "random_key": 1704093703,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 50% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0072",
+      "language_style": "regional",
+      "random_key": 1295762380,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 100% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0073",
+      "language_style": "regional",
+      "random_key": 606197302,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Giảm cái đó trong phòng thờ giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0074",
+      "language_style": "regional",
+      "random_key": 1807960764,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 40% ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0075",
+      "language_style": "regional",
+      "random_key": 1235168610,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 30% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0076",
+      "language_style": "regional",
+      "random_key": 417386972,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 50% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0077",
+      "language_style": "regional",
+      "random_key": 560463616,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Giảm cái đó trong phòng bếp giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0078",
+      "language_style": "regional",
+      "random_key": 572352950,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Giảm cái đó trong phòng ngủ nhỏ giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0079",
+      "language_style": "regional",
+      "random_key": 382514543,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 30% ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0080",
+      "language_style": "regional",
+      "random_key": 944421978,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 60% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0081",
+      "language_style": "regional",
+      "random_key": 5347006,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 80% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0082",
+      "language_style": "regional",
+      "random_key": 53316841,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 60% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0083",
+      "language_style": "regional",
+      "random_key": 1196078644,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 100% ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0084",
+      "language_style": "regional",
+      "random_key": 741048046,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 100% ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0085",
+      "language_style": "regional",
+      "random_key": 1368791240,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 60% ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0086",
+      "language_style": "regional",
+      "random_key": 1259727076,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 70% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0087",
+      "language_style": "regional",
+      "random_key": 1716524760,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 100% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0088",
+      "language_style": "regional",
+      "random_key": 1246962459,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 30% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0089",
+      "language_style": "regional",
+      "random_key": 329964846,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 50% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0090",
+      "language_style": "regional",
+      "random_key": 1326086992,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 80% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0091",
+      "language_style": "regional",
+      "random_key": 103271562,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 20% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0092",
+      "language_style": "regional",
+      "random_key": 1871850362,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 70% ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0093",
+      "language_style": "regional",
+      "random_key": 282281557,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Giảm cái đó trong phòng khách giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0094",
+      "language_style": "regional",
+      "random_key": 1234951105,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 70% ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0095",
+      "language_style": "regional",
+      "random_key": 381708467,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 40% ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0096",
+      "language_style": "regional",
+      "random_key": 2050719151,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 40% ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0097",
+      "language_style": "regional",
+      "random_key": 1897435546,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 50% ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0098",
+      "language_style": "regional",
+      "random_key": 269222724,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 80% ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0099",
+      "language_style": "regional",
+      "random_key": 1098853101,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tăng cái đó lên 50% ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0100",
+      "language_style": "regional",
+      "random_key": 160723391,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó còn 40% ở phòng khách."
+    }
+  ],
+  "shard": 1
+}
