@@ -1,7 +1,7 @@
 {
   "dataset_id": "lumi-voice-vi",
-  "latest_version": "2026.07.4",
-  "manifest_path": "versions/2026.07.4/manifest.json",
-  "published_at": "2026-07-24T01:26:26Z",
+  "latest_version": "2026.07.5",
+  "manifest_path": "versions/2026.07.5/manifest.json",
+  "published_at": "2026-07-24T08:00:00Z",
   "schema_version": 2
 }
