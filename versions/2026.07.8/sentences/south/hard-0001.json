@@ -43,7 +43,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Rèm Voan ở Phòng Giải Trí.\nĐóng nó lại một nửa."
+      "text": "Mở Rèm Voan ở Phòng Giải Trí.\nĐóng nó lại một nửa."
     },
     {
       "enabled": true,
@@ -73,7 +73,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Cửa cuốn ở Sân Trước.\nCho cái đó mở 30% thôi."
+      "text": "Mở Cửa cuốn ở Sân Trước.\nCho cái đó mở 30% thôi."
     },
     {
       "enabled": true,
@@ -83,7 +83,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật giúp mình Quạt Trần ở Phòng Khách.\nTắt nó đi."
+      "text": "Bật Quạt Trần ở Phòng Khách.\nTắt nó đi."
     },
     {
       "enabled": true,
@@ -133,7 +133,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Cho Rèm voan nhỏ ở Phòng Master mở ra.\nCho cái đó mở 40% thôi giùm mình."
+      "text": "Cho Rèm voan nhỏ ở Phòng Master mở ra.\nCho cái đó mở 40% thôi."
     },
     {
       "enabled": true,
@@ -153,7 +153,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Cửa cuốn ở TẦNG 1.\nCho cái đó mở 60% thôi."
+      "text": "Mở Cửa cuốn ở TẦNG 1.\nCho cái đó mở 60% thôi."
     },
     {
       "enabled": true,
@@ -183,7 +183,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Cửa cuốn ở PHÒNG KHÁCH.\nKéo cái vừa mở lại giúp mình nha."
+      "text": "Mở Cửa cuốn ở PHÒNG KHÁCH.\nKéo cái vừa mở lại nha."
     },
     {
       "enabled": true,
@@ -193,7 +193,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Rèm vải ở Phòng Khách.\nĐóng nó lại một nửa."
+      "text": "Mở Rèm vải ở Phòng Khách.\nĐóng nó lại một nửa."
     },
     {
       "enabled": true,
@@ -203,7 +203,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Rèm voan ở PHÒNG NGỦ KHÁCH 2.\nĐóng nó lại một nửa."
+      "text": "Mở Rèm voan ở PHÒNG NGỦ KHÁCH 2.\nĐóng nó lại một nửa."
     },
     {
       "enabled": true,
@@ -233,7 +233,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở Cửa cuốn ở Sân Trước.\nĐóng nó lại một nửa giúp mình với."
+      "text": "Mở Cửa cuốn ở Sân Trước.\nĐóng nó lại một nửa."
     },
     {
       "enabled": true,
@@ -253,7 +253,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật giúp mình RGB PHÒNG KHÁCH.\nGiảm nó xuống còn 50% giùm mình."
+      "text": "Bật RGB PHÒNG KHÁCH.\nGiảm nó xuống còn 50%."
     },
     {
       "enabled": true,
@@ -273,7 +273,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật giúp mình ĐÈN THẢ ở PHÒNG KHÁCH.\nTắt nó đi."
+      "text": "Bật ĐÈN THẢ ở PHÒNG KHÁCH.\nTắt nó đi."
     },
     {
       "enabled": true,
@@ -283,7 +283,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Tắt Đèn trần ở Phòng Ngủ Sau.\nBật lại cái vừa tắt giùm mình."
+      "text": "Tắt Đèn trần ở Phòng Ngủ Sau.\nBật lại cái vừa tắt."
     },
     {
       "enabled": true,
@@ -343,7 +343,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở Downlight 2 ở Phòng bếp lên.\nTắt nó đi giùm mình."
+      "text": "Mở Downlight 2 ở Phòng bếp lên.\nTắt nó đi."
     },
     {
       "enabled": true,
@@ -353,7 +353,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở Đèn ray ở Phòng Ngủ lên.\nTắt nó đi giúp mình với."
+      "text": "Mở Đèn ray ở Phòng Ngủ lên.\nTắt nó đi."
     },
     {
       "enabled": true,
@@ -383,7 +383,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở Cửa cuốn ở Phòng khách.\nĐóng nó lại một nửa giúp mình với."
+      "text": "Mở Cửa cuốn ở Phòng khách.\nĐóng nó lại một nửa."
     },
     {
       "enabled": true,
@@ -393,7 +393,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật giúp mình TV Màu ở Phòng khách.\nTắt nó đi nha."
+      "text": "Bật TV Màu ở Phòng khách.\nTắt nó đi nha."
     },
     {
       "enabled": true,
@@ -403,7 +403,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật giúp mình Hắt Trần ở Phòng Khách.\nTắt nó đi giùm mình."
+      "text": "Bật Hắt Trần ở Phòng Khách.\nTắt nó đi."
     },
     {
       "enabled": true,
@@ -443,7 +443,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật Đèn hắt trần ở Phòng Master 1.\nDừng thiết bị đó lại giúp mình với."
+      "text": "Bật Đèn hắt trần ở Phòng Master 1.\nDừng thiết bị đó lại."
     },
     {
       "enabled": true,
@@ -453,7 +453,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật giúp mình Đèn Trần 2 ở PHÒNG ÔNG BÀ.\nTắt nó đi."
+      "text": "Bật Đèn Trần 2 ở PHÒNG ÔNG BÀ.\nTắt nó đi."
     },
     {
       "enabled": true,
@@ -473,7 +473,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Rèm Mỏng ở Phòng Master.\nKéo cái vừa mở lại giúp mình."
+      "text": "Mở Rèm Mỏng ở Phòng Master.\nKéo cái vừa mở lại."
     },
     {
       "enabled": true,
@@ -503,7 +503,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Tắt Máy lạnh ở Phòng Ngủ Trước.\nBật lại cái vừa tắt giúp mình với."
+      "text": "Tắt Máy lạnh ở Phòng Ngủ Trước.\nBật lại cái vừa tắt."
     },
     {
       "enabled": true,
@@ -603,7 +603,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Kéo Rèm dầy ban công ra.\nKéo cái vừa mở lại giúp mình nha."
+      "text": "Kéo Rèm dầy ban công ra.\nKéo cái vừa mở lại nha."
     },
     {
       "enabled": true,
@@ -613,7 +613,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Tắt Đèn lon ở Sảnh Thang đi.\nBật lại thiết bị đó giùm mình."
+      "text": "Tắt Đèn lon ở Sảnh Thang đi.\nBật lại thiết bị đó."
     },
     {
       "enabled": true,
@@ -643,7 +643,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở Rèm mỏng ở Phòng khách.\nKéo cái vừa mở lại giúp mình."
+      "text": "Mở Rèm mỏng ở Phòng khách.\nKéo cái vừa mở lại."
     },
     {
       "enabled": true,
@@ -653,7 +653,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Bật Quạt hút ở Phòng vệ sinh chung.\nTắt cái vừa bật giúp mình với."
+      "text": "Bật Quạt hút ở Phòng vệ sinh chung.\nTắt cái vừa bật."
     },
     {
       "enabled": true,
@@ -663,7 +663,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Kéo Rèm voan ở Phòng Thờ ra.\nKéo cái vừa mở lại giúp mình."
+      "text": "Kéo Rèm voan ở Phòng Thờ ra.\nKéo cái vừa mở lại."
     },
     {
       "enabled": true,
@@ -733,7 +733,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Mở giúp mình Rèm Trong ở Phòng Ba Mẹ.\nKéo cái vừa mở lại giúp mình."
+      "text": "Mở Rèm Trong ở Phòng Ba Mẹ.\nKéo cái vừa mở lại."
     },
     {
       "enabled": true,
@@ -743,7 +743,7 @@
       "recording_mode": "conversation",
       "region_scope": "south",
       "task_shape": "context_dependent",
-      "text": "Kéo Rèm voan ở Phòng Ngủ 2 ra.\nKéo cái vừa mở lại giúp mình."
+      "text": "Kéo Rèm voan ở Phòng Ngủ 2 ra.\nKéo cái vừa mở lại."
     },
     {
       "enabled": true,
@@ -763,7 +763,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn xuống 40% giùm mình."
+      "text": "Giảm đèn xuống 40%."
     },
     {
       "enabled": true,
@@ -773,7 +773,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Bật máy lạnh bên trái giúp mình với."
+      "text": "Bật máy lạnh bên trái."
     },
     {
       "enabled": true,
@@ -793,7 +793,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tắt cái đèn phía ngoài ở Phòng khách giùm mình."
+      "text": "Tắt cái đèn phía ngoài ở Phòng khách."
     },
     {
       "enabled": true,
@@ -803,7 +803,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Giảm máy lạnh xuống 60% giúp mình với."
+      "text": "Giảm máy lạnh xuống 60%."
     },
     {
       "enabled": true,
@@ -913,7 +913,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để rèm ở mức 40% giùm mình."
+      "text": "Để rèm ở mức 40%."
     },
     {
       "enabled": true,
@@ -953,7 +953,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Bật đèn ở Phòng sinh hoạt chung giúp mình với."
+      "text": "Bật đèn ở Phòng sinh hoạt chung."
     },
     {
       "enabled": true,
@@ -1033,7 +1033,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Giảm máy lạnh xuống 30% giùm mình."
+      "text": "Giảm máy lạnh xuống 30%."
     },
     {
       "enabled": true,
@@ -1063,7 +1063,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để máy lạnh ở mức 70% giùm mình."
+      "text": "Để máy lạnh ở mức 70%."
     },
     {
       "enabled": true,
@@ -1193,7 +1193,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Bật đèn bên trái giúp mình với."
+      "text": "Bật đèn bên trái."
     },
     {
       "enabled": true,
@@ -1243,7 +1243,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tắt cái thiết bị phía ngoài ở Phòng Thờ giùm mình."
+      "text": "Tắt cái thiết bị phía ngoài ở Phòng Thờ."
     },
     {
       "enabled": true,
@@ -1283,7 +1283,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Mở đèn bên trái ở Phòng SUE giúp mình với."
+      "text": "Mở đèn bên trái ở Phòng SUE."
     },
     {
       "enabled": true,
@@ -1333,7 +1333,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Giảm máy lạnh xuống 50% giùm mình."
+      "text": "Giảm máy lạnh xuống 50%."
     },
     {
       "enabled": true,
@@ -1363,7 +1363,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Cho thiết bị chạy mức 40 giùm mình."
+      "text": "Cho thiết bị chạy mức 40."
     },
     {
       "enabled": true,
@@ -1403,7 +1403,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tắt thiết bị giúp mình với."
+      "text": "Tắt thiết bị."
     },
     {
       "enabled": true,
@@ -1493,7 +1493,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật Đèn ngủ ở sân thượng giúp mình với."
+      "text": "Bật Đèn ngủ ở sân thượng."
     },
     {
       "enabled": true,
@@ -1543,7 +1543,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Mở Rèm vải ở phòng giặt giùm mình."
+      "text": "Mở Rèm vải ở phòng giặt."
     },
     {
       "enabled": true,
@@ -1663,7 +1663,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Mở Rèm dày ở phòng đọc sách giùm mình."
+      "text": "Mở Rèm dày ở phòng đọc sách."
     },
     {
       "enabled": true,
@@ -1673,7 +1673,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật đèn phòng chơi giúp mình với."
+      "text": "Bật đèn phòng chơi."
     },
     {
       "enabled": true,
@@ -1703,7 +1703,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Mở rèm phòng tập giúp mình với."
+      "text": "Mở rèm phòng tập."
     },
     {
       "enabled": true,
@@ -1723,7 +1723,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật Đèn Trần 1 ở phòng giặt giùm mình."
+      "text": "Bật Đèn Trần 1 ở phòng giặt."
     },
     {
       "enabled": true,
@@ -1733,7 +1733,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật Bơm thác nước ở sân thượng giúp mình với."
+      "text": "Bật Bơm thác nước ở sân thượng."
     },
     {
       "enabled": true,
@@ -1763,7 +1763,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật thiết bị phòng tập giúp mình với."
+      "text": "Bật thiết bị phòng tập."
     },
     {
       "enabled": true,
@@ -1793,7 +1793,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật Tivi ở phòng ngủ khách giúp mình với."
+      "text": "Bật Tivi ở phòng ngủ khách."
     },
     {
       "enabled": true,
@@ -1843,7 +1843,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Mở Rèm voan ở sân thượng giùm mình."
+      "text": "Mở Rèm voan ở sân thượng."
     },
     {
       "enabled": true,
@@ -1883,7 +1883,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật đèn phòng ngủ khách giúp mình với."
+      "text": "Bật đèn phòng ngủ khách."
     },
     {
       "enabled": true,
@@ -1913,7 +1913,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Mở rèm phòng giặt giúp mình với."
+      "text": "Mở rèm phòng giặt."
     },
     {
       "enabled": true,
@@ -1943,7 +1943,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật đèn sân thượng giúp mình với."
+      "text": "Bật đèn sân thượng."
     },
     {
       "enabled": true,
@@ -2003,7 +2003,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật tivi phòng ngủ khách giúp mình với."
+      "text": "Bật tivi phòng ngủ khách."
     },
     {
       "enabled": true,
@@ -2023,7 +2023,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "not_existing_device",
-      "text": "Bật Đèn Tranh ở sân thượng giùm mình."
+      "text": "Bật Đèn Tranh ở sân thượng."
     },
     {
       "enabled": true,
@@ -2073,7 +2073,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Bỏ lệnh vừa rồi, tắt Đèn Tủ ở Phòng Trước giúp mình."
+      "text": "Bỏ lệnh vừa rồi, tắt Đèn Tủ ở Phòng Trước."
     },
     {
       "enabled": true,
@@ -2083,7 +2083,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Đừng bật cửa cuốn ở gara, tắt Đèn cổng ở gara thôi giùm mình."
+      "text": "Đừng bật cửa cuốn ở gara, tắt Đèn cổng ở gara thôi."
     },
     {
       "enabled": true,
@@ -2093,7 +2093,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Bỏ lệnh vừa rồi, tắt Đèn Trần phòng vệ sinh giúp mình."
+      "text": "Bỏ lệnh vừa rồi, tắt Đèn Trần phòng vệ sinh."
     },
     {
       "enabled": true,
@@ -2113,7 +2113,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Không mở Đèn trần ở Quầy Rượu nữa, chuyển sang Đèn hành lang giùm mình."
+      "text": "Không mở Đèn trần ở Quầy Rượu nữa, chuyển sang Đèn hành lang."
     },
     {
       "enabled": true,
@@ -2143,7 +2143,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Bỏ lệnh vừa rồi, tắt Nguồn máy lạnh ở Phòng Quỳnh Hương giúp mình."
+      "text": "Bỏ lệnh vừa rồi, tắt Nguồn máy lạnh ở Phòng Quỳnh Hương."
     },
     {
       "enabled": true,
@@ -2153,7 +2153,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Bỏ lệnh vừa rồi, tắt Quạt hút ở Phòng Con Trai giúp mình nhé."
+      "text": "Bỏ lệnh vừa rồi, tắt Quạt hút ở Phòng Con Trai."
     },
     {
       "enabled": true,
@@ -2163,7 +2163,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Bỏ lệnh vừa rồi, tắt Đèn Trần 1 ở Phòng Khách giúp mình nha."
+      "text": "Bỏ lệnh vừa rồi, tắt Đèn Trần 1 ở Phòng Khách nha."
     },
     {
       "enabled": true,
@@ -2243,7 +2243,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Đừng bật Đèn tường ở Gara, tắt Đèn ngủ ở Phòng Ngủ Sau thôi giúp mình với."
+      "text": "Đừng bật Đèn tường ở Gara, tắt Đèn ngủ ở Phòng Ngủ Sau thôi."
     },
     {
       "enabled": true,
@@ -2293,7 +2293,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "negative_or_correction",
-      "text": "Đừng bật ĐÈN HÀNH LANG, tắt CỬA CUỐN ở PHÒNG KHÁCH thôi giùm mình."
+      "text": "Đừng bật ĐÈN HÀNH LANG, tắt CỬA CUỐN ở PHÒNG KHÁCH thôi."
     },
     {
       "enabled": true,
@@ -2333,7 +2333,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Đóng Rèm vải ở PHÒNG BÉ GÁI bớt lại giúp mình với."
+      "text": "Đóng Rèm vải ở PHÒNG BÉ GÁI bớt lại."
     },
     {
       "enabled": true,
@@ -2393,7 +2393,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Cho Đèn Chùm ở Phòng khách sáng hơn giúp mình với."
+      "text": "Cho Đèn Chùm ở Phòng khách sáng hơn."
     },
     {
       "enabled": true,
@@ -2423,7 +2423,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Kéo Rèm cuốn ở Phòng Ngủ lại bớt đi giúp mình với."
+      "text": "Kéo Rèm cuốn ở Phòng Ngủ lại bớt đi."
     },
     {
       "enabled": true,
@@ -2443,7 +2443,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Cho Ổ Cắm TiVi ở Phòng Khách chạy mạnh hơn giùm mình."
+      "text": "Cho Ổ Cắm TiVi ở Phòng Khách chạy mạnh hơn."
     },
     {
       "enabled": true,
@@ -2453,7 +2453,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Tăng Quạt hút phòng vệ sinh lên một chút giúp mình với."
+      "text": "Tăng Quạt hút phòng vệ sinh lên một chút."
     },
     {
       "enabled": true,
@@ -2473,7 +2473,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Cho Đèn Hành Lang dịu xuống giùm mình."
+      "text": "Cho Đèn Hành Lang dịu xuống."
     },
     {
       "enabled": true,
@@ -2483,7 +2483,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Giảm Đèn phòng vệ sinh xuống một chút giúp mình với."
+      "text": "Giảm Đèn phòng vệ sinh xuống một chút."
     },
     {
       "enabled": true,
@@ -2503,7 +2503,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "underspecified",
-      "text": "Hạ Nguồn máy lạnh trái ở Phòng Khách xuống một chút giùm mình."
+      "text": "Hạ Nguồn máy lạnh trái ở Phòng Khách xuống một chút."
     }
   ],
   "shard": 1

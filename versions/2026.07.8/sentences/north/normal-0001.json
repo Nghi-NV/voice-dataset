@@ -13,7 +13,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Bình nóng lạnh ở Phòng Ngủ Tôm Mon rồi bật Điều hoà ở Phòng Ngủ giúp mình."
+      "text": "Tắt Bình nóng lạnh ở Phòng Ngủ Tôm Mon rồi bật Điều hoà ở Phòng Ngủ."
     },
     {
       "enabled": true,
@@ -23,7 +23,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Kéo Voan phải ở Phòng khách lại rồi mở Led hắt ở Phòng Con Trai lên nhé."
+      "text": "Kéo Voan phải ở Phòng khách lại rồi mở Led hắt ở Phòng Con Trai lên."
     },
     {
       "enabled": true,
@@ -43,7 +43,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật Nguồn TIVI ở Phòng Khách rồi bật giúp mình Downlight ở Nhà Tắm Quang Trung."
+      "text": "Bật Nguồn TIVI ở Phòng Khách rồi bật Downlight ở Nhà Tắm Quang Trung."
     },
     {
       "enabled": true,
@@ -53,7 +53,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật giúp mình Điều hoà ở Phòng Giúp Việc nhé."
+      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật Điều hoà ở Phòng Giúp Việc."
     },
     {
       "enabled": true,
@@ -63,7 +63,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Rèm Vải ở Phòng Ngủ giúp mình rồi kéo Rèm vải ở Phòng Khách ra."
+      "text": "Mở Rèm Vải ở Phòng Ngủ rồi kéo Rèm vải ở Phòng Khách ra."
     },
     {
       "enabled": true,
@@ -73,7 +73,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Đèn Tủ ở Phòng Bếp sáng lên rồi tắt Đèn Hắt Trần ở Phòng Ba đi giúp mình."
+      "text": "Cho Đèn Tủ ở Phòng Bếp sáng lên rồi tắt Đèn Hắt Trần ở Phòng Ba đi."
     },
     {
       "enabled": true,
@@ -183,7 +183,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Quạt Trần ở Phòng Trước rồi bật Đèn Hắt Trần ở Sảnh Thang máy."
+      "text": "Bật Quạt Trần ở Phòng Trước rồi bật Đèn Hắt Trần ở Sảnh Thang máy."
     },
     {
       "enabled": true,
@@ -193,7 +193,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Nóng Lạnh ở Phòng tắm rồi đóng Rèm Voan ở Phòng khách nhé."
+      "text": "Bật Nóng Lạnh ở Phòng tắm rồi đóng Rèm Voan ở Phòng khách."
     },
     {
       "enabled": true,
@@ -223,7 +223,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật Nguồn Điều Hòa ở Phòng Master rồi bật Bình Nóng Lạnh ở Phòng Tắm giúp mình."
+      "text": "Bật Nguồn Điều Hòa ở Phòng Master rồi bật Bình Nóng Lạnh ở Phòng Tắm."
     },
     {
       "enabled": true,
@@ -233,7 +233,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Bật tắt điều hòa ở Phòng ngủ Master rồi cho Đèn âm trần ở Phòng ngủ Master sáng lên nhé."
+      "text": "Tắt Bật tắt điều hòa ở Phòng ngủ Master rồi cho Đèn âm trần ở Phòng ngủ Master sáng lên."
     },
     {
       "enabled": true,
@@ -253,7 +253,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Downlight phòng vệ sinh đi rồi bật giúp mình Quạt hút ở Phòng Ngủ Master nhé."
+      "text": "Tắt Downlight phòng vệ sinh đi rồi bật Quạt hút ở Phòng Ngủ Master."
     },
     {
       "enabled": true,
@@ -263,7 +263,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đóng Rèm vải ở Phòng Khách lại rồi tắt Đèn Tường ở Phòng Vệ Sinh nhé."
+      "text": "Đóng Rèm vải ở Phòng Khách lại rồi tắt Đèn Tường ở Phòng Vệ Sinh."
     },
     {
       "enabled": true,
@@ -303,7 +303,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi đóng Cửa Cuốn ở Gara lại với."
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi đóng Cửa Cuốn ở Gara lại."
     },
     {
       "enabled": true,
@@ -373,7 +373,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Quạt thông gió ở Phòng Ngủ Con chạy rồi mở Điều hòa ở Phòng Trà lên giúp mình."
+      "text": "Cho Quạt thông gió ở Phòng Ngủ Con chạy rồi mở Điều hòa ở Phòng Trà lên."
     },
     {
       "enabled": true,
@@ -403,7 +403,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Điều hoà ở Phòng Ngủ 2 Vợ Chồng rồi bật giúp mình Đèn tuýp ở Phòng Thờ."
+      "text": "Bật Điều hoà ở Phòng Ngủ 2 Vợ Chồng rồi bật Đèn tuýp ở Phòng Thờ."
     },
     {
       "enabled": true,
@@ -413,7 +413,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Rèm Voan ở Phòng khách giúp mình rồi tắt Đèn ray ở Gara đi."
+      "text": "Mở Rèm Voan ở Phòng khách rồi tắt Đèn ray ở Gara đi."
     },
     {
       "enabled": true,
@@ -453,7 +453,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Rèm vải ở Phòng khách giúp mình rồi tắt Downlight ở Phòng tắm đi với."
+      "text": "Mở Rèm vải ở Phòng khách rồi tắt Downlight ở Phòng tắm đi."
     },
     {
       "enabled": true,
@@ -463,7 +463,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Quạt trần 2 ở Phòng Họp lên rồi tắt Đèn phòng vệ sinh đi giúp mình."
+      "text": "Mở Quạt trần 2 ở Phòng Họp lên rồi tắt Đèn phòng vệ sinh đi."
     },
     {
       "enabled": true,
@@ -473,7 +473,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn Trần 2 ở Phòng Khách rồi mở Đèn Tranh ở Sảnh Thang Máy lên."
+      "text": "Bật Đèn Trần 2 ở Phòng Khách rồi mở Đèn Tranh ở Sảnh Thang Máy lên."
     },
     {
       "enabled": true,
@@ -483,7 +483,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Át Điều Hoà ở Phòng Ngủ CoCa Ken chạy rồi bật giúp mình Đèn ban công."
+      "text": "Cho Át Điều Hoà ở Phòng Ngủ CoCa Ken chạy rồi bật Đèn ban công."
     },
     {
       "enabled": true,
@@ -513,7 +513,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật Nguồn tv ở Tầng 1 rồi cho Đèn ray ở Phòng Master sáng lên với."
+      "text": "Bật Nguồn tv ở Tầng 1 rồi cho Đèn ray ở Phòng Master sáng lên."
     },
     {
       "enabled": true,
@@ -523,7 +523,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn trần ở Phòng Ngủ 1 rồi cho Bình nóng lạnh ở Phòng vệ sinh Chung chạy nhé."
+      "text": "Bật Đèn trần ở Phòng Ngủ 1 rồi cho Bình nóng lạnh ở Phòng vệ sinh Chung chạy."
     },
     {
       "enabled": true,
@@ -553,7 +553,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật Điều hoà ở Phòng Giúp Việc giúp mình."
+      "text": "Bật Nguồn tv ở Tầng 1 rồi mở Điều hoà ở Phòng Giúp Việc."
     },
     {
       "enabled": true,
@@ -563,7 +563,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Hút Mùi ở Phòng Bếp chạy rồi bật giúp mình Đèn Chùm ở Sảnh Thang."
+      "text": "Cho Hút Mùi ở Phòng Bếp chạy rồi bật Đèn Chùm ở Sảnh Thang."
     },
     {
       "enabled": true,
@@ -573,7 +573,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Led Trần ở Phòng Bếp rồi bật Điều Hoà ở Phòng Ngủ Bé."
+      "text": "Bật Led Trần ở Phòng Bếp rồi bật Điều Hoà ở Phòng Ngủ Bé."
     },
     {
       "enabled": true,
@@ -593,7 +593,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Điều hoà ở Phòng ngủ Master rồi tắt Đèn trần ở Phòng Thờ đi nhé."
+      "text": "Tắt Điều hoà ở Phòng ngủ Master rồi tắt Đèn trần ở Phòng Thờ đi."
     },
     {
       "enabled": true,
@@ -603,7 +603,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Quạt hút mùi ở Phòng Ngủ Master rồi mở Quạt trần ở Phòng Khách lên với."
+      "text": "Tắt Quạt hút mùi ở Phòng Ngủ Master rồi mở Quạt trần ở Phòng Khách lên."
     },
     {
       "enabled": true,
@@ -613,7 +613,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi kéo Cửa Cuốn ở Gara lại giúp mình."
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi kéo Cửa Cuốn ở Gara lại."
     },
     {
       "enabled": true,
@@ -643,7 +643,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Downlight ở Gara rồi bật Đèn trần ở Gara."
+      "text": "Bật Downlight ở Gara rồi bật Đèn trần ở Gara."
     },
     {
       "enabled": true,
@@ -653,7 +653,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật giúp mình Đèn phòng vệ sinh."
+      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật Đèn phòng vệ sinh."
     },
     {
       "enabled": true,
@@ -663,7 +663,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Nguồn tv ở Tầng 1 lên rồi cho Đèn trần 1 ở Hành Lang Cầu Thang sáng lên với."
+      "text": "Mở Nguồn tv ở Tầng 1 lên rồi cho Đèn trần 1 ở Hành Lang Cầu Thang sáng lên."
     },
     {
       "enabled": true,
@@ -693,7 +693,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Quạt hút phòng vệ sinh đi rồi đóng Rèm voan phòng khách lại với."
+      "text": "Tắt Quạt hút phòng vệ sinh đi rồi đóng Rèm voan phòng khách lại."
     },
     {
       "enabled": true,
@@ -723,7 +723,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn Trần ở Phòng Khách rồi đóng Rèm dày cửa cạnh ở Phòng Khách lại."
+      "text": "Bật Đèn Trần ở Phòng Khách rồi đóng Rèm dày cửa cạnh ở Phòng Khách lại."
     },
     {
       "enabled": true,
@@ -733,7 +733,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn trần phòng vệ sinh rồi cho Đèn sưởi ở Phòng Master sáng lên nhé."
+      "text": "Bật Đèn trần phòng vệ sinh rồi cho Đèn sưởi ở Phòng Master sáng lên."
     },
     {
       "enabled": true,
@@ -743,7 +743,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn ban công rồi tắt Hắt trần ở Phòng ngủ Master."
+      "text": "Bật Đèn ban công rồi tắt Hắt trần ở Phòng ngủ Master."
     },
     {
       "enabled": true,
@@ -753,7 +753,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Kéo Rèm Vải 3 ở Phòng khách lại rồi kéo Rèm Vải ở Phòng Ngủ Master lại với."
+      "text": "Kéo Rèm Vải 3 ở Phòng khách lại rồi kéo Rèm Vải ở Phòng Ngủ Master lại."
     },
     {
       "enabled": true,
@@ -763,7 +763,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Kéo rèm voan ở Phòng khách ra rồi bật Đèn sưởi ở Phòng tắm giúp mình."
+      "text": "Kéo rèm voan ở Phòng khách ra rồi bật Đèn sưởi ở Phòng tắm."
     },
     {
       "enabled": true,
@@ -773,7 +773,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn Ban Công rồi cho Nguồn Điều Hoà ở Phòng Master chạy."
+      "text": "Bật Đèn Ban Công rồi cho Nguồn Điều Hoà ở Phòng Master chạy."
     },
     {
       "enabled": true,
@@ -783,7 +783,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Rèm Voan ở Phòng Khách rồi mở Rèm Voan ở Phòng Ngủ Master giúp mình."
+      "text": "Mở Rèm Voan ở Phòng Khách rồi mở Rèm Voan ở Phòng Ngủ Master."
     },
     {
       "enabled": true,
@@ -813,7 +813,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Nguồn TIVI ở Phòng Khách lên rồi bật giúp mình Điều Hoà ở Phòng Thờ."
+      "text": "Mở Nguồn TIVI ở Phòng Khách lên rồi bật Điều Hoà ở Phòng Thờ."
     },
     {
       "enabled": true,
@@ -823,7 +823,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Đèn Ban Công sáng lên rồi cho Đèn phòng vệ sinh sáng lên giúp mình."
+      "text": "Cho Đèn Ban Công sáng lên rồi cho Đèn phòng vệ sinh sáng lên."
     },
     {
       "enabled": true,
@@ -843,7 +843,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Led Tủ ở Phòng Thay Đồ đi rồi bật Đèn phòng vệ sinh với."
+      "text": "Tắt Led Tủ ở Phòng Thay Đồ đi rồi bật Đèn phòng vệ sinh."
     },
     {
       "enabled": true,
@@ -853,7 +853,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn led ở Phòng 1 rồi mở Rèm vải ở Phòng 1 giúp mình."
+      "text": "Bật Đèn led ở Phòng 1 rồi mở Rèm vải ở Phòng 1."
     },
     {
       "enabled": true,
@@ -863,7 +863,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Downlight ở Sảnh Cầu Thang sáng lên rồi bật giúp mình Đèn tường ở Phòng khách."
+      "text": "Cho Downlight ở Sảnh Cầu Thang sáng lên rồi bật Đèn tường ở Phòng khách."
     },
     {
       "enabled": true,
@@ -873,7 +873,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Downlight ở Phòng Thờ lên rồi tắt Downlight ở Phòng vệ sinh Chung với."
+      "text": "Mở Downlight ở Phòng Thờ lên rồi tắt Downlight ở Phòng vệ sinh Chung."
     },
     {
       "enabled": true,
@@ -883,7 +883,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật giúp mình Đèn chùm ở Phòng khách."
+      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật Đèn chùm ở Phòng khách."
     },
     {
       "enabled": true,
@@ -903,7 +903,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Điều hoà ở Phòng Ngủ 1 lên rồi mở Nguồn tv ở Tầng 1 lên với."
+      "text": "Mở Điều hoà ở Phòng Ngủ 1 lên rồi mở Nguồn tv ở Tầng 1 lên."
     },
     {
       "enabled": true,
@@ -913,7 +913,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đóng Voan phải ở Phòng khách rồi bật giúp mình Downlight phòng vệ sinh."
+      "text": "Đóng Voan phải ở Phòng khách rồi bật Downlight phòng vệ sinh."
     },
     {
       "enabled": true,
@@ -933,7 +933,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Downlight ở em tên Giang lên rồi bật giúp mình Downlight ở Sảnh Thang."
+      "text": "Mở Downlight ở em tên Giang lên rồi bật Downlight ở Sảnh Thang."
     },
     {
       "enabled": true,
@@ -973,7 +973,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn Trần ở Cửa Hàng rồi kéo Cửa cuốn ở Cửa Hàng lại."
+      "text": "Bật Đèn Trần ở Cửa Hàng rồi kéo Cửa cuốn ở Cửa Hàng lại."
     },
     {
       "enabled": true,
@@ -993,7 +993,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật Đèn phòng vệ sinh rồi tắt Đèn âm trần ở Phòng Ngủ đi với."
+      "text": "Bật Đèn phòng vệ sinh rồi tắt Đèn âm trần ở Phòng Ngủ đi."
     },
     {
       "enabled": true,
@@ -1023,7 +1023,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi bật giúp mình Điều Hoà ở Quang Trung với."
+      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi bật Điều Hoà ở Quang Trung."
     },
     {
       "enabled": true,
@@ -1063,7 +1063,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Đèn Hành Lang đi rồi bật Đèn Trần ở Quảng Cáo giúp mình."
+      "text": "Tắt Đèn Hành Lang đi rồi bật Đèn Trần ở Quảng Cáo."
     },
     {
       "enabled": true,
@@ -1073,7 +1073,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn Chùm ở Hành Lang rồi mở Đèn Trần 1 ở Phòng Con Gái lên."
+      "text": "Bật Đèn Chùm ở Hành Lang rồi mở Đèn Trần 1 ở Phòng Con Gái lên."
     },
     {
       "enabled": true,
@@ -1083,7 +1083,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Rèm vải ở Phòng ngủ 2 giúp mình rồi kéo Rèm vải ở Phòng master lại với."
+      "text": "Mở Rèm vải ở Phòng ngủ 2 rồi kéo Rèm vải ở Phòng master lại."
     },
     {
       "enabled": true,
@@ -1103,7 +1103,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi mở Đèn Ban Công lên nhé."
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi mở Đèn Ban Công lên."
     },
     {
       "enabled": true,
@@ -1123,7 +1123,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Đèn Chùm ở Phòng khách đi rồi mở Downlight 1 ở Phòng khách lên giúp mình."
+      "text": "Tắt Đèn Chùm ở Phòng khách đi rồi mở Downlight 1 ở Phòng khách lên."
     },
     {
       "enabled": true,
@@ -1143,7 +1143,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi mở Cửa Cuốn ở Gara giúp mình."
+      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi mở Cửa Cuốn ở Gara."
     },
     {
       "enabled": true,
@@ -1173,7 +1173,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm voan ở Phòng khách giúp mình rồi cho Đèn hành lang sáng lên."
+      "text": "Mở rèm voan ở Phòng khách rồi cho Đèn hành lang sáng lên."
     },
     {
       "enabled": true,
@@ -1183,7 +1183,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Điều hòa ở Phòng Ngủ 2 rồi mở Quạt hút ở Phòng Ngủ 1 lên nhé."
+      "text": "Bật Điều hòa ở Phòng Ngủ 2 rồi mở Quạt hút ở Phòng Ngủ 1 lên."
     },
     {
       "enabled": true,
@@ -1213,7 +1213,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật Đèn tường ở Phòng Ngủ Nhỏ rồi bật giúp mình Đèn hắt trần ở Phòng Khách."
+      "text": "Bật Đèn tường ở Phòng Ngủ Nhỏ rồi bật Đèn hắt trần ở Phòng Khách."
     },
     {
       "enabled": true,
@@ -1223,7 +1223,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Hắt Trần ở Phòng khách đi rồi tắt Nóng Lạnh Bếp nhé."
+      "text": "Tắt Hắt Trần ở Phòng khách đi rồi tắt Nóng Lạnh Bếp."
     },
     {
       "enabled": true,
@@ -1233,7 +1233,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Nguồn tv ở Tầng 1 đi rồi bật giúp mình Điều hoà ở Phòng Giúp Việc với."
+      "text": "Tắt Nguồn tv ở Tầng 1 đi rồi bật Điều hoà ở Phòng Giúp Việc."
     },
     {
       "enabled": true,
@@ -1253,7 +1253,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật Nguồn tv ở Tầng 1 rồi tắt Đèn trần 1 ở Hành Lang Cầu Thang nhé."
+      "text": "Bật Nguồn tv ở Tầng 1 rồi tắt Đèn trần 1 ở Hành Lang Cầu Thang."
     },
     {
       "enabled": true,
@@ -1263,7 +1263,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Đèn hắt trần ở Phòng Ngủ Con đi rồi mở Rèm voan ở Phòng Khách với."
+      "text": "Tắt Đèn hắt trần ở Phòng Ngủ Con đi rồi mở Rèm voan ở Phòng Khách."
     },
     {
       "enabled": true,
@@ -1273,7 +1273,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn chùm ở Phòng khách rồi kéo Cửa cuốn ở Mặt Tiền ra."
+      "text": "Bật Đèn chùm ở Phòng khách rồi kéo Cửa cuốn ở Mặt Tiền ra."
     },
     {
       "enabled": true,
@@ -1283,7 +1283,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở Rèm vải phòng khách giúp mình rồi bật Đèn trần ở Phòng khách."
+      "text": "Mở Rèm vải phòng khách rồi bật Đèn trần ở Phòng khách."
     },
     {
       "enabled": true,
@@ -1313,7 +1313,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt Led hắt ở Phòng Master rồi bật giúp mình Đèn sưởi ở Phòng Master."
+      "text": "Tắt Led hắt ở Phòng Master rồi bật Đèn sưởi ở Phòng Master."
     },
     {
       "enabled": true,
@@ -1353,7 +1353,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi cho Đèn Ban Công sáng lên với."
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi cho Đèn Ban Công sáng lên."
     },
     {
       "enabled": true,
@@ -1363,7 +1363,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Khởi động Nguồn tv ở Tầng 1 rồi tắt Điều hoà ở Phòng Ngủ giúp mình."
+      "text": "Khởi động Nguồn tv ở Tầng 1 rồi tắt Điều hoà ở Phòng Ngủ."
     },
     {
       "enabled": true,
@@ -1373,7 +1373,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Bình nóng lạnh ở Phòng vệ sinh Chung rồi tắt Đèn trần ở Phòng Master."
+      "text": "Bật Bình nóng lạnh ở Phòng vệ sinh Chung rồi tắt Đèn trần ở Phòng Master."
     },
     {
       "enabled": true,
@@ -1383,7 +1383,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật giúp mình Đèn Ban công rồi cho Downlight ở Phòng Thờ sáng lên."
+      "text": "Bật Đèn Ban công rồi cho Downlight ở Phòng Thờ sáng lên."
     },
     {
       "enabled": true,
@@ -1393,7 +1393,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Đèn Trần phòng vệ sinh và Đèn tường ở Phòng Khách giúp mình."
+      "text": "Bật Đèn Trần phòng vệ sinh và Đèn tường ở Phòng Khách."
     },
     {
       "enabled": true,
@@ -1403,7 +1403,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Downlight ở Sảnh và Đèn Ray ở Phòng Ngủ 2 nhé."
+      "text": "Bật Downlight ở Sảnh và Đèn Ray ở Phòng Ngủ 2."
     },
     {
       "enabled": true,
@@ -1423,7 +1423,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Mở Rèm Voan ở Phòng ngủ To và Cửa Cuốn ở Tầng 1 giúp mình."
+      "text": "Mở Rèm Voan ở Phòng ngủ To và Cửa Cuốn ở Tầng 1."
     },
     {
       "enabled": true,
@@ -1433,7 +1433,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Mở Voan Phải ở Phòng Khách và Cửa cuốn ở Tầng Hầm nhé."
+      "text": "Mở Voan Phải ở Phòng Khách và Cửa cuốn ở Tầng Hầm."
     },
     {
       "enabled": true,
@@ -1453,7 +1453,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Mở rèm Voan ở Phòng Master và Rèm vải ở Phòng Ăn giúp mình."
+      "text": "Mở rèm Voan ở Phòng Master và Rèm vải ở Phòng Ăn."
     },
     {
       "enabled": true,
@@ -1463,7 +1463,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Mở Rèm phòng khách và Rèm master ở Phòng ngủ Master nhé."
+      "text": "Mở Rèm phòng khách và Rèm master ở Phòng ngủ Master."
     },
     {
       "enabled": true,
@@ -1493,7 +1493,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Mở Rèm Vải ở Phòng Master và Rèm Vải ở Phòng Ăn nhé."
+      "text": "Mở Rèm Vải ở Phòng Master và Rèm Vải ở Phòng Ăn."
     },
     {
       "enabled": true,
@@ -1513,7 +1513,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Mở Rèm Voan 2 ở Phòng Bếp Ăn và Rèm Voan ở Phòng Ngủ giúp mình."
+      "text": "Mở Rèm Voan 2 ở Phòng Bếp Ăn và Rèm Voan ở Phòng Ngủ."
     },
     {
       "enabled": true,
@@ -1563,7 +1563,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Quạt Trần ở Phòng ăn và Quạt gió ở Phòng Master với."
+      "text": "Bật Quạt Trần ở Phòng ăn và Quạt gió ở Phòng Master."
     },
     {
       "enabled": true,
@@ -1613,7 +1613,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Điều hoà 2 ở Phòng khách và Điều hoà ở Phòng Ngủ nhé."
+      "text": "Bật Điều hoà 2 ở Phòng khách và Điều hoà ở Phòng Ngủ."
     },
     {
       "enabled": true,
@@ -1633,7 +1633,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Điều hoà ở Phòng bếp và Điều hoà ở Phòng Ngủ Bà giúp mình."
+      "text": "Bật Điều hoà ở Phòng bếp và Điều hoà ở Phòng Ngủ Bà."
     },
     {
       "enabled": true,
@@ -1643,7 +1643,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Downlight ở Phòng Vệ Sinh Chung và Downlight ở Phòng Ngủ Master nhé."
+      "text": "Bật Downlight ở Phòng Vệ Sinh Chung và Downlight ở Phòng Ngủ Master."
     },
     {
       "enabled": true,
@@ -1673,7 +1673,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Điều hoà ở Phòng Thờ và Điều hoà ở Phòng Master nhé."
+      "text": "Bật Điều hoà ở Phòng Thờ và Điều hoà ở Phòng Master."
     },
     {
       "enabled": true,
@@ -1753,7 +1753,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Đèn chùm ở Phòng Chung và Downlight ở Phòng ngủ 2 giúp mình."
+      "text": "Bật Đèn chùm ở Phòng Chung và Downlight ở Phòng ngủ 2."
     },
     {
       "enabled": true,
@@ -1813,7 +1813,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Mở Rèm vải ở Phòng 1 và Rèm voan ở Phòng Master giúp mình."
+      "text": "Mở Rèm vải ở Phòng 1 và Rèm voan ở Phòng Master."
     },
     {
       "enabled": true,
@@ -1833,7 +1833,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Led Hắt ở Phòng ngủ Con Trai và Downlight 1 ở Phòng Khách với."
+      "text": "Bật Led Hắt ở Phòng ngủ Con Trai và Downlight 1 ở Phòng Khách."
     },
     {
       "enabled": true,
@@ -1843,7 +1843,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "multi_scope",
-      "text": "Bật Đèn trần phòng vệ sinh và Đèn trần ở Phòng Ngủ 2 giúp mình."
+      "text": "Bật Đèn trần phòng vệ sinh và Đèn trần ở Phòng Ngủ 2."
     },
     {
       "enabled": true,
@@ -1993,7 +1993,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Bật Điều hòa ở Phòng Khách rồi đặt nhiệt độ ở 26 độ giúp mình."
+      "text": "Bật Điều hòa ở Phòng Khách rồi đặt nhiệt độ ở 26 độ."
     },
     {
       "enabled": true,
@@ -2013,7 +2013,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Mở Đèn 6 ở Phòng bếp lên rồi đặt độ sáng ở mức 60% với."
+      "text": "Mở Đèn 6 ở Phòng bếp lên rồi đặt độ sáng ở mức 60%."
     },
     {
       "enabled": true,
@@ -2023,7 +2023,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Mở RGBWW hắt viền ngủ 2 ở Phòng Ngủ 2 lên rồi đặt độ sáng ở mức 70% giúp mình."
+      "text": "Mở RGBWW hắt viền ngủ 2 ở Phòng Ngủ 2 lên rồi đặt độ sáng ở mức 70%."
     },
     {
       "enabled": true,
@@ -2093,7 +2093,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Mở Rèm voan ở Phòng Khách rồi dừng ở mức 40% nhé."
+      "text": "Mở Rèm voan ở Phòng Khách rồi dừng ở mức 40%."
     },
     {
       "enabled": true,
@@ -2103,7 +2103,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Mở Rèm voan ở Phòng ăn rồi chỉnh còn 60% với."
+      "text": "Mở Rèm voan ở Phòng ăn rồi chỉnh còn 60%."
     },
     {
       "enabled": true,
@@ -2153,7 +2153,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Bật Điều Hoà 2 ở Phòng làm việc rồi đặt nhiệt độ ở 23 độ nhé."
+      "text": "Bật Điều Hoà 2 ở Phòng làm việc rồi đặt nhiệt độ ở 23 độ."
     },
     {
       "enabled": true,
@@ -2203,7 +2203,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Kéo Rèm voan 1 ở Phòng ngủ Lớn ra rồi giữ ở mức 30% giúp mình."
+      "text": "Kéo Rèm voan 1 ở Phòng ngủ Lớn ra rồi giữ ở mức 30%."
     },
     {
       "enabled": true,
@@ -2233,7 +2233,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Mở Đèn 3 ở Phòng khách lên rồi đặt độ sáng ở mức 50% giúp mình."
+      "text": "Mở Đèn 3 ở Phòng khách lên rồi đặt độ sáng ở mức 50%."
     },
     {
       "enabled": true,
@@ -2243,7 +2243,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "action_value",
-      "text": "Mở Điều Hoà ở Phòng Khách lên rồi chỉnh về 23 độ nhé."
+      "text": "Mở Điều Hoà ở Phòng Khách lên rồi chỉnh về 23 độ."
     },
     {
       "enabled": true,
@@ -2293,7 +2293,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Bật tất cả điều hòa ở Phòng Ngủ 2 giúp mình."
+      "text": "Bật tất cả điều hòa ở Phòng Ngủ 2."
     },
     {
       "enabled": true,
@@ -2303,7 +2303,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Tắt hết thiết bị trong nhà nhé."
+      "text": "Tắt hết thiết bị trong nhà."
     },
     {
       "enabled": true,
@@ -2353,7 +2353,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Tắt hết đèn ở Phòng Bà giúp mình."
+      "text": "Tắt hết đèn ở Phòng Bà."
     },
     {
       "enabled": true,
@@ -2373,7 +2373,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Tắt hết đèn trong nhà với."
+      "text": "Tắt hết đèn trong nhà."
     },
     {
       "enabled": true,
@@ -2443,7 +2443,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Tắt toàn bộ thiết bị ở Tầng 1 giúp mình."
+      "text": "Tắt toàn bộ thiết bị ở Tầng 1."
     },
     {
       "enabled": true,
@@ -2453,7 +2453,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Bật tất cả thiết bị trong nhà nhé."
+      "text": "Bật tất cả thiết bị trong nhà."
     },
     {
       "enabled": true,
@@ -2473,7 +2473,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Bật tất cả điều hòa ở Phòng Ngủ giúp mình."
+      "text": "Bật tất cả điều hòa ở Phòng Ngủ."
     },
     {
       "enabled": true,
@@ -2503,7 +2503,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "global",
-      "text": "Bật tất cả đèn trong nhà giúp mình."
+      "text": "Bật tất cả đèn trong nhà."
     }
   ],
   "shard": 1
