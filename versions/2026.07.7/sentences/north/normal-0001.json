@@ -13,7 +13,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đèn phòng ăn đang bật hay tắt?"
+      "text": "Giảm độ sáng đèn hành lang xuống 60%."
     },
     {
       "enabled": true,
@@ -23,7 +23,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chuyển điều hòa phòng ngủ nhỏ sang chế độ quạt."
+      "text": "Đèn phòng ăn đang bật hay tắt?"
     },
     {
       "enabled": true,
@@ -33,7 +33,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt quạt phòng ngủ ở mức 3."
+      "text": "Chuyển đèn wc sang ánh sáng trắng."
     },
     {
       "enabled": true,
@@ -43,7 +43,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm điều hòa phòng ngủ chính đi 1 độ."
+      "text": "Giảm độ sáng đèn wc xuống 30%."
     },
     {
       "enabled": true,
@@ -53,7 +53,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng bếp 50%."
+      "text": "Chuyển điều hòa phòng ngủ nhỏ sang chế độ quạt."
     },
     {
       "enabled": true,
@@ -63,7 +63,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chỉnh điều hòa phòng làm việc xuống 22 độ."
+      "text": "Đặt quạt phòng ngủ ở mức 3."
     },
     {
       "enabled": true,
@@ -73,7 +73,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng nhiệt độ điều hòa phòng ngủ lên 26 độ."
+      "text": "Giảm điều hòa phòng ngủ chính đi 1 độ."
     },
     {
       "enabled": true,
@@ -83,7 +83,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chỉnh điều hòa phòng ngủ nhỏ xuống 26 độ."
+      "text": "Mở rèm phòng bếp 50%."
     },
     {
       "enabled": true,
@@ -93,7 +93,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm độ sáng đèn bàn xuống 80%."
+      "text": "Chỉnh điều hòa phòng làm việc xuống 22 độ."
     },
     {
       "enabled": true,
@@ -103,7 +103,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng nhiệt độ điều hòa phòng khách lên 26 độ."
+      "text": "Giảm độ sáng đèn sân vườn xuống 50%."
     },
     {
       "enabled": true,
@@ -113,7 +113,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm nhiệt độ điều hòa phòng ăn xuống 28 độ."
+      "text": "Đặt độ sáng đèn âm trần ở mức 80%."
     },
     {
       "enabled": true,
@@ -123,7 +123,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chỉnh điều hòa phòng làm việc xuống 24 độ."
+      "text": "Đặt nhiệt độ màu của đèn âm trần là 3000 K."
     },
     {
       "enabled": true,
@@ -133,7 +133,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật điều hòa phòng làm việc và mở rèm."
+      "text": "Tăng nhiệt độ điều hòa phòng ngủ lên 26 độ."
     },
     {
       "enabled": true,
@@ -143,7 +143,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chuyển đèn trong phòng ngủ chính sang ánh sáng ấm."
+      "text": "Chuyển downlight sang ánh sáng trắng."
     },
     {
       "enabled": true,
@@ -153,7 +153,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đóng rèm phòng ngủ còn 70%."
+      "text": "Chỉnh điều hòa phòng ngủ nhỏ xuống 26 độ."
     },
     {
       "enabled": true,
@@ -163,7 +163,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm độ sáng đèn ngủ xuống 20%."
+      "text": "Đèn tường đang bật không?"
     },
     {
       "enabled": true,
@@ -173,7 +173,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng thờ 60%."
+      "text": "Giảm độ sáng đèn bàn xuống 80%."
     },
     {
       "enabled": true,
@@ -183,7 +183,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng ngủ một nửa."
+      "text": "Tăng nhiệt độ điều hòa phòng khách lên 26 độ."
     },
     {
       "enabled": true,
@@ -193,7 +193,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt điều hòa phòng làm việc ở 26 độ."
+      "text": "Tăng độ sáng downlight lên 50%."
     },
     {
       "enabled": true,
@@ -203,7 +203,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt độ sáng đèn bàn ở mức 60%."
+      "text": "Giảm nhiệt độ điều hòa phòng ăn xuống 28 độ."
     },
     {
       "enabled": true,
@@ -213,7 +213,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng khách 75%."
+      "text": "Chỉnh điều hòa phòng làm việc xuống 24 độ."
     },
     {
       "enabled": true,
@@ -223,7 +223,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chỉnh điều hòa phòng ngủ chính xuống 28 độ."
+      "text": "Bật điều hòa phòng làm việc và mở rèm."
     },
     {
       "enabled": true,
@@ -233,7 +233,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm nhiệt độ điều hòa phòng khách xuống 26 độ."
+      "text": "Chuyển đèn trong phòng ngủ chính sang ánh sáng ấm."
     },
     {
       "enabled": true,
@@ -243,7 +243,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng khách 40%."
+      "text": "Đóng rèm phòng ngủ còn 70%."
     },
     {
       "enabled": true,
@@ -253,7 +253,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt điều hòa phòng khách ở 25 độ."
+      "text": "Giảm độ sáng đèn ngủ xuống 20%."
     },
     {
       "enabled": true,
@@ -263,7 +263,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt điều hòa phòng ngủ chính ở 27 độ."
+      "text": "Mở rèm phòng thờ 60%."
     },
     {
       "enabled": true,
@@ -273,7 +273,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đóng rèm phòng ngủ chính còn 60%."
+      "text": "Đặt độ sáng downlight ở mức 40%."
     },
     {
       "enabled": true,
@@ -283,7 +283,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm độ sáng đèn hắt trần xuống 100%."
+      "text": "Tắt đèn ban công phòng ngủ và đóng rèm."
     },
     {
       "enabled": true,
@@ -293,7 +293,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm sáng phòng ăn đi một nửa."
+      "text": "Mở rèm phòng ngủ một nửa."
     },
     {
       "enabled": true,
@@ -303,7 +303,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Rèm phòng ngủ chính đã đóng chưa?"
+      "text": "Đặt điều hòa phòng làm việc ở 26 độ."
     },
     {
       "enabled": true,
@@ -313,7 +313,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chuyển điều hòa phòng ngủ chính sang chế độ quạt."
+      "text": "Giảm độ sáng đèn hắt xuống 70%."
     },
     {
       "enabled": true,
@@ -323,7 +323,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng ngủ 45%."
+      "text": "Đặt độ sáng đèn bàn ở mức 60%."
     },
     {
       "enabled": true,
@@ -333,7 +333,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm sáng phòng làm việc đi một nửa."
+      "text": "Mở rèm phòng khách 75%."
     },
     {
       "enabled": true,
@@ -343,7 +343,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn bàn ăn rồi giảm xuống 40% thôi."
+      "text": "Đặt nhiệt độ màu của đèn hắt là 3000 K."
     },
     {
       "enabled": true,
@@ -353,7 +353,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Trong phòng thờ còn thiết bị nào đang hoạt động?"
+      "text": "Tăng độ sáng đèn wc lên 100%."
     },
     {
       "enabled": true,
@@ -363,7 +363,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt nhiệt độ màu của đèn bàn là 3000 K."
+      "text": "Tắt nóng lạnh phòng ngủ và đóng rèm."
     },
     {
       "enabled": true,
@@ -373,7 +373,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm độ sáng đèn ngủ xuống 30%."
+      "text": "Chỉnh điều hòa phòng ngủ chính xuống 28 độ."
     },
     {
       "enabled": true,
@@ -383,7 +383,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật máy lạnh phòng ngủ chính và mở rèm."
+      "text": "Tăng độ sáng đèn tường lên 20%."
     },
     {
       "enabled": true,
@@ -393,7 +393,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt điều hòa phòng thờ ở 23 độ."
+      "text": "Giảm nhiệt độ điều hòa phòng khách xuống 26 độ."
     },
     {
       "enabled": true,
@@ -403,7 +403,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt quạt phòng ngủ nhỏ ở mức 3."
+      "text": "Mở rèm phòng khách 40%."
     },
     {
       "enabled": true,
@@ -413,7 +413,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng nhiệt độ điều hòa phòng làm việc lên 26 độ."
+      "text": "Tăng độ sáng đèn âm trần lên 70%."
     },
     {
       "enabled": true,
@@ -423,7 +423,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt điều hòa phòng khách ở 24 độ."
+      "text": "Bật đèn tường phòng làm việc và mở rèm."
     },
     {
       "enabled": true,
@@ -433,7 +433,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng độ sáng đèn bàn ăn lên 20%."
+      "text": "Giảm độ sáng đèn sảnh xuống 80%."
     },
     {
       "enabled": true,
@@ -443,7 +443,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng nhiệt độ điều hòa phòng ngủ nhỏ lên 23 độ."
+      "text": "Bật đèn sưởi phòng ăn và mở rèm."
     },
     {
       "enabled": true,
@@ -453,7 +453,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm đèn phòng bếp xuống mức thấp nhất."
+      "text": "Đặt điều hòa phòng khách ở 25 độ."
     },
     {
       "enabled": true,
@@ -463,7 +463,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chỉnh điều hòa phòng thờ xuống 24 độ."
+      "text": "Giảm độ sáng đèn thả xuống 50%."
     },
     {
       "enabled": true,
@@ -473,7 +473,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng độ sáng đèn hắt trần lên 70%."
+      "text": "Giảm độ sáng đèn soi tranh xuống 30%."
     },
     {
       "enabled": true,
@@ -483,7 +483,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật máy lạnh phòng làm việc và mở rèm."
+      "text": "Đặt điều hòa phòng ngủ chính ở 27 độ."
     },
     {
       "enabled": true,
@@ -493,7 +493,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm độ sáng đèn ngủ xuống 100%."
+      "text": "Giảm độ sáng đèn sảnh xuống 70%."
     },
     {
       "enabled": true,
@@ -503,7 +503,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đóng rèm phòng ngủ còn 25%."
+      "text": "Đóng rèm phòng ngủ chính còn 60%."
     },
     {
       "enabled": true,
@@ -513,7 +513,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng làm việc 75%."
+      "text": "Tăng độ sáng đèn âm trần lên 40%."
     },
     {
       "enabled": true,
@@ -523,7 +523,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt điều hòa phòng ăn ở 24 độ."
+      "text": "Tắt nóng lạnh phòng ngủ chính và đóng rèm."
     },
     {
       "enabled": true,
@@ -533,7 +533,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Quạt trần đang bật không?"
+      "text": "Giảm độ sáng đèn ban công xuống 40%."
     },
     {
       "enabled": true,
@@ -543,7 +543,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đóng rèm phòng ngủ nhỏ lại."
+      "text": "Giảm độ sáng đèn âm trần xuống 30%."
     },
     {
       "enabled": true,
@@ -553,7 +553,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chuyển đèn ngủ sang ánh sáng trắng."
+      "text": "Giảm độ sáng đèn hắt trần xuống 100%."
     },
     {
       "enabled": true,
@@ -563,7 +563,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng thờ 70%."
+      "text": "Tăng độ sáng đèn hiên lên 30%."
     },
     {
       "enabled": true,
@@ -573,7 +573,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chỉnh điều hòa phòng ăn xuống 22 độ."
+      "text": "Giảm độ sáng led tủ xuống 50%."
     },
     {
       "enabled": true,
@@ -583,7 +583,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt độ sáng đèn bàn ăn ở mức 50%."
+      "text": "Giảm sáng phòng ăn đi một nửa."
     },
     {
       "enabled": true,
@@ -593,7 +593,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng nhiệt độ điều hòa phòng ngủ lên 27 độ."
+      "text": "Rèm phòng ngủ chính đã đóng chưa?"
     },
     {
       "enabled": true,
@@ -603,7 +603,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt quạt phòng ngủ chính ở mức 2."
+      "text": "Tắt đèn tường phòng ngủ chính và đóng rèm."
     },
     {
       "enabled": true,
@@ -613,7 +613,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng độ sáng đèn trần lên 60%."
+      "text": "Đặt độ sáng downlight ở mức 70%."
     },
     {
       "enabled": true,
@@ -623,7 +623,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng nhiệt độ điều hòa phòng ngủ chính lên 27 độ."
+      "text": "Đặt độ sáng đèn soi tranh ở mức 40%."
     },
     {
       "enabled": true,
@@ -633,7 +633,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đóng rèm phòng ngủ chính còn 50%."
+      "text": "Chuyển điều hòa phòng ngủ chính sang chế độ quạt."
     },
     {
       "enabled": true,
@@ -643,7 +643,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Chỉnh điều hòa phòng làm việc xuống 28 độ."
+      "text": "Tắt đèn hắt trần phòng ăn và đóng rèm."
     },
     {
       "enabled": true,
@@ -653,7 +653,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn bàn phòng làm việc và mở rèm."
+      "text": "Mở rèm phòng ngủ 45%."
     },
     {
       "enabled": true,
@@ -663,7 +663,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Đặt điều hòa phòng bếp ở 23 độ."
+      "text": "Giảm sáng phòng làm việc đi một nửa."
     },
     {
       "enabled": true,
@@ -673,7 +673,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng nhiệt độ điều hòa phòng ngủ lên 22 độ."
+      "text": "Bật đèn bàn ăn rồi giảm xuống 40% thôi."
     },
     {
       "enabled": true,
@@ -683,7 +683,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Mở rèm phòng khách 60%."
+      "text": "Giảm độ sáng đèn sảnh xuống 60%."
     },
     {
       "enabled": true,
@@ -693,7 +693,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Giảm điều hòa phòng thờ đi 1 độ."
+      "text": "Trong phòng thờ còn thiết bị nào đang hoạt động?"
     },
     {
       "enabled": true,
@@ -703,7 +703,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tăng quạt phòng làm việc lên mức 2."
+      "text": "Giảm độ sáng đèn sân vườn xuống 30%."
     },
     {
       "enabled": true,
@@ -713,7 +713,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt điều hòa phòng ngủ chính và đóng rèm."
+      "text": "Bật đèn hắt phòng ngủ chính rồi mở rèm."
     },
     {
       "enabled": true,
@@ -723,7 +723,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn phòng ngủ và mở rèm nhé."
+      "text": "Bật đèn chùm phòng ăn rồi mở rèm."
     },
     {
       "enabled": true,
@@ -733,7 +733,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt đèn trần phòng khách và đóng rèm."
+      "text": "Tắt đèn ban công phòng thờ và đóng rèm."
     },
     {
       "enabled": true,
@@ -743,7 +743,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật máy lạnh phòng ngủ chính rồi mở rèm."
+      "text": "Tắt cửa cuốn phòng làm việc và đóng rèm."
     },
     {
       "enabled": true,
@@ -753,7 +753,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn trần phòng khách rồi mở rèm."
+      "text": "Tắt quạt hút phòng ăn và đóng rèm."
     },
     {
       "enabled": true,
@@ -763,7 +763,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt đèn trần phòng bếp và đóng rèm."
+      "text": "Tắt điều hòa phòng ngủ chính và đóng rèm."
     },
     {
       "enabled": true,
@@ -773,7 +773,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt đèn bàn phòng bếp và đóng rèm."
+      "text": "Tắt đèn âm trần phòng thờ và đóng rèm."
     },
     {
       "enabled": true,
@@ -783,7 +783,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt đèn bàn phòng ngủ nhỏ và đóng rèm."
+      "text": "Bật cửa cuốn phòng ngủ chính rồi mở rèm."
     },
     {
       "enabled": true,
@@ -793,7 +793,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt quạt phòng ngủ nhỏ và đóng rèm."
+      "text": "Tắt đèn tường phòng bếp và đóng rèm."
     },
     {
       "enabled": true,
@@ -803,7 +803,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật quạt phòng làm việc rồi mở rèm."
+      "text": "Tắt bình nóng lạnh phòng ngủ nhỏ và đóng rèm."
     },
     {
       "enabled": true,
@@ -813,7 +813,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn bàn phòng ăn rồi mở rèm."
+      "text": "Tắt led tủ phòng khách và đóng rèm."
     },
     {
       "enabled": true,
@@ -823,7 +823,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt quạt phòng bếp và đóng rèm."
+      "text": "Bật đèn ban công phòng ngủ nhỏ rồi mở rèm."
     },
     {
       "enabled": true,
@@ -833,7 +833,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt đèn trần phòng ăn và đóng rèm."
+      "text": "Bật đèn phòng ngủ và mở rèm nhé."
     },
     {
       "enabled": true,
@@ -843,7 +843,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật điều hòa phòng ăn rồi mở rèm."
+      "text": "Tắt đèn hắt phòng ngủ nhỏ và đóng rèm."
     },
     {
       "enabled": true,
@@ -853,7 +853,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật quạt trần phòng ngủ chính rồi mở rèm."
+      "text": "Tắt quạt hút phòng ngủ chính và đóng rèm."
     },
     {
       "enabled": true,
@@ -863,7 +863,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật quạt trần phòng làm việc rồi mở rèm."
+      "text": "Tắt quạt hút phòng làm việc và đóng rèm."
     },
     {
       "enabled": true,
@@ -873,7 +873,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật điều hòa phòng làm việc rồi mở rèm."
+      "text": "Bật led tủ phòng ngủ nhỏ rồi mở rèm."
     },
     {
       "enabled": true,
@@ -883,7 +883,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn trần phòng ngủ chính rồi mở rèm."
+      "text": "Tắt đèn trần phòng khách và đóng rèm."
     },
     {
       "enabled": true,
@@ -893,7 +893,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt quạt trần phòng làm việc và đóng rèm."
+      "text": "Bật bình nóng lạnh phòng ngủ rồi mở rèm."
     },
     {
       "enabled": true,
@@ -903,7 +903,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt đèn bàn phòng ngủ chính và đóng rèm."
+      "text": "Tắt downlight phòng bếp và đóng rèm."
     },
     {
       "enabled": true,
@@ -913,7 +913,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt điều hòa phòng ăn và đóng rèm."
+      "text": "Bật máy lạnh phòng ngủ chính rồi mở rèm."
     },
     {
       "enabled": true,
@@ -923,7 +923,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt quạt trần phòng thờ và đóng rèm."
+      "text": "Tắt đèn âm trần phòng làm việc và đóng rèm."
     },
     {
       "enabled": true,
@@ -933,7 +933,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật quạt phòng ngủ chính rồi mở rèm."
+      "text": "Tắt đèn sưởi phòng ngủ nhỏ và đóng rèm."
     },
     {
       "enabled": true,
@@ -943,7 +943,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn phòng ăn và mở rèm nhé."
+      "text": "Bật led tủ phòng ngủ chính rồi mở rèm."
     },
     {
       "enabled": true,
@@ -953,7 +953,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt điều hòa phòng ngủ và đóng rèm."
+      "text": "Bật đèn hắt phòng khách rồi mở rèm."
     },
     {
       "enabled": true,
@@ -963,7 +963,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt đèn bàn phòng ngủ và đóng rèm."
+      "text": "Bật đèn sưởi phòng bếp rồi mở rèm."
     },
     {
       "enabled": true,
@@ -973,7 +973,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật đèn trần phòng làm việc rồi mở rèm."
+      "text": "Tắt đèn ban công phòng ngủ chính và đóng rèm."
     },
     {
       "enabled": true,
@@ -983,7 +983,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt quạt phòng ăn và đóng rèm."
+      "text": "Tắt cửa cuốn phòng thờ và đóng rèm."
     },
     {
       "enabled": true,
@@ -993,7 +993,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Bật quạt phòng ăn rồi mở rèm."
+      "text": "Tắt đèn chùm phòng làm việc và đóng rèm."
     },
     {
       "enabled": true,
@@ -1003,7 +1003,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "compound",
-      "text": "Tắt máy lạnh phòng ngủ chính và đóng rèm."
+      "text": "Bật cửa cuốn phòng khách rồi mở rèm."
     }
   ],
   "shard": 1

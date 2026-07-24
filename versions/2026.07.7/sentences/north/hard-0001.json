@@ -13,7 +13,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Để nó ở mức 60%."
+      "text": "Giảm đèn thả xuống 40%."
     },
     {
       "enabled": true,
@@ -23,7 +23,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn bàn ăn lên 50%."
+      "text": "Để nó ở mức 60%."
     },
     {
       "enabled": true,
@@ -33,7 +33,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn trần sáng 70%."
+      "text": "Giảm đèn chùm xuống 30%."
     },
     {
       "enabled": true,
@@ -43,7 +43,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn bàn ở 80%."
+      "text": "Giảm đèn hành lang xuống 50%."
     },
     {
       "enabled": true,
@@ -53,7 +53,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn bàn sáng 20%."
+      "text": "Tăng led trần lên 40%."
     },
     {
       "enabled": true,
@@ -63,7 +63,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn ngủ sáng 50%."
+      "text": "Cho đèn thả sáng 70%."
     },
     {
       "enabled": true,
@@ -73,7 +73,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tắt điều hòa phòng đọc sách."
+      "text": "Tăng đèn ray lên 50%."
     },
     {
       "enabled": true,
@@ -83,7 +83,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn trần lên 20%."
+      "text": "Đặt đèn thả ở 70%."
     },
     {
       "enabled": true,
@@ -93,7 +93,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh đèn ngủ về 20%."
+      "text": "Tăng đèn ray lên 70%."
     },
     {
       "enabled": true,
@@ -103,7 +103,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn hắt trần ở 70%."
+      "text": "Giảm đèn hắt xuống 80%."
     },
     {
       "enabled": true,
@@ -113,7 +113,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn trần ở 40%."
+      "text": "Giảm đèn ban công xuống 50%."
     },
     {
       "enabled": true,
@@ -123,7 +123,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn ngủ xuống 20%."
+      "text": "Tăng đèn bàn ăn lên 50%."
     },
     {
       "enabled": true,
@@ -133,7 +133,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn bàn ăn lên 80%."
+      "text": "Tăng led hắt lên 60%."
     },
     {
       "enabled": true,
@@ -143,7 +143,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh đèn bàn về 40%."
+      "text": "Cho đèn sân vườn sáng 20%."
     },
     {
       "enabled": true,
@@ -153,7 +153,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Bật điều hòa phòng ngủ khách."
+      "text": "Giảm led tủ xuống 60%."
     },
     {
       "enabled": true,
@@ -163,7 +163,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn hắt trần sáng 60%."
+      "text": "Giảm đèn sân vườn xuống 80%."
     },
     {
       "enabled": true,
@@ -173,7 +173,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 50%."
+      "text": "Đặt đèn sân vườn ở 50%."
     },
     {
       "enabled": true,
@@ -183,7 +183,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn hắt trần lên 100%."
+      "text": "Cho đèn hắt sáng 40%."
     },
     {
       "enabled": true,
@@ -193,7 +193,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tắt điều hòa phòng giặt."
+      "text": "Cho đèn trần sáng 70%."
     },
     {
       "enabled": true,
@@ -203,7 +203,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở mức 30%."
+      "text": "Cho led hắt sáng 100%."
     },
     {
       "enabled": true,
@@ -213,7 +213,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn ngủ lên 50%."
+      "text": "Chỉnh đèn soi tranh về 50%."
     },
     {
       "enabled": true,
@@ -223,7 +223,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn bàn ăn ở 70%."
+      "text": "Đặt đèn bàn ở 80%."
     },
     {
       "enabled": true,
@@ -233,7 +233,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm nó còn 60%."
+      "text": "Cho đèn gương sáng 40%."
     },
     {
       "enabled": true,
@@ -243,7 +243,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh đèn trần về 80%."
+      "text": "Tăng đèn hắt lên 40%."
     },
     {
       "enabled": true,
@@ -253,7 +253,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở mức 60%."
+      "text": "Tăng downlight lên 60%."
     },
     {
       "enabled": true,
@@ -263,7 +263,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh đèn bàn về 70%."
+      "text": "Cho đèn hành lang sáng 20%."
     },
     {
       "enabled": true,
@@ -273,7 +273,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh đèn bàn ăn về 50%."
+      "text": "Cho đèn âm trần sáng 50%."
     },
     {
       "enabled": true,
@@ -283,7 +283,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn ngủ sáng 30%."
+      "text": "Cho đèn âm trần sáng 30%."
     },
     {
       "enabled": true,
@@ -293,7 +293,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho nó sáng 60%."
+      "text": "Cho led trần sáng 80%."
     },
     {
       "enabled": true,
@@ -303,7 +303,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn bàn ăn xuống 40%."
+      "text": "Đặt đèn sân vườn ở 40%."
     },
     {
       "enabled": true,
@@ -313,7 +313,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn bàn lên 60%."
+      "text": "Cho led tủ sáng 40%."
     },
     {
       "enabled": true,
@@ -323,7 +323,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn hắt trần sáng 50%."
+      "text": "Tăng đèn hắt lên 30%."
     },
     {
       "enabled": true,
@@ -333,7 +333,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 70%."
+      "text": "Giảm đèn ban công xuống 20%."
     },
     {
       "enabled": true,
@@ -343,7 +343,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đóng rèm."
+      "text": "Chỉnh led tủ về 60%."
     },
     {
       "enabled": true,
@@ -353,7 +353,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn bàn ở 60%."
+      "text": "Cho đèn chùm sáng 60%."
     },
     {
       "enabled": true,
@@ -363,7 +363,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tắt điều hòa phòng chơi."
+      "text": "Cho đèn bàn sáng 20%."
     },
     {
       "enabled": true,
@@ -373,7 +373,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn bàn ăn lên 30%."
+      "text": "Cho đèn ngủ sáng 50%."
     },
     {
       "enabled": true,
@@ -383,7 +383,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 40%."
+      "text": "Tắt điều hòa phòng đọc sách."
     },
     {
       "enabled": true,
@@ -393,7 +393,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn trần xuống 20%."
+      "text": "Giảm đèn wc xuống 70%."
     },
     {
       "enabled": true,
@@ -403,7 +403,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh đèn trần về 60%."
+      "text": "Tăng đèn thả lên 20%."
     },
     {
       "enabled": true,
@@ -413,7 +413,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở mức 40%."
+      "text": "Đặt đèn ban công ở 100%."
     },
     {
       "enabled": true,
@@ -423,7 +423,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn bàn ăn ở 60%."
+      "text": "Cho đèn wc sáng 40%."
     },
     {
       "enabled": true,
@@ -433,7 +433,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn trần xuống 30%."
+      "text": "Tăng đèn chùm lên 50%."
     },
     {
       "enabled": true,
@@ -443,7 +443,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn bàn lên 20%."
+      "text": "Tăng đèn sân vườn lên 50%."
     },
     {
       "enabled": true,
@@ -453,7 +453,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn hắt trần lên 70%."
+      "text": "Cho đèn ray sáng 80%."
     },
     {
       "enabled": true,
@@ -463,7 +463,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh đèn bàn về 100%."
+      "text": "Tăng đèn trần lên 20%."
     },
     {
       "enabled": true,
@@ -473,7 +473,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Để nó ở mức 80%."
+      "text": "Đặt đèn hành lang ở 20%."
     },
     {
       "enabled": true,
@@ -483,7 +483,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm nó xuống."
+      "text": "Tăng đèn âm trần lên 50%."
     },
     {
       "enabled": true,
@@ -493,7 +493,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn trần xuống 80%."
+      "text": "Tăng đèn soi tranh lên 80%."
     },
     {
       "enabled": true,
@@ -503,7 +503,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn trần ở 70%."
+      "text": "Tăng đèn sảnh lên 20%."
     },
     {
       "enabled": true,
@@ -513,7 +513,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn ngủ xuống 70%."
+      "text": "Chỉnh đèn ngủ về 20%."
     },
     {
       "enabled": true,
@@ -523,7 +523,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn ngủ sáng 80%."
+      "text": "Chỉnh downlight về 30%."
     },
     {
       "enabled": true,
@@ -533,7 +533,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn hắt trần xuống 70%."
+      "text": "Tăng đèn âm trần lên 20%."
     },
     {
       "enabled": true,
@@ -543,7 +543,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn trần ở 30%."
+      "text": "Tăng đèn thả lên 100%."
     },
     {
       "enabled": true,
@@ -553,7 +553,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tắt điều hòa phòng ngủ khách."
+      "text": "Cho đèn thả sáng 80%."
     },
     {
       "enabled": true,
@@ -563,7 +563,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn bàn xuống 50%."
+      "text": "Đặt đèn hiên ở 100%."
     },
     {
       "enabled": true,
@@ -573,7 +573,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn bàn ăn ở 20%."
+      "text": "Đặt đèn hắt trần ở 70%."
     },
     {
       "enabled": true,
@@ -583,7 +583,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Mở rèm phòng đọc sách."
+      "text": "Đặt đèn trần ở 40%."
     },
     {
       "enabled": true,
@@ -593,7 +593,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Bật đèn phòng tập."
+      "text": "Giảm đèn ngủ xuống 20%."
     },
     {
       "enabled": true,
@@ -603,7 +603,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tắt đèn."
+      "text": "Tăng đèn bàn ăn lên 80%."
     },
     {
       "enabled": true,
@@ -613,7 +613,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho đèn bàn sáng 40%."
+      "text": "Chỉnh đèn bàn về 40%."
     },
     {
       "enabled": true,
@@ -623,7 +623,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn bàn xuống 70%."
+      "text": "Đặt đèn chùm ở 100%."
     },
     {
       "enabled": true,
@@ -633,7 +633,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn bàn xuống 80%."
+      "text": "Bật điều hòa phòng ngủ khách."
     },
     {
       "enabled": true,
@@ -643,7 +643,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Bật máy lọc không khí."
+      "text": "Chỉnh đèn hắt về 30%."
     },
     {
       "enabled": true,
@@ -653,7 +653,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 70%."
+      "text": "Giảm đèn ray xuống 30%."
     },
     {
       "enabled": true,
@@ -663,7 +663,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Giảm đèn hắt trần xuống 100%."
+      "text": "Cho đèn soi tranh sáng 60%."
     },
     {
       "enabled": true,
@@ -673,7 +673,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn hắt trần lên 50%."
+      "text": "Cho led trần sáng 60%."
     },
     {
       "enabled": true,
@@ -683,7 +683,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Đặt đèn ngủ ở 100%."
+      "text": "Cho đèn tường sáng 40%."
     },
     {
       "enabled": true,
@@ -693,7 +693,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Cho nó sáng 30%."
+      "text": "Cho đèn hắt trần sáng 60%."
     },
     {
       "enabled": true,
@@ -703,7 +703,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "ambiguous",
-      "text": "Tăng đèn bàn ăn lên 100%."
+      "text": "Đặt đèn hiên ở 60%."
     },
     {
       "enabled": true,

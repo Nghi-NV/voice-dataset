@@ -13,7 +13,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm phòng thờ."
+      "text": "Bật downlight ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -23,7 +23,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt trần ở phòng ngủ chính."
+      "text": "Tắt cửa cuốn ở phòng khách."
     },
     {
       "enabled": true,
@@ -33,7 +33,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt trần ở phòng ngủ."
+      "text": "Tắt đèn chùm ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -43,7 +43,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm bên trái ở phòng khách."
+      "text": "Tắt quạt hút ở phòng thờ."
     },
     {
       "enabled": true,
@@ -53,7 +53,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm bên phải ở phòng ngủ nhỏ."
+      "text": "Bật đèn chùm ở phòng thờ."
     },
     {
       "enabled": true,
@@ -63,7 +63,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn trần ở phòng ngủ chính."
+      "text": "Bật đèn âm trần ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -73,7 +73,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm bên phải ở phòng khách."
+      "text": "Mở rèm phòng thờ."
     },
     {
       "enabled": true,
@@ -83,7 +83,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt ở phòng ngủ nhỏ."
+      "text": "Đóng rèm phòng khách ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -93,7 +93,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật điều hòa ở phòng ăn."
+      "text": "Tắt quạt trần ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -103,7 +103,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm bên trái ở phòng thờ."
+      "text": "Tắt led tủ ở phòng ăn."
     },
     {
       "enabled": true,
@@ -113,7 +113,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt phòng ngủ nhỏ."
+      "text": "Bật quạt trần ở phòng ngủ."
     },
     {
       "enabled": true,
@@ -123,7 +123,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật máy lạnh ở phòng thờ."
+      "text": "Tắt nóng lạnh ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -133,7 +133,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật máy lạnh ở phòng khách."
+      "text": "Đóng rèm bên trái ở phòng khách."
     },
     {
       "enabled": true,
@@ -143,7 +143,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn khu vực sân."
+      "text": "Tắt đèn ban công ở phòng thờ."
     },
     {
       "enabled": true,
@@ -153,7 +153,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm cửa ở phòng thờ."
+      "text": "Tắt đèn wc ở phòng ăn."
     },
     {
       "enabled": true,
@@ -163,7 +163,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở toàn bộ rèm ở phòng bếp."
+      "text": "Mở rèm bên phải ở phòng ngủ nhỏ."
     },
     {
       "enabled": true,
@@ -173,7 +173,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt ở phòng ngủ chính."
+      "text": "Mở màn cửa ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -183,7 +183,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm bên phải ở phòng thờ."
+      "text": "Tắt bình nóng lạnh ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -193,7 +193,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt ở phòng thờ."
+      "text": "Bật đèn hắt trần ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -203,7 +203,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật điều hòa phòng khách."
+      "text": "Đóng toàn bộ rèm ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -213,7 +213,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm bên phải ở phòng ngủ."
+      "text": "Bật đèn trần ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -223,7 +223,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt máy lạnh ở phòng ngủ nhỏ."
+      "text": "Đóng cổng chính ở phòng ăn."
     },
     {
       "enabled": true,
@@ -233,7 +233,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt máy lạnh ở phòng ngủ."
+      "text": "Đóng rèm bên phải ở phòng khách."
     },
     {
       "enabled": true,
@@ -243,7 +243,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt hết đèn ở phòng ngủ."
+      "text": "Tắt đèn wc ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -253,7 +253,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng toàn bộ rèm ở phòng ngủ."
+      "text": "Tắt quạt hút ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -263,7 +263,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật điều hòa ở phòng bếp."
+      "text": "Bật đèn ban công ở phòng thờ."
     },
     {
       "enabled": true,
@@ -273,7 +273,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm phòng bếp."
+      "text": "Mở rèm voan ở phòng bếp."
     },
     {
       "enabled": true,
@@ -283,7 +283,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn khu vực sân."
+      "text": "Bật quạt ở phòng ngủ nhỏ."
     },
     {
       "enabled": true,
@@ -293,7 +293,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn bàn làm việc."
+      "text": "Đóng rèm vải ở phòng ăn."
     },
     {
       "enabled": true,
@@ -303,7 +303,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm bên phải ở phòng ăn."
+      "text": "Tắt cửa cuốn ở phòng ăn."
     },
     {
       "enabled": true,
@@ -313,7 +313,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn bàn ở phòng ngủ nhỏ."
+      "text": "Bật điều hòa ở phòng ăn."
     },
     {
       "enabled": true,
@@ -323,7 +323,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt ở phòng ngủ."
+      "text": "Đóng rèm bên trái ở phòng thờ."
     },
     {
       "enabled": true,
@@ -333,7 +333,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt điều hòa phòng làm việc."
+      "text": "Đóng rèm vải ở phòng ngủ nhỏ."
     },
     {
       "enabled": true,
@@ -343,7 +343,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt phòng ngủ."
+      "text": "Bật quạt phòng ngủ nhỏ."
     },
     {
       "enabled": true,
@@ -353,7 +353,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm phòng ngủ chính."
+      "text": "Tắt bình nóng lạnh ở phòng khách."
     },
     {
       "enabled": true,
@@ -363,7 +363,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm bên trái ở phòng ăn."
+      "text": "Đóng rèm phòng khách ở phòng khách."
     },
     {
       "enabled": true,
@@ -373,7 +373,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt ở phòng ngủ nhỏ."
+      "text": "Bật cửa cuốn ở phòng thờ."
     },
     {
       "enabled": true,
@@ -383,7 +383,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng toàn bộ rèm ở phòng ngủ nhỏ."
+      "text": "Tắt led tủ ở phòng bếp."
     },
     {
       "enabled": true,
@@ -393,7 +393,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật máy lạnh ở phòng ngủ."
+      "text": "Tắt led tủ ở phòng ngủ nhỏ."
     },
     {
       "enabled": true,
@@ -403,7 +403,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm cửa ở phòng thờ."
+      "text": "Bật đèn downlight hành lang."
     },
     {
       "enabled": true,
@@ -413,7 +413,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn phòng ngủ nhỏ."
+      "text": "Bật máy lạnh ở phòng thờ."
     },
     {
       "enabled": true,
@@ -423,7 +423,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt hết đèn ở phòng ăn."
+      "text": "Đóng rèm vải ở phòng thờ."
     },
     {
       "enabled": true,
@@ -433,7 +433,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn khu vực ban công."
+      "text": "Bật quạt hút ở phòng ăn."
     },
     {
       "enabled": true,
@@ -443,7 +443,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt điều hòa phòng ăn."
+      "text": "Bật máy lạnh ở phòng khách."
     },
     {
       "enabled": true,
@@ -453,7 +453,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt ở phòng thờ."
+      "text": "Đóng cửa cuốn ở phòng khách."
     },
     {
       "enabled": true,
@@ -463,7 +463,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng toàn bộ rèm ở phòng ăn."
+      "text": "Bật led tủ ở phòng khách."
     },
     {
       "enabled": true,
@@ -473,7 +473,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn bàn ở phòng thờ."
+      "text": "Tắt đèn hắt trần ở phòng bếp."
     },
     {
       "enabled": true,
@@ -483,7 +483,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm ở phòng ăn."
+      "text": "Đóng cửa cuốn ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -493,7 +493,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật tất cả đèn ở phòng ngủ."
+      "text": "Tắt đèn khu vực sân."
     },
     {
       "enabled": true,
@@ -503,7 +503,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm cửa ở phòng ngủ chính."
+      "text": "Đóng màn cửa ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -513,7 +513,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm cửa ở phòng ngủ nhỏ."
+      "text": "Đóng rèm cửa ở phòng thờ."
     },
     {
       "enabled": true,
@@ -523,7 +523,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật điều hòa phòng ăn."
+      "text": "Mở toàn bộ rèm ở phòng bếp."
     },
     {
       "enabled": true,
@@ -533,7 +533,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt phòng làm việc."
+      "text": "Bật rèm cửa ở phòng bếp."
     },
     {
       "enabled": true,
@@ -543,7 +543,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm cửa ở phòng ngủ."
+      "text": "Đóng cửa cuốn ở phòng bếp."
     },
     {
       "enabled": true,
@@ -553,7 +553,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm phòng bếp."
+      "text": "Tắt quạt ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -563,7 +563,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn phòng thờ."
+      "text": "Bật đèn ban công ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -573,7 +573,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn bàn ở phòng ngủ chính."
+      "text": "Bật điều hòa ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -583,7 +583,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật quạt phòng ăn."
+      "text": "Tắt đèn tường ở phòng bếp."
     },
     {
       "enabled": true,
@@ -593,7 +593,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm ở phòng ngủ nhỏ."
+      "text": "Mở cổng chính ở phòng ngủ."
     },
     {
       "enabled": true,
@@ -603,7 +603,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn phòng ngủ."
+      "text": "Đóng rèm bên phải ở phòng thờ."
     },
     {
       "enabled": true,
@@ -613,7 +613,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm phòng ngủ chính."
+      "text": "Tắt đèn hắt ở phòng ăn."
     },
     {
       "enabled": true,
@@ -623,7 +623,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật máy lạnh ở phòng làm việc."
+      "text": "Bật quạt ở phòng thờ."
     },
     {
       "enabled": true,
@@ -633,7 +633,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn trần ở phòng làm việc."
+      "text": "Tắt bình nóng lạnh nhà tắm."
     },
     {
       "enabled": true,
@@ -643,7 +643,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở rèm bên trái ở phòng thờ."
+      "text": "Mở cửa cuốn ở phòng ngủ."
     },
     {
       "enabled": true,
@@ -653,7 +653,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Đóng rèm ở phòng làm việc."
+      "text": "Mở rèm cửa ở phòng ngủ."
     },
     {
       "enabled": true,
@@ -663,7 +663,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn trần ở phòng bếp."
+      "text": "Tắt đèn âm trần ở phòng ngủ chính."
     },
     {
       "enabled": true,
@@ -673,7 +673,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn trần phòng khách."
+      "text": "Tắt đèn hắt trần ở phòng làm việc."
     },
     {
       "enabled": true,
@@ -683,7 +683,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật máy lạnh ở phòng ngủ nhỏ."
+      "text": "Tắt đèn khu vực khu vực sofa."
     },
     {
       "enabled": true,
@@ -693,7 +693,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt phòng ngủ."
+      "text": "Đóng rèm phòng khách ở phòng ngủ."
     },
     {
       "enabled": true,
@@ -703,7 +703,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Bật đèn phòng ăn."
+      "text": "Bật quạt hút ở phòng bếp."
     },
     {
       "enabled": true,
@@ -713,7 +713,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở máy lạnh phòng ngủ chính lên."
+      "text": "Mở đèn sưởi phòng ngủ nhỏ lên."
     },
     {
       "enabled": true,
@@ -723,7 +723,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn bàn phòng thờ lên."
+      "text": "Mở máy lạnh phòng ngủ chính lên."
     },
     {
       "enabled": true,
@@ -733,7 +733,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn trần phòng ngủ chính lên."
+      "text": "Mở đèn hắt phòng ngủ nhỏ lên."
     },
     {
       "enabled": true,
@@ -743,7 +743,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn bàn phòng khách lên."
+      "text": "Mở đèn trần phòng ngủ chính lên."
     },
     {
       "enabled": true,
@@ -753,7 +753,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn trần phòng bếp lên."
+      "text": "Tắt đèn wc phòng ngủ chính đi."
     },
     {
       "enabled": true,
@@ -763,7 +763,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn bàn phòng ngủ nhỏ đi."
+      "text": "Mở rèm cửa phòng ngủ lên."
     },
     {
       "enabled": true,
@@ -773,7 +773,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở giùm đèn phòng thờ nhen."
+      "text": "Mở đèn wc phòng thờ lên."
     },
     {
       "enabled": true,
@@ -783,7 +783,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt trần phòng ngủ chính đi."
+      "text": "Tắt đèn tường phòng ngủ đi."
     },
     {
       "enabled": true,
@@ -793,7 +793,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn bàn phòng ăn đi."
+      "text": "Mở đèn chùm phòng ăn lên."
     },
     {
       "enabled": true,
@@ -803,7 +803,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn bàn phòng ngủ nhỏ lên."
+      "text": "Mở quạt hút phòng ăn lên."
     },
     {
       "enabled": true,
@@ -813,7 +813,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Kéo màn cửa phòng bếp ra."
+      "text": "Mở cửa cuốn phòng làm việc lên."
     },
     {
       "enabled": true,
@@ -823,7 +823,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn bàn phòng ăn lên."
+      "text": "Mở cửa cuốn phòng bếp lên."
     },
     {
       "enabled": true,
@@ -833,7 +833,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở quạt phòng ăn lên."
+      "text": "Mở đèn trần phòng bếp lên."
     },
     {
       "enabled": true,
@@ -843,7 +843,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở điều hòa phòng làm việc lên."
+      "text": "Mở nóng lạnh phòng ăn lên."
     },
     {
       "enabled": true,
@@ -853,7 +853,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt phòng ngủ chính đi."
+      "text": "Tắt nóng lạnh phòng ngủ chính đi."
     },
     {
       "enabled": true,
@@ -863,7 +863,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn trần phòng ngủ đi."
+      "text": "Tắt nóng lạnh phòng ngủ đi."
     },
     {
       "enabled": true,
@@ -873,7 +873,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở quạt trần phòng ăn lên."
+      "text": "Mở đèn âm trần phòng bếp lên."
     },
     {
       "enabled": true,
@@ -883,7 +883,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn trần phòng ngủ nhỏ đi."
+      "text": "Tắt đèn hắt phòng ngủ chính đi."
     },
     {
       "enabled": true,
@@ -893,7 +893,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Kéo màn cửa phòng khách ra."
+      "text": "Mở giùm đèn phòng thờ nhen."
     },
     {
       "enabled": true,
@@ -903,7 +903,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn trần phòng ăn lên."
+      "text": "Mở nóng lạnh phòng khách lên."
     },
     {
       "enabled": true,
@@ -913,7 +913,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Kéo màn cửa phòng thờ ra."
+      "text": "Mở đèn âm trần phòng ngủ nhỏ lên."
     },
     {
       "enabled": true,
@@ -923,7 +923,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt điều hòa phòng ăn đi."
+      "text": "Tắt rèm cửa phòng ngủ đi."
     },
     {
       "enabled": true,
@@ -933,7 +933,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở điều hòa phòng bếp lên."
+      "text": "Mở đèn tường phòng ngủ nhỏ lên."
     },
     {
       "enabled": true,
@@ -943,7 +943,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt phòng khách đi."
+      "text": "Mở bình nóng lạnh phòng ngủ chính lên."
     },
     {
       "enabled": true,
@@ -953,7 +953,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Mở đèn trần phòng thờ lên."
+      "text": "Tắt đèn tường phòng ngủ nhỏ đi."
     },
     {
       "enabled": true,
@@ -963,7 +963,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt máy lạnh phòng khách đi."
+      "text": "Tắt led tủ phòng khách đi."
     },
     {
       "enabled": true,
@@ -973,7 +973,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt phòng bếp đi."
+      "text": "Mở led tủ phòng ngủ chính lên."
     },
     {
       "enabled": true,
@@ -983,7 +983,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt đèn bàn phòng làm việc đi."
+      "text": "Tắt đèn sưởi phòng bếp đi."
     },
     {
       "enabled": true,
@@ -993,7 +993,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt quạt phòng làm việc đi."
+      "text": "Tắt đèn tường phòng bếp đi."
     },
     {
       "enabled": true,
@@ -1003,7 +1003,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "atomic",
-      "text": "Tắt điều hòa phòng ngủ nhỏ đi."
+      "text": "Mở đèn tường phòng bếp lên."
     }
   ],
   "shard": 1

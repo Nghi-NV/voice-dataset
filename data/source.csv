@@ -1,0 +1,913 @@
+id,text,region,difficulty,language_style,enabled,task_shape,recording_mode,region_scope,conversation_id,turn_index,turn_count,template_id
+VI_NORTH_E_0001,Bật rèm cửa ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0002,Tắt đèn trần ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0003,Mở rèm bên trái ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0004,Tắt led tủ ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0005,Bật led tủ ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0006,Bật cửa cuốn ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0007,Bật đèn ban công ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0008,Tắt quạt phòng làm việc.,north,easy,standard,true,atomic,single,north,,,,E-STD-012
+VI_NORTH_E_0009,Bật đèn sưởi ở phòng làm việc.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0010,Bật máy lạnh ở phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0011,Mở rèm vải ở phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0012,Đóng rèm phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-008
+VI_NORTH_E_0013,Mở rèm voan ở phòng ngủ nhỏ.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0014,Tắt đèn trần ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0015,Tắt đèn phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-006
+VI_NORTH_E_0016,Tắt đèn ban công ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0017,Mở cửa cuốn ở phòng bếp.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0018,Bật đèn sưởi ở phòng ăn.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0019,Tắt bình nóng lạnh ở phòng ngủ nhỏ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0020,Mở rèm bên trái ở phòng làm việc.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0021,Bật đèn tường ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0022,Tắt đèn khu vực hành lang.,north,easy,standard,true,atomic,single,north,,,,E-STD-022
+VI_NORTH_E_0023,Bật đèn hắt trần ở phòng bếp.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0024,Mở rèm bên phải ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0025,Bật rèm cửa ở phòng ăn.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0026,Bật bình nóng lạnh ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0027,Bật điều hòa ở phòng ngủ nhỏ.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0028,Mở rèm phòng ngủ nhỏ.,north,easy,standard,true,atomic,single,north,,,,E-STD-007
+VI_NORTH_E_0029,Tắt đèn tường ở phòng ăn.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0030,Tắt led tủ ở phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0031,Tắt đèn trang trí.,north,easy,standard,true,atomic,single,north,,,,E-STD-018
+VI_NORTH_E_0032,Bật tất cả đèn ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-013
+VI_NORTH_E_0033,Tắt đèn tường ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0034,Mở cổng chính ở phòng ngủ nhỏ.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0035,Bật đèn ban công ở phòng ăn.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0036,Bật đèn wc ở phòng làm việc.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0037,Đóng màn cửa ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-004
+VI_NORTH_E_0038,Bật đèn tường ở phòng ngủ nhỏ.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0039,Mở rèm phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-007
+VI_NORTH_E_0040,Tắt led tủ ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0041,Bật đèn trần ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0042,Đóng rèm voan ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-004
+VI_NORTH_E_0043,Tắt điều hòa ở phòng bếp.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0044,Bật downlight ở phòng làm việc.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0045,Đóng rèm cửa ở phòng ăn.,north,easy,standard,true,atomic,single,north,,,,E-STD-004
+VI_NORTH_E_0046,Mở rèm phòng khách ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0047,Tắt quạt trần ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0048,Bật đèn hắt phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-017
+VI_NORTH_E_0049,Tắt máy lạnh ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0050,Mở rèm bên phải ở phòng bếp.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0051,Bật quạt phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-011
+VI_NORTH_E_0052,Tắt đèn chùm ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0053,Tắt quạt trần ở phòng bếp.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0054,Tắt đèn âm trần ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0055,Tắt đèn hắt ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0056,Tắt nóng lạnh ở phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0057,Mở rèm bên trái ở phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0058,Mở rèm bên trái ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0059,Mở rèm cửa ở phòng làm việc.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0060,Mở cổng chính ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-003
+VI_NORTH_E_0061,Bật đèn phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-005
+VI_NORTH_E_0062,Tắt điều hòa phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-010
+VI_NORTH_E_0063,Tắt đèn khu vực cầu thang.,north,easy,standard,true,atomic,single,north,,,,E-STD-022
+VI_NORTH_E_0064,Bật đèn sưởi ở phòng ngủ chính.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0065,Tắt đèn tường ở phòng làm việc.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0066,Tắt led tủ ở phòng ngủ.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0067,Bật bình nóng lạnh nhà tắm.,north,easy,standard,true,atomic,single,north,,,,E-STD-017
+VI_NORTH_E_0068,Bật đèn khu vực khu vực sofa.,north,easy,standard,true,atomic,single,north,,,,E-STD-021
+VI_NORTH_E_0069,Tắt quạt trần ở phòng khách.,north,easy,standard,true,atomic,single,north,,,,E-STD-002
+VI_NORTH_E_0070,Bật đèn âm trần ở phòng thờ.,north,easy,standard,true,atomic,single,north,,,,E-STD-001
+VI_NORTH_E_0071,Bật máy lạnh phòng làm việc lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0072,Tắt quạt hút phòng ngủ chính đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0073,Tắt quạt phòng ngủ nhỏ đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0074,Tắt đèn hắt phòng ăn đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0075,Tắt đèn chùm phòng ngủ chính đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0076,Bật rèm cửa phòng ăn lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0077,Tắt đèn tường phòng làm việc đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0078,Tắt quạt trần phòng thờ đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0079,Tắt rèm cửa phòng ăn đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0080,Tắt đèn hắt phòng bếp đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0081,Tắt điều hòa phòng ngủ đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0082,Tắt đèn trần phòng ngủ chính đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0083,Tắt đèn tường phòng thờ đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0084,Cho quạt phòng bếp chạy đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-004
+VI_NORTH_E_0085,Bật đèn ban công phòng ngủ nhỏ lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0086,Tắt nóng lạnh phòng ăn đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0087,Bật led tủ phòng làm việc lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0088,Bật quạt hút phòng bếp lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0089,Cho quạt phòng ăn chạy đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-004
+VI_NORTH_E_0090,Bật rèm cửa phòng khách lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0091,Bật quạt phòng ăn lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0092,Bật máy lạnh phòng ngủ nhỏ lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0093,Tắt bình nóng lạnh phòng thờ đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0094,Bật đèn tường phòng thờ lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0095,Bật đèn âm trần phòng ăn lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0096,Tắt đèn wc phòng bếp đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_E_0097,Bật đèn hắt trần phòng ăn lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0098,Bật bình nóng lạnh phòng làm việc lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0099,Bật rèm cửa phòng bếp lên.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-001
+VI_NORTH_E_0100,Tắt led tủ phòng ngủ nhỏ đi.,north,easy,regional,true,atomic,single,north,,,,E-NORTH-002
+VI_NORTH_N_0001,Giảm độ sáng đèn hành lang xuống 60%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0002,Đèn phòng ăn đang bật hay tắt?,north,normal,standard,true,compound,single,north,,,,N-STD-029
+VI_NORTH_N_0003,Chuyển đèn wc sang ánh sáng trắng.,north,normal,standard,true,compound,single,north,,,,N-STD-020
+VI_NORTH_N_0004,Giảm độ sáng đèn wc xuống 30%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0005,Chuyển điều hòa phòng ngủ nhỏ sang chế độ quạt.,north,normal,standard,true,compound,single,north,,,,N-STD-010
+VI_NORTH_N_0006,Đặt quạt phòng ngủ ở mức 3.,north,normal,standard,true,compound,single,north,,,,N-STD-026
+VI_NORTH_N_0007,Giảm điều hòa phòng ngủ chính đi 1 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-008
+VI_NORTH_N_0008,Mở rèm phòng bếp 50%.,north,normal,standard,true,compound,single,north,,,,N-STD-021
+VI_NORTH_N_0009,Chỉnh điều hòa phòng làm việc xuống 22 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-004
+VI_NORTH_N_0010,Giảm độ sáng đèn sân vườn xuống 50%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0011,Đặt độ sáng đèn âm trần ở mức 80%.,north,normal,standard,true,compound,single,north,,,,N-STD-011
+VI_NORTH_N_0012,Đặt nhiệt độ màu của đèn âm trần là 3000 K.,north,normal,standard,true,compound,single,north,,,,N-STD-018
+VI_NORTH_N_0013,Tăng nhiệt độ điều hòa phòng ngủ lên 26 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-005
+VI_NORTH_N_0014,Chuyển downlight sang ánh sáng trắng.,north,normal,standard,true,compound,single,north,,,,N-STD-020
+VI_NORTH_N_0015,Chỉnh điều hòa phòng ngủ nhỏ xuống 26 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-004
+VI_NORTH_N_0016,Đèn tường đang bật không?,north,normal,standard,true,compound,single,north,,,,N-STD-030
+VI_NORTH_N_0017,Giảm độ sáng đèn bàn xuống 80%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0018,Tăng nhiệt độ điều hòa phòng khách lên 26 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-005
+VI_NORTH_N_0019,Tăng độ sáng downlight lên 50%.,north,normal,standard,true,compound,single,north,,,,N-STD-013
+VI_NORTH_N_0020,Giảm nhiệt độ điều hòa phòng ăn xuống 28 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-006
+VI_NORTH_N_0021,Chỉnh điều hòa phòng làm việc xuống 24 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-004
+VI_NORTH_N_0022,Bật điều hòa phòng làm việc và mở rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-001
+VI_NORTH_N_0023,Chuyển đèn trong phòng ngủ chính sang ánh sáng ấm.,north,normal,standard,true,compound,single,north,,,,N-STD-019
+VI_NORTH_N_0024,Đóng rèm phòng ngủ còn 70%.,north,normal,standard,true,compound,single,north,,,,N-STD-022
+VI_NORTH_N_0025,Giảm độ sáng đèn ngủ xuống 20%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0026,Mở rèm phòng thờ 60%.,north,normal,standard,true,compound,single,north,,,,N-STD-021
+VI_NORTH_N_0027,Đặt độ sáng downlight ở mức 40%.,north,normal,standard,true,compound,single,north,,,,N-STD-011
+VI_NORTH_N_0028,Tắt đèn ban công phòng ngủ và đóng rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-002
+VI_NORTH_N_0029,Mở rèm phòng ngủ một nửa.,north,normal,standard,true,compound,single,north,,,,N-STD-023
+VI_NORTH_N_0030,Đặt điều hòa phòng làm việc ở 26 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-003
+VI_NORTH_N_0031,Giảm độ sáng đèn hắt xuống 70%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0032,Đặt độ sáng đèn bàn ở mức 60%.,north,normal,standard,true,compound,single,north,,,,N-STD-011
+VI_NORTH_N_0033,Mở rèm phòng khách 75%.,north,normal,standard,true,compound,single,north,,,,N-STD-021
+VI_NORTH_N_0034,Đặt nhiệt độ màu của đèn hắt là 3000 K.,north,normal,standard,true,compound,single,north,,,,N-STD-018
+VI_NORTH_N_0035,Tăng độ sáng đèn wc lên 100%.,north,normal,standard,true,compound,single,north,,,,N-STD-013
+VI_NORTH_N_0036,Tắt nóng lạnh phòng ngủ và đóng rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-002
+VI_NORTH_N_0037,Chỉnh điều hòa phòng ngủ chính xuống 28 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-004
+VI_NORTH_N_0038,Tăng độ sáng đèn tường lên 20%.,north,normal,standard,true,compound,single,north,,,,N-STD-013
+VI_NORTH_N_0039,Giảm nhiệt độ điều hòa phòng khách xuống 26 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-006
+VI_NORTH_N_0040,Mở rèm phòng khách 40%.,north,normal,standard,true,compound,single,north,,,,N-STD-021
+VI_NORTH_N_0041,Tăng độ sáng đèn âm trần lên 70%.,north,normal,standard,true,compound,single,north,,,,N-STD-013
+VI_NORTH_N_0042,Bật đèn tường phòng làm việc và mở rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-001
+VI_NORTH_N_0043,Giảm độ sáng đèn sảnh xuống 80%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0044,Bật đèn sưởi phòng ăn và mở rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-001
+VI_NORTH_N_0045,Đặt điều hòa phòng khách ở 25 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-003
+VI_NORTH_N_0046,Giảm độ sáng đèn thả xuống 50%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0047,Giảm độ sáng đèn soi tranh xuống 30%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0048,Đặt điều hòa phòng ngủ chính ở 27 độ.,north,normal,standard,true,compound,single,north,,,,N-STD-003
+VI_NORTH_N_0049,Giảm độ sáng đèn sảnh xuống 70%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0050,Đóng rèm phòng ngủ chính còn 60%.,north,normal,standard,true,compound,single,north,,,,N-STD-022
+VI_NORTH_N_0051,Tăng độ sáng đèn âm trần lên 40%.,north,normal,standard,true,compound,single,north,,,,N-STD-013
+VI_NORTH_N_0052,Tắt nóng lạnh phòng ngủ chính và đóng rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-002
+VI_NORTH_N_0053,Giảm độ sáng đèn ban công xuống 40%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0054,Giảm độ sáng đèn âm trần xuống 30%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0055,Giảm độ sáng đèn hắt trần xuống 100%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0056,Tăng độ sáng đèn hiên lên 30%.,north,normal,standard,true,compound,single,north,,,,N-STD-013
+VI_NORTH_N_0057,Giảm độ sáng led tủ xuống 50%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0058,Giảm sáng phòng ăn đi một nửa.,north,normal,standard,true,compound,single,north,,,,N-STD-017
+VI_NORTH_N_0059,Rèm phòng ngủ chính đã đóng chưa?,north,normal,standard,true,compound,single,north,,,,N-STD-034
+VI_NORTH_N_0060,Tắt đèn tường phòng ngủ chính và đóng rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-002
+VI_NORTH_N_0061,Đặt độ sáng downlight ở mức 70%.,north,normal,standard,true,compound,single,north,,,,N-STD-011
+VI_NORTH_N_0062,Đặt độ sáng đèn soi tranh ở mức 40%.,north,normal,standard,true,compound,single,north,,,,N-STD-011
+VI_NORTH_N_0063,Chuyển điều hòa phòng ngủ chính sang chế độ quạt.,north,normal,standard,true,compound,single,north,,,,N-STD-010
+VI_NORTH_N_0064,Tắt đèn hắt trần phòng ăn và đóng rèm.,north,normal,standard,true,compound,single,north,,,,N-STD-002
+VI_NORTH_N_0065,Mở rèm phòng ngủ 45%.,north,normal,standard,true,compound,single,north,,,,N-STD-021
+VI_NORTH_N_0066,Giảm sáng phòng làm việc đi một nửa.,north,normal,standard,true,compound,single,north,,,,N-STD-017
+VI_NORTH_N_0067,Bật đèn bàn ăn rồi giảm xuống 40% thôi.,north,normal,standard,true,compound,single,north,,,,N-STD-069
+VI_NORTH_N_0068,Giảm độ sáng đèn sảnh xuống 60%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0069,Trong phòng thờ còn thiết bị nào đang hoạt động?,north,normal,standard,true,compound,single,north,,,,N-STD-035
+VI_NORTH_N_0070,Giảm độ sáng đèn sân vườn xuống 30%.,north,normal,standard,true,compound,single,north,,,,N-STD-012
+VI_NORTH_N_0071,Bật đèn hắt phòng ngủ chính rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0072,Bật đèn chùm phòng ăn rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0073,Tắt đèn ban công phòng thờ và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0074,Tắt cửa cuốn phòng làm việc và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0075,Tắt quạt hút phòng ăn và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0076,Tắt điều hòa phòng ngủ chính và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0077,Tắt đèn âm trần phòng thờ và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0078,Bật cửa cuốn phòng ngủ chính rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0079,Tắt đèn tường phòng bếp và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0080,Tắt bình nóng lạnh phòng ngủ nhỏ và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0081,Tắt led tủ phòng khách và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0082,Bật đèn ban công phòng ngủ nhỏ rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0083,Bật đèn phòng ngủ và mở rèm nhé.,north,normal,regional,true,compound,single,north,,,,N-NORTH-003
+VI_NORTH_N_0084,Tắt đèn hắt phòng ngủ nhỏ và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0085,Tắt quạt hút phòng ngủ chính và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0086,Tắt quạt hút phòng làm việc và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0087,Bật led tủ phòng ngủ nhỏ rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0088,Tắt đèn trần phòng khách và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0089,Bật bình nóng lạnh phòng ngủ rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0090,Tắt downlight phòng bếp và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0091,Bật máy lạnh phòng ngủ chính rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0092,Tắt đèn âm trần phòng làm việc và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0093,Tắt đèn sưởi phòng ngủ nhỏ và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0094,Bật led tủ phòng ngủ chính rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0095,Bật đèn hắt phòng khách rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0096,Bật đèn sưởi phòng bếp rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_N_0097,Tắt đèn ban công phòng ngủ chính và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0098,Tắt cửa cuốn phòng thờ và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0099,Tắt đèn chùm phòng làm việc và đóng rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-002
+VI_NORTH_N_0100,Bật cửa cuốn phòng khách rồi mở rèm.,north,normal,regional,true,compound,single,north,,,,N-NORTH-001
+VI_NORTH_H_0001,Giảm đèn thả xuống 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0002,Để nó ở mức 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-017
+VI_NORTH_H_0003,Giảm đèn chùm xuống 30%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0004,Giảm đèn hành lang xuống 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0005,Tăng led trần lên 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0006,Cho đèn thả sáng 70%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0007,Tăng đèn ray lên 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0008,Đặt đèn thả ở 70%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0009,Tăng đèn ray lên 70%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0010,Giảm đèn hắt xuống 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0011,Giảm đèn ban công xuống 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0012,Tăng đèn bàn ăn lên 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0013,Tăng led hắt lên 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0014,Cho đèn sân vườn sáng 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0015,Giảm led tủ xuống 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0016,Giảm đèn sân vườn xuống 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0017,Đặt đèn sân vườn ở 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0018,Cho đèn hắt sáng 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0019,Cho đèn trần sáng 70%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0020,Cho led hắt sáng 100%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0021,Chỉnh đèn soi tranh về 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-025
+VI_NORTH_H_0022,Đặt đèn bàn ở 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0023,Cho đèn gương sáng 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0024,Tăng đèn hắt lên 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0025,Tăng downlight lên 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0026,Cho đèn hành lang sáng 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0027,Cho đèn âm trần sáng 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0028,Cho đèn âm trần sáng 30%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0029,Cho led trần sáng 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0030,Đặt đèn sân vườn ở 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0031,Cho led tủ sáng 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0032,Tăng đèn hắt lên 30%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0033,Giảm đèn ban công xuống 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0034,Chỉnh led tủ về 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-025
+VI_NORTH_H_0035,Cho đèn chùm sáng 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0036,Cho đèn bàn sáng 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0037,Cho đèn ngủ sáng 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0038,Tắt điều hòa phòng đọc sách.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-012
+VI_NORTH_H_0039,Giảm đèn wc xuống 70%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0040,Tăng đèn thả lên 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0041,Đặt đèn ban công ở 100%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0042,Cho đèn wc sáng 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0043,Tăng đèn chùm lên 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0044,Tăng đèn sân vườn lên 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0045,Cho đèn ray sáng 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0046,Tăng đèn trần lên 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0047,Đặt đèn hành lang ở 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0048,Tăng đèn âm trần lên 50%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0049,Tăng đèn soi tranh lên 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0050,Tăng đèn sảnh lên 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0051,Chỉnh đèn ngủ về 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-025
+VI_NORTH_H_0052,Chỉnh downlight về 30%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-025
+VI_NORTH_H_0053,Tăng đèn âm trần lên 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0054,Tăng đèn thả lên 100%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0055,Cho đèn thả sáng 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0056,Đặt đèn hiên ở 100%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0057,Đặt đèn hắt trần ở 70%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0058,Đặt đèn trần ở 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0059,Giảm đèn ngủ xuống 20%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0060,Tăng đèn bàn ăn lên 80%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-023
+VI_NORTH_H_0061,Chỉnh đèn bàn về 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-025
+VI_NORTH_H_0062,Đặt đèn chùm ở 100%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0063,Bật điều hòa phòng ngủ khách.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-030
+VI_NORTH_H_0064,Chỉnh đèn hắt về 30%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-025
+VI_NORTH_H_0065,Giảm đèn ray xuống 30%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-024
+VI_NORTH_H_0066,Cho đèn soi tranh sáng 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0067,Cho led trần sáng 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0068,Cho đèn tường sáng 40%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0069,Cho đèn hắt trần sáng 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-027
+VI_NORTH_H_0070,Đặt đèn hiên ở 60%.,north,hard,standard,true,ambiguous,single,north,,,,H-STD-026
+VI_NORTH_H_0071,Đặt cái đó ở mức 30% thôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-003
+VI_NORTH_H_0072,Đặt cái đó ở mức 70% thôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-003
+VI_NORTH_H_0073,Để cái ấy ở mức 30% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0074,Chỉnh cái ấy còn 30% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-002
+VI_NORTH_H_0075,Để cái ấy ở mức 60% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0076,Tăng cái đấy lên 70% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_NORTH_H_0077,Tăng cái đấy lên 50% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_NORTH_H_0078,Tăng cái đấy lên 60% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_NORTH_H_0079,Chỉnh cái ấy còn 40% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-002
+VI_NORTH_H_0080,Để cái ấy ở mức 100% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0081,Đặt cái đó ở mức 50% thôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-003
+VI_NORTH_H_0082,Chỉnh cái ấy còn 80% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-002
+VI_NORTH_H_0083,Đặt cái đó ở mức 60% thôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-003
+VI_NORTH_H_0084,Chỉnh cái ấy còn 50% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-002
+VI_NORTH_H_0085,Đặt cái đó ở mức 100% thôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-003
+VI_NORTH_H_0086,Chỉnh cái ấy còn 60% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-002
+VI_NORTH_H_0087,Để cái ấy ở mức 80% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0088,Chỉnh cái ấy còn 70% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-002
+VI_NORTH_H_0089,Để cái ấy ở mức 40% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0090,Tăng cái đấy lên 100% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_NORTH_H_0091,Đặt cái đó ở mức 40% thôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-003
+VI_NORTH_H_0092,Để cái ấy ở mức 50% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0093,Đặt cái đó ở mức 20% thôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-003
+VI_NORTH_H_0094,Để cái ấy ở mức 70% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0095,Tăng cái đấy lên 80% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_NORTH_H_0096,Chỉnh cái ấy còn 100% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-002
+VI_NORTH_H_0097,Tăng cái đấy lên 20% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_NORTH_H_0098,Để cái ấy ở mức 20% hộ tôi.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-004
+VI_NORTH_H_0099,Tăng cái đấy lên 40% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_NORTH_H_0100,Tăng cái đấy lên 30% nhé.,north,hard,regional,true,ambiguous,single,north,,,,H-NORTH-001
+VI_CENTRAL_E_0001,Bật đèn trần ở phòng ngủ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0002,Tắt đèn âm trần ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0003,Bật quạt phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-011
+VI_CENTRAL_E_0004,Tắt quạt hút ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0005,Mở rèm voan ở phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0006,Bật đèn hắt trần ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0007,Bật led tủ ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0008,Mở cổng chính ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0009,Bật điều hòa ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0010,Đóng rèm bên phải ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0011,Tắt nóng lạnh ở phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0012,Bật điều hòa phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-009
+VI_CENTRAL_E_0013,Đóng cửa cuốn ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0014,Tắt đèn âm trần ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0015,Bật led tủ ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0016,Đóng rèm phòng khách ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0017,Tắt máy lạnh ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0018,Bật downlight ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0019,Tắt đèn ban công ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0020,Đóng cổng chính ở phòng bếp.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0021,Bật cửa cuốn ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0022,Tắt cửa cuốn ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0023,Mở rèm bên phải ở phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0024,Mở rèm cửa ở phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0025,Bật đèn chùm ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0026,Đóng rèm bên trái ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0027,Bật quạt trần ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0028,Bật cửa cuốn ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0029,Bật quạt ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0030,Tắt đèn khu vực quầy bếp.,central,easy,standard,true,atomic,single,central,,,,E-STD-022
+VI_CENTRAL_E_0031,Bật đèn phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-005
+VI_CENTRAL_E_0032,Mở rèm ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0033,Mở rèm bên trái ở phòng bếp.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0034,Tắt downlight ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0035,Tắt đèn phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-006
+VI_CENTRAL_E_0036,Bật đèn khu vực cầu thang.,central,easy,standard,true,atomic,single,central,,,,E-STD-021
+VI_CENTRAL_E_0037,Bật đèn sưởi ở phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0038,Bật điều hòa phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-009
+VI_CENTRAL_E_0039,Mở rèm phòng khách ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0040,Đóng rèm cửa ở phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0041,Bật nóng lạnh ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0042,Bật đèn trần ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0043,Tắt đèn ban công ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0044,Bật đèn ban công ở phòng bếp.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0045,Đóng rèm bên trái ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0046,Bật led tủ ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0047,Tắt đèn phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-006
+VI_CENTRAL_E_0048,Mở cửa cuốn ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0049,Đóng rèm vải ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0050,Bật điều hòa ở phòng ngủ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0051,Tắt nóng lạnh ở phòng bếp.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0052,Tắt điều hòa ở phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0053,Bật nóng lạnh ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0054,Mở toàn bộ rèm ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-015
+VI_CENTRAL_E_0055,Tắt đèn chùm ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0056,Bật downlight ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0057,Mở rèm bên phải ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0058,Tắt điều hòa phòng khách.,central,easy,standard,true,atomic,single,central,,,,E-STD-010
+VI_CENTRAL_E_0059,Mở rèm ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0060,Tắt hết đèn ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-014
+VI_CENTRAL_E_0061,Bật máy lạnh ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0062,Bật quạt ở phòng ngủ chính.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0063,Đóng rèm voan ở phòng ăn.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0064,Mở rèm ở phòng ngủ.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0065,Bật quạt đứng phòng ngủ.,central,easy,standard,true,atomic,single,central,,,,E-STD-017
+VI_CENTRAL_E_0066,Tắt rèm cửa ở phòng bếp.,central,easy,standard,true,atomic,single,central,,,,E-STD-002
+VI_CENTRAL_E_0067,Mở màn cửa ở phòng ngủ nhỏ.,central,easy,standard,true,atomic,single,central,,,,E-STD-003
+VI_CENTRAL_E_0068,Đóng cửa cuốn ở phòng làm việc.,central,easy,standard,true,atomic,single,central,,,,E-STD-004
+VI_CENTRAL_E_0069,Đóng toàn bộ rèm ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-016
+VI_CENTRAL_E_0070,Bật đèn tường ở phòng thờ.,central,easy,standard,true,atomic,single,central,,,,E-STD-001
+VI_CENTRAL_E_0071,Bật cửa cuốn phòng ngủ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0072,Bật downlight phòng ngủ chính nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0073,Tắt quạt hút phòng khách nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0074,Tắt bình nóng lạnh phòng thờ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0075,Tắt đèn trần phòng thờ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0076,Tắt bình nóng lạnh phòng ngủ chính nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0077,Bật đèn trần phòng ăn nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0078,Bật điều hòa phòng ăn nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0079,Tắt nóng lạnh phòng thờ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0080,Bật nóng lạnh phòng khách nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0081,Bật đèn chùm phòng ngủ nhỏ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0082,Bật cửa cuốn phòng làm việc nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0083,Tắt cửa cuốn phòng bếp nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0084,Bật downlight phòng khách nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0085,Tắt bình nóng lạnh phòng làm việc nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0086,Bật đèn sưởi phòng ngủ chính nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0087,Tắt bình nóng lạnh phòng ngủ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0088,Tắt đèn wc phòng làm việc nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0089,Tắt đèn ban công phòng ngủ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0090,Bật đèn chùm phòng ăn nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0091,Bật nóng lạnh phòng ăn nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0092,Bật máy lạnh phòng ngủ lên.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-005
+VI_CENTRAL_E_0093,Tắt quạt phòng ngủ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-002
+VI_CENTRAL_E_0094,Bật downlight phòng thờ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0095,Bật đèn âm trần phòng khách nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0096,Bật cửa cuốn phòng bếp nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0097,Bật quạt trần phòng ngủ nhỏ nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0098,Bật điều hòa phòng bếp nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0099,Bật đèn sưởi phòng ăn nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_E_0100,Bật cửa cuốn phòng ăn nghe.,central,easy,regional,true,atomic,single,central,,,,E-CENTRAL-001
+VI_CENTRAL_N_0001,Tăng độ sáng đèn ban công lên 80%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0002,Đặt độ sáng downlight ở mức 100%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0003,Bật đèn hắt trần phòng khách và mở rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-001
+VI_CENTRAL_N_0004,Tăng nhiệt độ điều hòa phòng ngủ lên 25 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-005
+VI_CENTRAL_N_0005,Giảm độ sáng led trần xuống 80%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0006,Giảm nhiệt độ điều hòa phòng bếp xuống 28 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-006
+VI_CENTRAL_N_0007,Mở rèm phòng ngủ nhỏ 75%.,central,normal,standard,true,compound,single,central,,,,N-STD-021
+VI_CENTRAL_N_0008,Tăng độ sáng đèn tường lên 80%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0009,Đặt nhiệt độ màu của đèn hắt trần là 3000 K.,central,normal,standard,true,compound,single,central,,,,N-STD-018
+VI_CENTRAL_N_0010,Tăng quạt phòng thờ lên mức 3.,central,normal,standard,true,compound,single,central,,,,N-STD-027
+VI_CENTRAL_N_0011,Giảm độ sáng đèn thả xuống 60%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0012,Bật nóng lạnh phòng ngủ nhỏ và mở rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-001
+VI_CENTRAL_N_0013,Tắt đèn chùm phòng thờ và đóng rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-002
+VI_CENTRAL_N_0014,Giảm độ sáng đèn chùm xuống 60%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0015,Giảm độ sáng downlight xuống 20%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0016,Quạt hút đang bật không?,central,normal,standard,true,compound,single,central,,,,N-STD-030
+VI_CENTRAL_N_0017,Đặt điều hòa phòng thờ ở 26 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-003
+VI_CENTRAL_N_0018,Mở rèm phòng bếp 25%.,central,normal,standard,true,compound,single,central,,,,N-STD-021
+VI_CENTRAL_N_0019,Tăng độ sáng đèn thả lên 100%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0020,Tăng quạt phòng ngủ lên mức 3.,central,normal,standard,true,compound,single,central,,,,N-STD-027
+VI_CENTRAL_N_0021,Đặt độ sáng đèn hành lang ở mức 40%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0022,Đặt độ sáng đèn hiên ở mức 50%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0023,Chỉnh điều hòa phòng ăn xuống 26 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-004
+VI_CENTRAL_N_0024,Đặt độ sáng led tủ ở mức 60%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0025,Mở rèm phòng bếp 45%.,central,normal,standard,true,compound,single,central,,,,N-STD-021
+VI_CENTRAL_N_0026,Bật đèn tường phòng ăn và mở rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-001
+VI_CENTRAL_N_0027,Tăng độ sáng đèn hắt lên 30%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0028,Tăng nhiệt độ điều hòa phòng làm việc lên 22 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-005
+VI_CENTRAL_N_0029,Giảm nhiệt độ điều hòa phòng ngủ xuống 23 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-006
+VI_CENTRAL_N_0030,Giảm độ sáng downlight xuống 50%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0031,Giảm độ sáng led tủ xuống 40%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0032,Phòng khách còn thiết bị nào chưa tắt?,central,normal,standard,true,compound,single,central,,,,N-STD-038
+VI_CENTRAL_N_0033,Tăng độ sáng đèn sân vườn lên 70%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0034,Đóng rèm phòng ngủ nhỏ lại.,central,normal,standard,true,compound,single,central,,,,N-STD-025
+VI_CENTRAL_N_0035,Giảm độ sáng đèn ban công xuống 70%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0036,Đặt độ sáng led trần ở mức 60%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0037,Chỉnh điều hòa phòng bếp xuống 27 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-004
+VI_CENTRAL_N_0038,Đóng rèm phòng làm việc còn 40%.,central,normal,standard,true,compound,single,central,,,,N-STD-022
+VI_CENTRAL_N_0039,Mở rèm phòng ăn 60%.,central,normal,standard,true,compound,single,central,,,,N-STD-021
+VI_CENTRAL_N_0040,Đặt điều hòa phòng thờ ở 25 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-003
+VI_CENTRAL_N_0041,Bật quạt phòng bếp và mở rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-001
+VI_CENTRAL_N_0042,Đèn trần đang bật không?,central,normal,standard,true,compound,single,central,,,,N-STD-030
+VI_CENTRAL_N_0043,"Mở giúp rèm cửa sổ, rèm kia giữ nguyên.",central,normal,standard,true,compound,single,central,,,,N-STD-066
+VI_CENTRAL_N_0044,Tắt quạt trần phòng khách và đóng rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-002
+VI_CENTRAL_N_0045,Đặt độ sáng đèn bàn ăn ở mức 50%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0046,Tắt led tủ phòng thờ và đóng rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-002
+VI_CENTRAL_N_0047,Bật bình nóng lạnh phòng khách và mở rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-001
+VI_CENTRAL_N_0048,Giảm độ sáng downlight xuống 70%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0049,Tắt đèn ban công phòng khách và đóng rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-002
+VI_CENTRAL_N_0050,Giảm độ sáng đèn hành lang xuống 50%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0051,Chuyển điều hòa phòng khách sang chế độ làm lạnh.,central,normal,standard,true,compound,single,central,,,,N-STD-009
+VI_CENTRAL_N_0052,Giảm độ sáng led trần xuống 50%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0053,Bật cửa cuốn phòng ngủ và mở rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-001
+VI_CENTRAL_N_0054,Tắt điều hòa phòng khách và phòng ngủ.,central,normal,standard,true,compound,single,central,,,,N-STD-043
+VI_CENTRAL_N_0055,Tăng nhiệt độ điều hòa phòng ăn lên 26 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-005
+VI_CENTRAL_N_0056,Tăng độ sáng đèn soi tranh lên 40%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0057,Tăng độ sáng đèn sảnh lên 60%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0058,Giảm độ sáng đèn ngủ xuống 30%.,central,normal,standard,true,compound,single,central,,,,N-STD-012
+VI_CENTRAL_N_0059,Tăng độ sáng đèn soi tranh lên 70%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0060,Đặt độ sáng đèn chùm ở mức 60%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0061,Đặt độ sáng đèn chùm ở mức 30%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0062,Bật quạt hút phòng thờ và mở rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-001
+VI_CENTRAL_N_0063,Tăng sáng phòng ngủ chính thêm 20%.,central,normal,standard,true,compound,single,central,,,,N-STD-016
+VI_CENTRAL_N_0064,Chỉnh điều hòa phòng ăn xuống 28 độ.,central,normal,standard,true,compound,single,central,,,,N-STD-004
+VI_CENTRAL_N_0065,Đóng rèm phòng ngủ nhỏ còn 30%.,central,normal,standard,true,compound,single,central,,,,N-STD-022
+VI_CENTRAL_N_0066,Tăng độ sáng đèn hắt lên 70%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0067,Tăng quạt phòng khách lên mức 3.,central,normal,standard,true,compound,single,central,,,,N-STD-027
+VI_CENTRAL_N_0068,Tăng độ sáng đèn hắt lên 100%.,central,normal,standard,true,compound,single,central,,,,N-STD-013
+VI_CENTRAL_N_0069,Đặt độ sáng đèn bàn ăn ở mức 70%.,central,normal,standard,true,compound,single,central,,,,N-STD-011
+VI_CENTRAL_N_0070,Tắt led tủ phòng ngủ nhỏ và đóng rèm.,central,normal,standard,true,compound,single,central,,,,N-STD-002
+VI_CENTRAL_N_0071,Tắt đèn tường phòng ngủ và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0072,Tắt đèn sưởi phòng ngủ nhỏ và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0073,Tắt rèm cửa phòng bếp và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0074,Tắt đèn ban công phòng ăn và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0075,Tắt đèn wc phòng ăn và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0076,Bật led tủ phòng làm việc rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0077,Bật đèn âm trần phòng ăn rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0078,Bật quạt phòng bếp rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0079,Tắt đèn âm trần phòng bếp và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0080,Bật đèn hắt trần phòng khách rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0081,Tắt quạt trần phòng bếp và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0082,Tắt đèn ban công phòng ngủ nhỏ và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0083,Tắt quạt hút phòng ăn và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0084,Tắt cửa cuốn phòng ngủ chính và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0085,Bật điều hòa phòng khách rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0086,Tắt đèn tường phòng làm việc và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0087,Tắt quạt phòng ngủ nhỏ và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0088,Bật downlight phòng ngủ nhỏ rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0089,Bật đèn ban công phòng bếp rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0090,Bật nóng lạnh phòng ngủ rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0091,Bật quạt trần phòng làm việc rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0092,Tắt bình nóng lạnh phòng ngủ nhỏ và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0093,Bật đèn sưởi phòng ăn rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0094,Bật quạt hút phòng khách rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0095,Tắt đèn ban công phòng thờ và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0096,Bật đèn wc phòng thờ rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0097,Bật rèm cửa phòng làm việc rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0098,Bật đèn tường phòng làm việc rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_N_0099,Tắt đèn trần phòng làm việc và đóng rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-002
+VI_CENTRAL_N_0100,Bật đèn wc phòng ngủ chính rồi mở rèm cửa.,central,normal,regional,true,compound,single,central,,,,N-CENTRAL-001
+VI_CENTRAL_H_0001,Đặt đèn sảnh ở 70%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0002,Cho đèn bàn ăn sáng 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0003,Giảm đèn âm trần xuống 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0004,Tăng đèn sảnh lên 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0005,Giảm đèn thả xuống 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0006,Bật đèn phòng tập.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-011
+VI_CENTRAL_H_0007,Cho downlight sáng 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0008,Đóng rèm phòng đọc sách.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-031
+VI_CENTRAL_H_0009,Chỉnh đèn wc về 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0010,Cho đèn ban công sáng 80%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0011,Tăng đèn bàn ăn lên 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0012,Cho đèn ban công sáng 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0013,Cho đèn trần sáng 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0014,Để nó ở mức 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-017
+VI_CENTRAL_H_0015,Đặt nó ở mức 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-019
+VI_CENTRAL_H_0016,Đặt led trần ở 70%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0017,Cho đèn ray sáng 70%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0018,Đặt đèn chùm ở 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0019,Giảm led hắt xuống 80%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0020,Cho led tủ sáng 70%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0021,Đặt đèn ban công ở 80%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0022,Tăng đèn hắt trần lên 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0023,Tăng đèn thả lên 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0024,Chỉnh nó về 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-020
+VI_CENTRAL_H_0025,Tăng đèn ray lên 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0026,Đặt đèn ban công ở 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0027,Chỉnh đèn âm trần về 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0028,Đặt downlight ở 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0029,Đặt đèn hắt trần ở 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0030,Mở cái bên trái.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-007
+VI_CENTRAL_H_0031,Đặt led hắt ở 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0032,Cho nó sáng 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-022
+VI_CENTRAL_H_0033,Cho đèn chùm sáng 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0034,Giảm đèn bàn ăn xuống 20%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0035,Cho đèn thả sáng 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0036,Chỉnh đèn sảnh về 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0037,Đặt led hắt ở 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0038,Tăng đèn sân vườn lên 70%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0039,Đặt đèn chùm ở 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0040,Đặt đèn sảnh ở 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0041,Chỉnh đèn ngủ về 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0042,Chỉnh đèn trần về 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0043,Tắt quạt phòng ngủ khách.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-015
+VI_CENTRAL_H_0044,Đặt đèn ban công ở 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0045,Đặt led trần ở 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0046,Tăng đèn wc lên 20%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0047,Chỉnh led tủ về 50%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0048,Cho đèn ngủ sáng 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0049,Tăng nó lên 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-016
+VI_CENTRAL_H_0050,Giảm đèn sân vườn xuống 20%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0051,Chỉnh đèn trần về 80%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0052,Cho đèn hắt sáng 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0053,Cho đèn ngủ sáng 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0054,Cho đèn bàn ăn sáng 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0055,Giảm đèn soi tranh xuống 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0056,Tăng đèn hành lang lên 20%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0057,Giảm đèn wc xuống 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0058,Chỉnh đèn tường về 70%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0059,Đặt đèn hắt trần ở 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0060,Giảm đèn thả xuống 100%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0061,Giảm downlight xuống 80%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-024
+VI_CENTRAL_H_0062,Cho đèn bàn ăn sáng 80%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0063,Chỉnh downlight về 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0064,Cho đèn tường sáng 20%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0065,Cho đèn ray sáng 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0066,Chỉnh đèn hắt trần về 60%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-025
+VI_CENTRAL_H_0067,Đặt đèn tường ở 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-026
+VI_CENTRAL_H_0068,Cho đèn hành lang sáng 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0069,Cho đèn hắt trần sáng 30%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-027
+VI_CENTRAL_H_0070,Tăng đèn bàn ăn lên 40%.,central,hard,standard,true,ambiguous,single,central,,,,H-STD-023
+VI_CENTRAL_H_0071,Tăng cái đó lên 30% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-001
+VI_CENTRAL_H_0072,Chỉnh cái đó còn 40% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0073,Để cái đó ở mức 60% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0074,Để cái đó ở mức 50% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0075,Chỉnh cái đó còn 30% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0076,Chỉnh cái đó còn 100% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0077,Tăng cái đó lên 40% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-001
+VI_CENTRAL_H_0078,Cho cái đó sáng 20% thôi.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-003
+VI_CENTRAL_H_0079,Để cái đó ở mức 20% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0080,Chỉnh cái đó còn 70% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0081,Tăng cái đó lên 100% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-001
+VI_CENTRAL_H_0082,Tăng cái đó lên 50% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-001
+VI_CENTRAL_H_0083,Cho cái đó sáng 60% thôi.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-003
+VI_CENTRAL_H_0084,Chỉnh cái đó còn 50% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0085,Cho cái đó sáng 40% thôi.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-003
+VI_CENTRAL_H_0086,Để cái đó ở mức 100% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0087,Để cái đó ở mức 70% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0088,Cho cái đó sáng 70% thôi.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-003
+VI_CENTRAL_H_0089,Chỉnh cái đó còn 60% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0090,Để cái đó ở mức 40% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0091,Để cái đó ở mức 30% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0092,Để cái đó ở mức 80% giúp mình.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-004
+VI_CENTRAL_H_0093,Tăng cái đó lên 70% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-001
+VI_CENTRAL_H_0094,Tăng cái đó lên 60% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-001
+VI_CENTRAL_H_0095,Chỉnh cái đó còn 80% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0096,Cho cái đó sáng 100% thôi.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-003
+VI_CENTRAL_H_0097,Cho cái đó sáng 50% thôi.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-003
+VI_CENTRAL_H_0098,Cho cái đó sáng 80% thôi.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-003
+VI_CENTRAL_H_0099,Chỉnh cái đó còn 20% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-002
+VI_CENTRAL_H_0100,Tăng cái đó lên 20% nghe.,central,hard,regional,true,ambiguous,single,central,,,,H-CENTRAL-001
+VI_SOUTH_E_0001,Bật downlight ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0002,Tắt cửa cuốn ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0003,Tắt đèn chùm ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0004,Tắt quạt hút ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0005,Bật đèn chùm ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0006,Bật đèn âm trần ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0007,Mở rèm phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-007
+VI_SOUTH_E_0008,Đóng rèm phòng khách ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0009,Tắt quạt trần ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0010,Tắt led tủ ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0011,Bật quạt trần ở phòng ngủ.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0012,Tắt nóng lạnh ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0013,Đóng rèm bên trái ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0014,Tắt đèn ban công ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0015,Tắt đèn wc ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0016,Mở rèm bên phải ở phòng ngủ nhỏ.,south,easy,standard,true,atomic,single,south,,,,E-STD-003
+VI_SOUTH_E_0017,Mở màn cửa ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-003
+VI_SOUTH_E_0018,Tắt bình nóng lạnh ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0019,Bật đèn hắt trần ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0020,Đóng toàn bộ rèm ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-016
+VI_SOUTH_E_0021,Bật đèn trần ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0022,Đóng cổng chính ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0023,Đóng rèm bên phải ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0024,Tắt đèn wc ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0025,Tắt quạt hút ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0026,Bật đèn ban công ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0027,Mở rèm voan ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-003
+VI_SOUTH_E_0028,Bật quạt ở phòng ngủ nhỏ.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0029,Đóng rèm vải ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0030,Tắt cửa cuốn ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0031,Bật điều hòa ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0032,Đóng rèm bên trái ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0033,Đóng rèm vải ở phòng ngủ nhỏ.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0034,Bật quạt phòng ngủ nhỏ.,south,easy,standard,true,atomic,single,south,,,,E-STD-011
+VI_SOUTH_E_0035,Tắt bình nóng lạnh ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0036,Đóng rèm phòng khách ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0037,Bật cửa cuốn ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0038,Tắt led tủ ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0039,Tắt led tủ ở phòng ngủ nhỏ.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0040,Bật đèn downlight hành lang.,south,easy,standard,true,atomic,single,south,,,,E-STD-017
+VI_SOUTH_E_0041,Bật máy lạnh ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0042,Đóng rèm vải ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0043,Bật quạt hút ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0044,Bật máy lạnh ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0045,Đóng cửa cuốn ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0046,Bật led tủ ở phòng khách.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0047,Tắt đèn hắt trần ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0048,Đóng cửa cuốn ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0049,Tắt đèn khu vực sân.,south,easy,standard,true,atomic,single,south,,,,E-STD-022
+VI_SOUTH_E_0050,Đóng màn cửa ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0051,Đóng rèm cửa ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0052,Mở toàn bộ rèm ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-015
+VI_SOUTH_E_0053,Bật rèm cửa ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0054,Đóng cửa cuốn ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0055,Tắt quạt ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0056,Bật đèn ban công ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0057,Bật điều hòa ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0058,Tắt đèn tường ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0059,Mở cổng chính ở phòng ngủ.,south,easy,standard,true,atomic,single,south,,,,E-STD-003
+VI_SOUTH_E_0060,Đóng rèm bên phải ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0061,Tắt đèn hắt ở phòng ăn.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0062,Bật quạt ở phòng thờ.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0063,Tắt bình nóng lạnh nhà tắm.,south,easy,standard,true,atomic,single,south,,,,E-STD-018
+VI_SOUTH_E_0064,Mở cửa cuốn ở phòng ngủ.,south,easy,standard,true,atomic,single,south,,,,E-STD-003
+VI_SOUTH_E_0065,Mở rèm cửa ở phòng ngủ.,south,easy,standard,true,atomic,single,south,,,,E-STD-003
+VI_SOUTH_E_0066,Tắt đèn âm trần ở phòng ngủ chính.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0067,Tắt đèn hắt trần ở phòng làm việc.,south,easy,standard,true,atomic,single,south,,,,E-STD-002
+VI_SOUTH_E_0068,Tắt đèn khu vực khu vực sofa.,south,easy,standard,true,atomic,single,south,,,,E-STD-022
+VI_SOUTH_E_0069,Đóng rèm phòng khách ở phòng ngủ.,south,easy,standard,true,atomic,single,south,,,,E-STD-004
+VI_SOUTH_E_0070,Bật quạt hút ở phòng bếp.,south,easy,standard,true,atomic,single,south,,,,E-STD-001
+VI_SOUTH_E_0071,Mở đèn sưởi phòng ngủ nhỏ lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0072,Mở máy lạnh phòng ngủ chính lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0073,Mở đèn hắt phòng ngủ nhỏ lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0074,Mở đèn trần phòng ngủ chính lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0075,Tắt đèn wc phòng ngủ chính đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0076,Mở rèm cửa phòng ngủ lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0077,Mở đèn wc phòng thờ lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0078,Tắt đèn tường phòng ngủ đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0079,Mở đèn chùm phòng ăn lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0080,Mở quạt hút phòng ăn lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0081,Mở cửa cuốn phòng làm việc lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0082,Mở cửa cuốn phòng bếp lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0083,Mở đèn trần phòng bếp lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0084,Mở nóng lạnh phòng ăn lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0085,Tắt nóng lạnh phòng ngủ chính đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0086,Tắt nóng lạnh phòng ngủ đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0087,Mở đèn âm trần phòng bếp lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0088,Tắt đèn hắt phòng ngủ chính đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0089,Mở giùm đèn phòng thờ nhen.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-004
+VI_SOUTH_E_0090,Mở nóng lạnh phòng khách lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0091,Mở đèn âm trần phòng ngủ nhỏ lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0092,Tắt rèm cửa phòng ngủ đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0093,Mở đèn tường phòng ngủ nhỏ lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0094,Mở bình nóng lạnh phòng ngủ chính lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0095,Tắt đèn tường phòng ngủ nhỏ đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0096,Tắt led tủ phòng khách đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0097,Mở led tủ phòng ngủ chính lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_E_0098,Tắt đèn sưởi phòng bếp đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0099,Tắt đèn tường phòng bếp đi.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-002
+VI_SOUTH_E_0100,Mở đèn tường phòng bếp lên.,south,easy,regional,true,atomic,single,south,,,,E-SOUTH-001
+VI_SOUTH_N_0001,Tăng độ sáng đèn hắt trần lên 100%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0002,Tăng độ sáng downlight lên 70%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0003,Giảm độ sáng đèn hắt xuống 50%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0004,Giảm độ sáng đèn tường xuống 70%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0005,Giảm độ sáng đèn trần xuống 40%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0006,Chuyển đèn sảnh sang ánh sáng trắng.,south,normal,standard,true,compound,single,south,,,,N-STD-020
+VI_SOUTH_N_0007,Giảm độ sáng đèn sảnh xuống 40%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0008,Chuyển đèn ray sang ánh sáng trắng.,south,normal,standard,true,compound,single,south,,,,N-STD-020
+VI_SOUTH_N_0009,Đặt độ sáng đèn bàn ở mức 50%.,south,normal,standard,true,compound,single,south,,,,N-STD-011
+VI_SOUTH_N_0010,Giảm độ sáng led trần xuống 30%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0011,Bật downlight phòng ngủ chính và mở rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-001
+VI_SOUTH_N_0012,Đóng rèm phòng làm việc còn 45%.,south,normal,standard,true,compound,single,south,,,,N-STD-022
+VI_SOUTH_N_0013,Tăng độ sáng đèn wc lên 30%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0014,Chuyển đèn trần sang ánh sáng trắng.,south,normal,standard,true,compound,single,south,,,,N-STD-020
+VI_SOUTH_N_0015,Tăng nhiệt độ điều hòa phòng ăn lên 24 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-005
+VI_SOUTH_N_0016,Bật rèm cửa phòng làm việc và mở rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-001
+VI_SOUTH_N_0017,Giảm độ sáng đèn soi tranh xuống 70%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0018,Tắt máy lạnh phòng bếp và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0019,Tăng độ sáng đèn trần lên 100%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0020,Chuyển đèn thả sang ánh sáng trắng.,south,normal,standard,true,compound,single,south,,,,N-STD-020
+VI_SOUTH_N_0021,Đóng rèm phòng ngủ chính còn 75%.,south,normal,standard,true,compound,single,south,,,,N-STD-022
+VI_SOUTH_N_0022,Đặt điều hòa phòng làm việc ở 23 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-003
+VI_SOUTH_N_0023,Đặt độ sáng đèn hành lang ở mức 20%.,south,normal,standard,true,compound,single,south,,,,N-STD-011
+VI_SOUTH_N_0024,Chuyển đèn trong phòng bếp sang ánh sáng ấm.,south,normal,standard,true,compound,single,south,,,,N-STD-019
+VI_SOUTH_N_0025,Giảm độ sáng led tủ xuống 70%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0026,Giảm độ sáng led tủ xuống 60%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0027,Tăng độ sáng led trần lên 40%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0028,Tăng độ sáng đèn gương lên 70%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0029,Giảm nhiệt độ điều hòa phòng làm việc xuống 28 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-006
+VI_SOUTH_N_0030,Mở rèm phòng ăn 30%.,south,normal,standard,true,compound,single,south,,,,N-STD-021
+VI_SOUTH_N_0031,Chuyển đèn hành lang sang ánh sáng trắng.,south,normal,standard,true,compound,single,south,,,,N-STD-020
+VI_SOUTH_N_0032,Tăng độ sáng đèn ray lên 100%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0033,Bật máy lạnh phòng bếp và mở rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-001
+VI_SOUTH_N_0034,Tăng độ sáng đèn hành lang lên 30%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0035,Bật đèn sưởi phòng ngủ chính và mở rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-001
+VI_SOUTH_N_0036,Đóng rèm phòng ăn còn 45%.,south,normal,standard,true,compound,single,south,,,,N-STD-022
+VI_SOUTH_N_0037,Giảm độ sáng đèn ngủ xuống 70%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0038,Đóng rèm phòng ngủ còn 50%.,south,normal,standard,true,compound,single,south,,,,N-STD-022
+VI_SOUTH_N_0039,Bình nóng lạnh đang bật không?,south,normal,standard,true,compound,single,south,,,,N-STD-030
+VI_SOUTH_N_0040,Giảm nhiệt độ điều hòa phòng ngủ nhỏ xuống 27 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-006
+VI_SOUTH_N_0041,Tắt máy lạnh phòng ngủ nhỏ và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0042,Giảm độ sáng đèn bàn xuống 50%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0043,Tăng độ sáng đèn ban công lên 40%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0044,Giảm nhiệt độ điều hòa phòng ngủ chính xuống 27 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-006
+VI_SOUTH_N_0045,Đóng rèm phòng khách còn 50%.,south,normal,standard,true,compound,single,south,,,,N-STD-022
+VI_SOUTH_N_0046,Tắt đèn sưởi phòng ngủ và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0047,Tắt đèn hắt trần phòng làm việc và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0048,Giảm nhiệt độ điều hòa phòng thờ xuống 24 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-006
+VI_SOUTH_N_0049,Tăng độ sáng đèn tường lên 30%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0050,Tăng độ sáng đèn hiên lên 40%.,south,normal,standard,true,compound,single,south,,,,N-STD-013
+VI_SOUTH_N_0051,Tắt quạt trần phòng thờ và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0052,Đặt điều hòa phòng ăn ở 26 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-003
+VI_SOUTH_N_0053,Đặt độ sáng led trần ở mức 30%.,south,normal,standard,true,compound,single,south,,,,N-STD-011
+VI_SOUTH_N_0054,Tắt quạt hút phòng khách và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0055,Bật đèn chùm phòng ngủ nhỏ và mở rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-001
+VI_SOUTH_N_0056,Đặt quạt phòng ngủ chính ở mức 2.,south,normal,standard,true,compound,single,south,,,,N-STD-026
+VI_SOUTH_N_0057,Tăng nhiệt độ điều hòa phòng khách lên 25 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-005
+VI_SOUTH_N_0058,Tắt downlight phòng khách và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0059,Điều hòa phòng thờ đang để bao nhiêu độ?,south,normal,standard,true,compound,single,south,,,,N-STD-031
+VI_SOUTH_N_0060,Tắt bình nóng lạnh phòng ăn và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0061,Đặt điều hòa phòng khách ở 24 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-003
+VI_SOUTH_N_0062,Giảm độ sáng đèn bàn xuống 20%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0063,Đóng rèm phòng bếp lại.,south,normal,standard,true,compound,single,south,,,,N-STD-025
+VI_SOUTH_N_0064,Giảm độ sáng đèn wc xuống 70%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0065,Tắt đèn hắt trần phòng ngủ chính và đóng rèm.,south,normal,standard,true,compound,single,south,,,,N-STD-002
+VI_SOUTH_N_0066,Đặt độ sáng downlight ở mức 50%.,south,normal,standard,true,compound,single,south,,,,N-STD-011
+VI_SOUTH_N_0067,Đặt độ sáng đèn trần ở mức 60%.,south,normal,standard,true,compound,single,south,,,,N-STD-011
+VI_SOUTH_N_0068,Giảm độ sáng đèn ngủ xuống 60%.,south,normal,standard,true,compound,single,south,,,,N-STD-012
+VI_SOUTH_N_0069,Đặt điều hòa phòng ăn ở 27 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-003
+VI_SOUTH_N_0070,Chỉnh điều hòa phòng ngủ nhỏ xuống 25 độ.,south,normal,standard,true,compound,single,south,,,,N-STD-004
+VI_SOUTH_N_0071,Tắt nóng lạnh phòng ngủ và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0072,Tắt bình nóng lạnh phòng thờ và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0073,Tắt cửa cuốn phòng làm việc và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0074,Tắt bình nóng lạnh phòng ngủ chính và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0075,Mở cửa cuốn phòng ngủ rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0076,Mở đèn chùm phòng làm việc rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0077,Tắt rèm cửa phòng ngủ chính và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0078,Mở đèn sưởi phòng ngủ nhỏ rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0079,Mở đèn âm trần phòng ngủ rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0080,Tắt quạt phòng ngủ chính và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0081,Mở đèn âm trần phòng làm việc rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0082,Tắt đèn hắt phòng ngủ và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0083,Mở đèn phòng thờ và kéo màn nhen.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-003
+VI_SOUTH_N_0084,Tắt đèn âm trần phòng ngủ chính và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0085,Tắt đèn hắt phòng ngủ nhỏ và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0086,Tắt điều hòa phòng ngủ chính và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0087,Mở quạt trần phòng ăn rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0088,Mở quạt phòng ăn rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0089,Tắt đèn hắt trần phòng ngủ nhỏ và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0090,Mở máy lạnh phòng ngủ rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0091,Tắt cửa cuốn phòng ăn và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0092,Mở đèn wc phòng khách rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0093,Tắt đèn chùm phòng làm việc và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0094,Mở đèn ban công phòng bếp rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0095,Mở đèn hắt trần phòng ăn rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0096,Tắt đèn tường phòng thờ và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0097,Mở downlight phòng bếp rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0098,Mở quạt hút phòng ngủ chính rồi kéo màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-001
+VI_SOUTH_N_0099,Tắt đèn trần phòng ăn và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_N_0100,Tắt quạt hút phòng ngủ chính và đóng màn cửa.,south,normal,regional,true,compound,single,south,,,,N-SOUTH-002
+VI_SOUTH_H_0001,Chỉnh đèn sân vườn về 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0002,Giảm đèn hành lang xuống 60%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0003,Giảm đèn thả xuống 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0004,Đặt đèn sân vườn ở 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0005,Đặt led tủ ở 40%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0006,Đặt đèn gương ở 40%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0007,Giảm đèn chùm xuống 60%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0008,Đặt đèn chùm ở 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0009,Cho đèn thả sáng 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0010,Giảm đèn hành lang xuống 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0011,Cho nó sáng 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-022
+VI_SOUTH_H_0012,Chỉnh đèn bàn về 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0013,Tăng led hắt lên 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0014,Đặt đèn gương ở 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0015,Tăng đèn sân vườn lên 40%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0016,Giảm led hắt xuống 40%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0017,Đặt led trần ở 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0018,Tăng đèn âm trần lên 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0019,Cho đèn wc sáng 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0020,Tăng led trần lên 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0021,Chỉnh đèn wc về 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0022,Đặt đèn trần ở 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0023,Chỉnh đèn chùm về 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0024,Chỉnh led hắt về 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0025,Giảm đèn ray xuống 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0026,Giảm led tủ xuống 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0027,Đặt đèn hắt ở 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0028,Đặt đèn tường ở 40%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0029,Chỉnh đèn bàn ăn về 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0030,Chỉnh đèn ray về 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0031,Tăng đèn trần lên 60%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0032,Đặt đèn tường ở 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0033,Cho đèn thả sáng 60%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0034,Tăng đèn âm trần lên 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0035,Chỉnh đèn soi tranh về 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0036,Chỉnh led hắt về 60%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0037,Đặt đèn bàn ăn ở 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0038,Cho đèn bàn ăn sáng 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0039,Cho đèn ray sáng 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0040,Cho đèn sảnh sáng 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0041,Tăng đèn hắt trần lên 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0042,Chỉnh đèn hắt về 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0043,Giảm đèn gương xuống 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0044,Đặt đèn âm trần ở 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0045,Cho đèn gương sáng 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0046,Giảm đèn sảnh xuống 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0047,Bật điều hòa phòng tập.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-030
+VI_SOUTH_H_0048,Giảm đèn âm trần xuống 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0049,Chỉnh led tủ về 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0050,Chỉnh nó thành 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-018
+VI_SOUTH_H_0051,Cho đèn trần sáng 80%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0052,Giảm đèn bàn xuống 40%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0053,Chỉnh downlight về 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0054,Tắt máy tạo ẩm.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-028
+VI_SOUTH_H_0055,Tăng đèn tường lên 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0056,Tăng đèn hắt trần lên 60%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0057,Cho đèn bàn ăn sáng 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0058,Mở rèm phòng chơi.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-013
+VI_SOUTH_H_0059,Tăng nó lên 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-016
+VI_SOUTH_H_0060,Đặt led trần ở 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0061,Chỉnh đèn sân vườn về 40%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0062,Cho đèn tường sáng 60%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0063,Giảm đèn thả xuống 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0064,Tăng đèn hắt lên 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-023
+VI_SOUTH_H_0065,Cho đèn chùm sáng 70%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-027
+VI_SOUTH_H_0066,Chỉnh đèn chùm về 30%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0067,Đặt đèn ngủ ở 50%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-026
+VI_SOUTH_H_0068,Chỉnh đèn hành lang về 20%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-025
+VI_SOUTH_H_0069,Giảm đèn âm trần xuống 100%.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-024
+VI_SOUTH_H_0070,Bật robot hút bụi.,south,hard,standard,true,ambiguous,single,south,,,,H-STD-014
+VI_SOUTH_H_0071,Để cái đó ở mức 70% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0072,Để cái đó ở mức 80% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0073,Nâng cái đó lên 80% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+VI_SOUTH_H_0074,Chỉnh cái đó thành 50% thôi.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-003
+VI_SOUTH_H_0075,Chỉnh cái đó thành 30% thôi.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-003
+VI_SOUTH_H_0076,Nâng cái đó lên 70% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+VI_SOUTH_H_0077,Chỉnh cái đó thành 80% thôi.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-003
+VI_SOUTH_H_0078,Nâng cái đó lên 30% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+VI_SOUTH_H_0079,Nâng cái đó lên 40% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+VI_SOUTH_H_0080,Để cái đó ở mức 50% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0081,Để cái đó ở mức 30% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0082,Để cái đó ở mức 60% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0083,Cho cái đó còn 20% nhen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-002
+VI_SOUTH_H_0084,Để cái đó ở mức 40% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0085,Để cái đó ở mức 100% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0086,Cho cái đó còn 70% nhen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-002
+VI_SOUTH_H_0087,Chỉnh cái đó thành 60% thôi.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-003
+VI_SOUTH_H_0088,Nâng cái đó lên 100% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+VI_SOUTH_H_0089,Cho cái đó còn 60% nhen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-002
+VI_SOUTH_H_0090,Để cái đó ở mức 20% giùm.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-004
+VI_SOUTH_H_0091,Chỉnh cái đó thành 100% thôi.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-003
+VI_SOUTH_H_0092,Cho cái đó còn 100% nhen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-002
+VI_SOUTH_H_0093,Nâng cái đó lên 50% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+VI_SOUTH_H_0094,Chỉnh cái đó thành 20% thôi.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-003
+VI_SOUTH_H_0095,Chỉnh cái đó thành 70% thôi.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-003
+VI_SOUTH_H_0096,Cho cái đó còn 40% nhen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-002
+VI_SOUTH_H_0097,Cho cái đó còn 80% nhen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-002
+VI_SOUTH_H_0098,Cho cái đó còn 50% nhen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-002
+VI_SOUTH_H_0099,Nâng cái đó lên 20% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+VI_SOUTH_H_0100,Nâng cái đó lên 60% nghen.,south,hard,regional,true,ambiguous,single,south,,,,H-SOUTH-001
+lumi-voice-vi_L3-01_T1,Bật đèn.,all,hard,standard,true,conversation,conversation,all,L3-01,1,3,L3-01-T1
+lumi-voice-vi_L3-01_T2,Giảm nó xuống 50%.,all,hard,standard,true,conversation,conversation,all,L3-01,2,3,L3-01-T2
+lumi-voice-vi_L3-01_T3,Tắt cái đèn vừa bật.,all,hard,standard,true,conversation,conversation,all,L3-01,3,3,L3-01-T3
+lumi-voice-vi_L3-02_T1,Đặt điều hòa ở 26 độ.,all,hard,standard,true,conversation,conversation,all,L3-02,1,3,L3-02-T1
+lumi-voice-vi_L3-02_T2,Giảm thêm 2 độ.,all,hard,standard,true,conversation,conversation,all,L3-02,2,3,L3-02-T2
+lumi-voice-vi_L3-02_T3,Tắt nó đi.,all,hard,standard,true,conversation,conversation,all,L3-02,3,3,L3-02-T3
+lumi-voice-vi_L3-03_T1,Mở rèm.,all,hard,standard,true,conversation,conversation,all,L3-03,1,3,L3-03-T1
+lumi-voice-vi_L3-03_T2,Đóng bớt đi 70%.,all,hard,standard,true,conversation,conversation,all,L3-03,2,3,L3-03-T2
+lumi-voice-vi_L3-03_T3,Dừng lại.,all,hard,standard,true,conversation,conversation,all,L3-03,3,3,L3-03-T3
+lumi-voice-vi_L3-04_T1,Bật đèn trần.,all,hard,standard,true,conversation,conversation,all,L3-04,1,3,L3-04-T1
+lumi-voice-vi_L3-04_T2,Bật cả đèn bàn ăn nữa.,all,hard,standard,true,conversation,conversation,all,L3-04,2,3,L3-04-T2
+lumi-voice-vi_L3-04_T3,Giảm sáng cả hai xuống 50%.,all,hard,standard,true,conversation,conversation,all,L3-04,3,3,L3-04-T3

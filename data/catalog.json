@@ -1,0 +1,193 @@
+{
+  "areas": [
+    "khu vực sofa",
+    "bàn ăn",
+    "quầy bếp",
+    "ban công",
+    "hành lang",
+    "sân",
+    "cầu thang"
+  ],
+  "device_names": [
+    "đèn bàn làm việc",
+    "đèn trần phòng khách",
+    "quạt đứng phòng ngủ",
+    "đèn trang trí",
+    "bình nóng lạnh nhà tắm",
+    "điều hòa phòng ngủ",
+    "đèn sưởi nhà tắm",
+    "đèn hắt phòng khách",
+    "rèm vải phòng khách",
+    "đèn downlight hành lang"
+  ],
+  "devices": {
+    "brightness": [
+      "đèn trần",
+      "downlight",
+      "đèn hắt",
+      "đèn chùm",
+      "đèn tường",
+      "đèn wc",
+      "đèn âm trần",
+      "đèn hắt trần",
+      "đèn ban công",
+      "đèn ray",
+      "led trần",
+      "led tủ",
+      "led hắt",
+      "đèn bàn ăn",
+      "đèn soi tranh",
+      "đèn gương",
+      "đèn thả",
+      "đèn sảnh",
+      "đèn hiên",
+      "đèn hành lang",
+      "đèn sân vườn",
+      "đèn bàn",
+      "đèn ngủ"
+    ],
+    "fan_level": [
+      "quạt trần",
+      "quạt đứng",
+      "quạt hút",
+      "quạt thông gió",
+      "quạt mát",
+      "quạt"
+    ],
+    "open_close": [
+      "rèm cửa",
+      "rèm vải",
+      "rèm voan",
+      "rèm phòng khách",
+      "màn cửa",
+      "cửa cuốn",
+      "cổng chính",
+      "rèm bên trái",
+      "rèm bên phải",
+      "rèm"
+    ],
+    "temperature": [
+      "điều hòa",
+      "máy lạnh",
+      "bình nóng lạnh",
+      "nóng lạnh",
+      "bình nước nóng",
+      "đèn sưởi",
+      "sưởi nhà tắm"
+    ],
+    "toggle": [
+      "đèn trần",
+      "downlight",
+      "đèn hắt",
+      "đèn chùm",
+      "đèn tường",
+      "quạt trần",
+      "bình nóng lạnh",
+      "đèn wc",
+      "điều hòa",
+      "máy lạnh",
+      "quạt hút",
+      "đèn sưởi",
+      "cửa cuốn",
+      "rèm cửa",
+      "đèn ban công",
+      "đèn âm trần",
+      "đèn hắt trần",
+      "led tủ",
+      "nóng lạnh",
+      "quạt"
+    ]
+  },
+  "floors": [
+    "tầng một",
+    "tầng hai",
+    "tầng ba"
+  ],
+  "nonexistent": {
+    "devices": [
+      "đèn hồ cá",
+      "máy tạo ẩm",
+      "robot hút bụi",
+      "máy lọc không khí"
+    ],
+    "rooms": [
+      "phòng đọc sách",
+      "phòng chơi",
+      "phòng ngủ khách",
+      "phòng tập",
+      "phòng giặt"
+    ]
+  },
+  "regional_words": {
+    "central": {
+      "air_conditioner": "điều hòa",
+      "water_heater": "nóng lạnh",
+      "bath_heater": "đèn sưởi",
+      "curtain": "rèm cửa",
+      "downlight": "đèn âm trần",
+      "helper": "giúp mình"
+    },
+    "north": {
+      "air_conditioner": "điều hòa",
+      "water_heater": "bình nóng lạnh",
+      "bath_heater": "đèn sưởi",
+      "curtain": "rèm cửa",
+      "downlight": "đèn downlight",
+      "helper": "hộ tôi"
+    },
+    "south": {
+      "air_conditioner": "máy lạnh",
+      "water_heater": "bình nước nóng",
+      "bath_heater": "đèn sưởi",
+      "curtain": "màn cửa",
+      "downlight": "downlight",
+      "helper": "giùm tôi"
+    }
+  },
+  "rooms": [
+    "phòng khách",
+    "phòng ngủ chính",
+    "phòng ngủ nhỏ",
+    "phòng bếp",
+    "phòng ăn",
+    "phòng làm việc",
+    "phòng thờ",
+    "phòng ngủ"
+  ],
+  "values": {
+    "brightness": [
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      100
+    ],
+    "curtain": [
+      25,
+      30,
+      40,
+      45,
+      50,
+      60,
+      70,
+      75
+    ],
+    "fan_level": [
+      1,
+      2,
+      3
+    ],
+    "temperature": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  }
+}
