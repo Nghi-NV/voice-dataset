@@ -1,0 +1,2510 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.8",
+  "difficulty": "hard",
+  "region": "central",
+  "schema_version": 2,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0001",
+      "language_style": "regional",
+      "random_key": 1562215085,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đèn trần 2 ở Phòng Ngủ 1.\nDừng thiết bị đó lại giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0002",
+      "language_style": "standard",
+      "random_key": 1709010729,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Điều hòa ngủ 3 ở Phòng ngủ 3.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0003",
+      "language_style": "standard",
+      "random_key": 1451294998,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đóng cổng ở Tầng 1.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0004",
+      "language_style": "standard",
+      "random_key": 1401331604,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình LED trần ở Sảnh Cửa Phụ.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0005",
+      "language_style": "standard",
+      "random_key": 2054725341,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở Quạt ở Phòng Khách lên.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0006",
+      "language_style": "standard",
+      "random_key": 1180505015,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở giúp mình Rèm mỏng ở Phòng Khách.\nCho cái đó mở 50% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0007",
+      "language_style": "standard",
+      "random_key": 238382287,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Đèn trần bếp chạy.\nDừng thiết bị đó lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0008",
+      "language_style": "standard",
+      "random_key": 57217919,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Khởi động Đèn trần 1 ở Phòng Ngủ Trước.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0009",
+      "language_style": "standard",
+      "random_key": 1262817198,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn sáng ở Sảnh cầu thang đi.\nBật lại thiết bị đó."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0010",
+      "language_style": "regional",
+      "random_key": 1232067462,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn bàn ăn ở Phòng bếp đi.\nBật lại thiết bị đó giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0011",
+      "language_style": "standard",
+      "random_key": 16581215,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đèn trần 2 ở Phòng bếp.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0012",
+      "language_style": "standard",
+      "random_key": 653918,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Quạt trần ở Phòng bếp.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0013",
+      "language_style": "standard",
+      "random_key": 683770909,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Khởi động Điều hoà 4 ở Phòng ngủ 4.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0014",
+      "language_style": "standard",
+      "random_key": 1359906773,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn trang trí ở Phòng Master.\nBật lại cái vừa tắt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0015",
+      "language_style": "standard",
+      "random_key": 705215603,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Điều hoà ở Phòng Con 1 đi.\nBật lại thiết bị đó."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0016",
+      "language_style": "regional",
+      "random_key": 98848697,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Kéo CỬA CUỐN ở TẦNG 1 ra.\nĐóng nó lại một nửa giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0017",
+      "language_style": "standard",
+      "random_key": 1309249971,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Quạt trần ở Phòng Khách.\nBật lại cái vừa tắt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0018",
+      "language_style": "standard",
+      "random_key": 1273740515,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở Đèn Ban Công lên.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0019",
+      "language_style": "regional",
+      "random_key": 587515218,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Cửa tầng hầm mở ra.\nDừng nó ở mức 70% giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0020",
+      "language_style": "standard",
+      "random_key": 1950049541,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Quạt trần ở Phòng Ngủ 1.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0021",
+      "language_style": "standard",
+      "random_key": 1804012562,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở Đèn tường ở Tầng 2 lên.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0022",
+      "language_style": "standard",
+      "random_key": 516401265,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Khởi động Đèn Trần ở Phòng khách.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0023",
+      "language_style": "standard",
+      "random_key": 675096005,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật CỔNG ở KHU SÂN VƯỜN.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0024",
+      "language_style": "standard",
+      "random_key": 1444836750,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Nguồn Điều hoà ở Phòng Nhân Viên.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0025",
+      "language_style": "regional",
+      "random_key": 377429482,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đèn sáng trong nhà.\nTắt nó đi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0026",
+      "language_style": "standard",
+      "random_key": 1009974476,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở giúp mình Rèm voan ở Phòng Ngủ 1.\nĐóng nó lại một nửa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0027",
+      "language_style": "standard",
+      "random_key": 1313540092,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Khởi động Đèn Âm Trần ở Phòng khách.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0028",
+      "language_style": "standard",
+      "random_key": 856292601,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Điều Hòa ở Phòng Ngủ.\nDừng thiết bị đó lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0029",
+      "language_style": "standard",
+      "random_key": 841437873,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Khởi động Đèn Cổng ở Gara.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0030",
+      "language_style": "regional",
+      "random_key": 635372167,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Đèn thả ở Phòng Ngủ Con chạy.\nDừng thiết bị đó lại với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0031",
+      "language_style": "standard",
+      "random_key": 1438773907,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Đèn trần 1 ở Phòng Ngủ 2 chạy.\nDừng thiết bị đó lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0032",
+      "language_style": "standard",
+      "random_key": 1087469376,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Điều Hoà ở Phòng Ngủ 1 chạy.\nDừng thiết bị đó lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0033",
+      "language_style": "standard",
+      "random_key": 838763750,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Đèn Ban Công chạy.\nDừng thiết bị đó lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0034",
+      "language_style": "regional",
+      "random_key": 1819527815,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Rèm 2 ở Phòng Ngủ mở ra.\nDừng nó ở mức 40% giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0035",
+      "language_style": "standard",
+      "random_key": 123462072,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở Điều hoà ở Phòng ngủ sau lên.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0036",
+      "language_style": "standard",
+      "random_key": 172062178,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn trần 2 ở Phòng Ngủ Trước.\nBật lại cái vừa tắt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0037",
+      "language_style": "standard",
+      "random_key": 1135421878,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Điều Hoà ở Phòng Ngủ.\nBật lại cái vừa tắt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0038",
+      "language_style": "regional",
+      "random_key": 705173333,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật tivi ở Phòng khách.\nDừng thiết bị đó lại nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0039",
+      "language_style": "standard",
+      "random_key": 2032405024,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Kéo Rèm 1 ở Tập Thể Dục ra.\nCho cái đó mở 30% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0040",
+      "language_style": "standard",
+      "random_key": 1329410346,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Cổng ở Tầng 1.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0041",
+      "language_style": "regional",
+      "random_key": 1565662995,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Điều hoà 3 ở Phòng ngủ 3.\nTắt nó đi nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0042",
+      "language_style": "standard",
+      "random_key": 290353765,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Tưới ban công chạy.\nDừng thiết bị đó lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0043",
+      "language_style": "standard",
+      "random_key": 348730245,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Đèn led ở Phòng thờ.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0044",
+      "language_style": "standard",
+      "random_key": 489665042,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Khởi động Đèn tường ở Sân Vườn trước.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0045",
+      "language_style": "regional",
+      "random_key": 1659812780,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Bình nóng lạnh ở Phòng Ngủ.\nBật lại cái vừa tắt với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0046",
+      "language_style": "standard",
+      "random_key": 168038241,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Kéo Công tắc rèm 2 ở Phòng Ngủ ra.\nĐóng nó lại một nửa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0047",
+      "language_style": "standard",
+      "random_key": 271753152,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn trần 1 ở Phòng Thờ.\nBật lại cái vừa tắt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0048",
+      "language_style": "standard",
+      "random_key": 1708133202,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Kéo Rèm dày ở Phòng Ngủ Cún ra.\nCho cái đó mở 30% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0049",
+      "language_style": "standard",
+      "random_key": 1117587090,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở giúp mình Rèm Chính ở Phòng Khách.\nKéo cái vừa mở lại giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0050",
+      "language_style": "standard",
+      "random_key": 2069217984,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Điều hòa Ngủ 2 ở Phòng ngủ 2 đi.\nBật lại thiết bị đó."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0051",
+      "language_style": "regional",
+      "random_key": 1170802482,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Đèn ray ở Phòng Khách.\nTắt nó đi với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0052",
+      "language_style": "standard",
+      "random_key": 1562200437,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở giúp mình CỬA CUỐN ở TẦNG 1.\nĐóng nó lại một nửa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0053",
+      "language_style": "standard",
+      "random_key": 1082133168,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Led Tủ ở Phòng Master.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0054",
+      "language_style": "standard",
+      "random_key": 373484689,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Quạt Hút phòng vệ sinh.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0055",
+      "language_style": "standard",
+      "random_key": 636670751,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Điều Hòa ở Phòng Làm Việc.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0056",
+      "language_style": "regional",
+      "random_key": 1015103111,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn Ray ở Phòng Khách.\nBật lại cái vừa tắt nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0057",
+      "language_style": "standard",
+      "random_key": 1549807232,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đèn cổng ở Sân vườn.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0058",
+      "language_style": "regional",
+      "random_key": 2086931195,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đèn Tường ở Mái Hiên.\nDừng thiết bị đó lại giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0059",
+      "language_style": "regional",
+      "random_key": 518600159,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Quạt trần bếp chạy.\nDừng thiết bị đó lại nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0060",
+      "language_style": "regional",
+      "random_key": 789261944,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Điều Hoà ở Phòng Ngủ.\nTắt nó đi với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0061",
+      "language_style": "regional",
+      "random_key": 1120106932,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Hút mùi ở Phòng Master.\nDừng thiết bị đó lại giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0062",
+      "language_style": "standard",
+      "random_key": 1550443130,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật giúp mình Đèn Cầu Thang.\nTắt nó đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0063",
+      "language_style": "regional",
+      "random_key": 227314679,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở Quạt ở Gara lên.\nTắt nó đi với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0064",
+      "language_style": "standard",
+      "random_key": 1961909524,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Khởi động tivi ở Phòng khách.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0065",
+      "language_style": "standard",
+      "random_key": 976173125,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đèn hắt ở Phòng Làm Việc.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0066",
+      "language_style": "standard",
+      "random_key": 1845546293,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn hắt ở Phòng khách đi.\nBật lại thiết bị đó."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0067",
+      "language_style": "standard",
+      "random_key": 864495884,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Mở giúp mình rèm master ở Phòng Master.\nKéo cái vừa mở lại giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0068",
+      "language_style": "regional",
+      "random_key": 1212914155,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Máy Lạnh Bếp.\nTắt cái vừa bật nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0069",
+      "language_style": "standard",
+      "random_key": 718560796,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Kéo Cửa cuốn ở Gara ra.\nDừng nó ở mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0070",
+      "language_style": "standard",
+      "random_key": 1574599626,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Tắt Đèn Ngủ ở Phòng Ngủ.\nBật lại cái vừa tắt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0071",
+      "language_style": "standard",
+      "random_key": 1704093703,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Rèm vải ở Phòng thay đồ mở ra.\nCho cái đó mở 70% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0072",
+      "language_style": "standard",
+      "random_key": 1295762380,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Điều hoà 1 ở Phòng ngủ 1.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0073",
+      "language_style": "standard",
+      "random_key": 606197302,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật Đèn Trần 1 ở Phòng Ba Mẹ.\nDừng thiết bị đó lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0074",
+      "language_style": "standard",
+      "random_key": 1807960764,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Cho Rèm Voan ở Phòng khách mở ra.\nĐóng nó lại một nửa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0075",
+      "language_style": "standard",
+      "random_key": 1235168610,
+      "recording_mode": "conversation",
+      "region_scope": "central",
+      "task_shape": "context_dependent",
+      "text": "Bật tivi ở Phòng khách.\nTắt cái vừa bật."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0076",
+      "language_style": "standard",
+      "random_key": 417386972,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Bật thiết bị."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0077",
+      "language_style": "regional",
+      "random_key": 560463616,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái rèm phía ngoài ở Phòng Master nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0078",
+      "language_style": "standard",
+      "random_key": 572352950,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho rèm ở Phòng Khách chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0079",
+      "language_style": "standard",
+      "random_key": 382514543,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn chạy mức 30."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0080",
+      "language_style": "standard",
+      "random_key": 944421978,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0081",
+      "language_style": "regional",
+      "random_key": 5347006,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt đèn với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0082",
+      "language_style": "standard",
+      "random_key": 53316841,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Mở đèn bên trái ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0083",
+      "language_style": "standard",
+      "random_key": 1196078644,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Bật rèm ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0084",
+      "language_style": "regional",
+      "random_key": 741048046,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái điều hòa phía ngoài với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0085",
+      "language_style": "regional",
+      "random_key": 1368791240,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài ở Phòng bếp giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0086",
+      "language_style": "standard",
+      "random_key": 1259727076,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Bật điều hòa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0087",
+      "language_style": "standard",
+      "random_key": 1716524760,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho điều hòa ở Phòng ngủ sau chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0088",
+      "language_style": "regional",
+      "random_key": 1246962459,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt đèn trong Phòng Khách giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0089",
+      "language_style": "regional",
+      "random_key": 329964846,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để đèn ở mức 40% nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0090",
+      "language_style": "regional",
+      "random_key": 1326086992,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ở Phòng Thờ xuống mức 60% với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0091",
+      "language_style": "standard",
+      "random_key": 103271562,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Bật đèn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0092",
+      "language_style": "standard",
+      "random_key": 1871850362,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái rèm phía ngoài ở Phòng Ngủ 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0093",
+      "language_style": "standard",
+      "random_key": 282281557,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0094",
+      "language_style": "regional",
+      "random_key": 1234951105,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn xuống 70% giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0095",
+      "language_style": "standard",
+      "random_key": 381708467,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn trong Phòng Bếp lên mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0096",
+      "language_style": "regional",
+      "random_key": 2050719151,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt rèm trong Phòng Ngủ 1 với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0097",
+      "language_style": "regional",
+      "random_key": 1897435546,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn ở Sảnh Cửa Phụ chạy đi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0098",
+      "language_style": "standard",
+      "random_key": 269222724,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái thiết bị phía ngoài."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0099",
+      "language_style": "standard",
+      "random_key": 1098853101,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt đèn trong Phòng Gái."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0100",
+      "language_style": "regional",
+      "random_key": 160723391,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn ở Phòng khách chạy đi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0101",
+      "language_style": "regional",
+      "random_key": 1715017824,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho rèm ở Phòng Master chạy đi nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0102",
+      "language_style": "standard",
+      "random_key": 583727527,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Mở điều hòa bên trái ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0103",
+      "language_style": "standard",
+      "random_key": 966460736,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Mở cái điều hòa bên cạnh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0104",
+      "language_style": "standard",
+      "random_key": 1345393362,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt rèm trong Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0105",
+      "language_style": "regional",
+      "random_key": 744701199,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái rèm phía ngoài với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0106",
+      "language_style": "regional",
+      "random_key": 993083976,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn ở Phòng Ngủ chạy đi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0107",
+      "language_style": "standard",
+      "random_key": 733322388,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ở Sân Vườn xuống mức 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0108",
+      "language_style": "standard",
+      "random_key": 1414543296,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài ở Phòng ngủ sau."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0109",
+      "language_style": "standard",
+      "random_key": 1041433400,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Mở cái đèn bên cạnh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0110",
+      "language_style": "regional",
+      "random_key": 690538054,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn trong Phòng khách lên mức 30% nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0111",
+      "language_style": "standard",
+      "random_key": 919620654,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn trong Phòng Trước lên mức 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0112",
+      "language_style": "standard",
+      "random_key": 945313743,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để điều hòa ở mức 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0113",
+      "language_style": "standard",
+      "random_key": 564486347,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn trong Phòng ngủ 1 lên mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0114",
+      "language_style": "standard",
+      "random_key": 151942849,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt rèm ở Phòng Ngủ 2 xuống mức 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0115",
+      "language_style": "standard",
+      "random_key": 396028305,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn chạy mức 50."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0116",
+      "language_style": "regional",
+      "random_key": 984487278,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để điều hòa ở mức 40% nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0117",
+      "language_style": "standard",
+      "random_key": 1267410768,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Bật rèm bên trái."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0118",
+      "language_style": "regional",
+      "random_key": 1204829733,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho điều hòa ở Phòng ngủ trước chạy đi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0119",
+      "language_style": "standard",
+      "random_key": 1929936174,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái rèm phía ngoài ở TẦNG 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0120",
+      "language_style": "standard",
+      "random_key": 176243177,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt đèn trong Bếp Và ĂN Trong."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0121",
+      "language_style": "standard",
+      "random_key": 1476054481,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt rèm ở Phòng Khách xuống mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0122",
+      "language_style": "standard",
+      "random_key": 708374930,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn ở Phòng bếp chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0123",
+      "language_style": "standard",
+      "random_key": 883863289,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn trong Phòng Ngủ Bé Gái lên mức 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0124",
+      "language_style": "regional",
+      "random_key": 288845885,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh rèm trong Phòng thay đồ lên mức 30% giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0125",
+      "language_style": "standard",
+      "random_key": 320697846,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt đèn trong Tầng 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0126",
+      "language_style": "standard",
+      "random_key": 3559906,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ở Phòng Master xuống mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0127",
+      "language_style": "standard",
+      "random_key": 1005197964,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ở Phòng khách xuống mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0128",
+      "language_style": "standard",
+      "random_key": 1695728727,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Bật đèn ở Phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0129",
+      "language_style": "standard",
+      "random_key": 1126022328,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Cho điều hòa ở Phòng Ngủ chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0130",
+      "language_style": "standard",
+      "random_key": 1546634595,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt đèn trong Nhà xe."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0131",
+      "language_style": "standard",
+      "random_key": 49137280,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Mở rèm bên trái ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0132",
+      "language_style": "regional",
+      "random_key": 194006857,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn xuống 40% với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0133",
+      "language_style": "standard",
+      "random_key": 217033794,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài ở Phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0134",
+      "language_style": "regional",
+      "random_key": 965268646,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt thiết bị nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0135",
+      "language_style": "standard",
+      "random_key": 1791637159,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0136",
+      "language_style": "standard",
+      "random_key": 1754172336,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ở Phòng bếp xuống mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0137",
+      "language_style": "standard",
+      "random_key": 955406017,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Đặt rèm ở Phòng Master xuống mức 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0138",
+      "language_style": "standard",
+      "random_key": 378887375,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0139",
+      "language_style": "standard",
+      "random_key": 1821038851,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để đèn ở mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0140",
+      "language_style": "regional",
+      "random_key": 1988482106,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh thiết bị trong Sân Trước lên mức 60% nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0141",
+      "language_style": "standard",
+      "random_key": 1860608301,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái đèn phía ngoài ở Phòng Ngủ Trước."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0142",
+      "language_style": "regional",
+      "random_key": 1992870084,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt cái rèm phía ngoài ở Nhà Ăn giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0143",
+      "language_style": "standard",
+      "random_key": 628509261,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn trong Hành Lang Cầu Thang lên mức 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0144",
+      "language_style": "standard",
+      "random_key": 2083670814,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Tắt điều hòa trong Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0145",
+      "language_style": "standard",
+      "random_key": 1520227398,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "ambiguous",
+      "text": "Để điều hòa ở mức 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0146",
+      "language_style": "standard",
+      "random_key": 358581508,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật điều hòa phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0147",
+      "language_style": "standard",
+      "random_key": 1341676895,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Bàn ăn 1 ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0148",
+      "language_style": "standard",
+      "random_key": 990818168,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm Chính ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0149",
+      "language_style": "regional",
+      "random_key": 1343737575,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật tivi phòng ngủ khách nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0150",
+      "language_style": "regional",
+      "random_key": 809452126,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật điều hòa phòng tập với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0151",
+      "language_style": "standard",
+      "random_key": 396166600,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở rèm phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0152",
+      "language_style": "standard",
+      "random_key": 1193587074,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật đèn sân thượng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0153",
+      "language_style": "standard",
+      "random_key": 872355552,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật đèn phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0154",
+      "language_style": "standard",
+      "random_key": 1738163760,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật đèn phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0155",
+      "language_style": "regional",
+      "random_key": 1363566771,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Quạt trần ở phòng tập nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0156",
+      "language_style": "standard",
+      "random_key": 938486031,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Quạt ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0157",
+      "language_style": "regional",
+      "random_key": 1197595477,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật tivi phòng tập giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0158",
+      "language_style": "standard",
+      "random_key": 97251628,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở rèm sân thượng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0159",
+      "language_style": "standard",
+      "random_key": 1289766672,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều hoà 3 3 ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0160",
+      "language_style": "standard",
+      "random_key": 2037047361,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm ở phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0161",
+      "language_style": "regional",
+      "random_key": 1063190921,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn trần 1 ở phòng đọc sách nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0162",
+      "language_style": "standard",
+      "random_key": 993378425,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm voan ở sân thượng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0163",
+      "language_style": "standard",
+      "random_key": 692531363,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở cửa cuốn ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0164",
+      "language_style": "standard",
+      "random_key": 1411856591,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều Hoà ở phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0165",
+      "language_style": "standard",
+      "random_key": 473658948,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều Hòa ở phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0166",
+      "language_style": "regional",
+      "random_key": 346925626,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật tivi ở sân thượng giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0167",
+      "language_style": "standard",
+      "random_key": 543107260,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn tường ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0168",
+      "language_style": "standard",
+      "random_key": 1873277457,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều hoà ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0169",
+      "language_style": "standard",
+      "random_key": 1244811985,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều hoà 5 ở phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0170",
+      "language_style": "standard",
+      "random_key": 1142528999,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0171",
+      "language_style": "regional",
+      "random_key": 1202162022,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật đèn phòng chơi với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0172",
+      "language_style": "regional",
+      "random_key": 949655855,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều hoà ở phòng giặt giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0173",
+      "language_style": "standard",
+      "random_key": 1991346611,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn âm trần ở phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0174",
+      "language_style": "standard",
+      "random_key": 279280755,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật điều hòa phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0175",
+      "language_style": "standard",
+      "random_key": 249127025,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn âm Trần 2 ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0176",
+      "language_style": "regional",
+      "random_key": 1286684809,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật điều hòa phòng đọc sách nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0177",
+      "language_style": "standard",
+      "random_key": 1010340965,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Bình Nóng Lạnh ở sân thượng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0178",
+      "language_style": "standard",
+      "random_key": 714162064,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn Ốp ở phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0179",
+      "language_style": "regional",
+      "random_key": 951329668,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn âm trần 1 ở phòng chơi nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0180",
+      "language_style": "standard",
+      "random_key": 1128655773,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn trang trí ở phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0181",
+      "language_style": "standard",
+      "random_key": 122590486,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Máy Lạnh ở phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0182",
+      "language_style": "standard",
+      "random_key": 465623107,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn Thả ở phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0183",
+      "language_style": "standard",
+      "random_key": 2126958489,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều Hoà ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0184",
+      "language_style": "standard",
+      "random_key": 381230557,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Công tắc rèm 2 ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0185",
+      "language_style": "regional",
+      "random_key": 300728477,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm dày cửa chính ở sân thượng nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0186",
+      "language_style": "standard",
+      "random_key": 2098907846,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm voan tivi ở phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0187",
+      "language_style": "standard",
+      "random_key": 1039272243,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn Ốp ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0188",
+      "language_style": "standard",
+      "random_key": 1781511804,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật thiết bị phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0189",
+      "language_style": "standard",
+      "random_key": 1929676365,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn trần 1 ở sân thượng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0190",
+      "language_style": "regional",
+      "random_key": 1266872336,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn trần ở sân thượng giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0191",
+      "language_style": "regional",
+      "random_key": 1879507774,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở rèm phòng đọc sách nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0192",
+      "language_style": "standard",
+      "random_key": 1301386223,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở rèm phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0193",
+      "language_style": "standard",
+      "random_key": 2061399094,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật đèn phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0194",
+      "language_style": "regional",
+      "random_key": 43277252,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Điều hoà ở sân thượng nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0195",
+      "language_style": "standard",
+      "random_key": 99085895,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm Dày ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0196",
+      "language_style": "standard",
+      "random_key": 1797657885,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm Dày ở phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0197",
+      "language_style": "standard",
+      "random_key": 1720954132,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật điều hòa sân thượng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0198",
+      "language_style": "regional",
+      "random_key": 127520771,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn nhỏ ở phòng tập với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0199",
+      "language_style": "standard",
+      "random_key": 242492689,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật thiết bị phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0200",
+      "language_style": "regional",
+      "random_key": 859425781,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đóng cổng ở phòng tập nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0201",
+      "language_style": "standard",
+      "random_key": 206890822,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật điều hòa phòng ngủ khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0202",
+      "language_style": "standard",
+      "random_key": 2047815254,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn cổng ở phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0203",
+      "language_style": "regional",
+      "random_key": 1034429251,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Mở Rèm Master ở phòng giặt nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0204",
+      "language_style": "standard",
+      "random_key": 2119708457,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn trần 1 ở phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0205",
+      "language_style": "standard",
+      "random_key": 987193793,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "not_existing_device",
+      "text": "Bật Đèn trần ở phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0206",
+      "language_style": "regional",
+      "random_key": 364990782,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật ĐIỀU HOÀ ở PHÒNG PANDA, tắt ĐÈN TRẦN ở PHÒNG PANDA thôi nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0207",
+      "language_style": "standard",
+      "random_key": 1916579663,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật điều hoà master ở Phòng Master, tắt Nóng Lạnh Master ở Phòng Master thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0208",
+      "language_style": "regional",
+      "random_key": 1151932609,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật Quạt ở Phòng khách, tắt Đèn cổng ở Sân Vườn thôi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0209",
+      "language_style": "regional",
+      "random_key": 675069621,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật Tưới Cây ở Phòng Thờ, tắt Đèn Hiên ở Tập Thể Dục thôi nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0210",
+      "language_style": "standard",
+      "random_key": 416305894,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật Chuông Cửa ở Phòng Khách, tắt Đèn Ban Công thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0211",
+      "language_style": "regional",
+      "random_key": 1318147376,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật ĐIỀU HOÀ ở PHÒNG LÀM VIỆC, tắt RÈM PHÒNG NGỦ thôi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0212",
+      "language_style": "standard",
+      "random_key": 1517848030,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật Đèn hắt ở Phòng Ngủ 1, tắt Đèn hắt ở Phòng Ngủ 2 thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0213",
+      "language_style": "regional",
+      "random_key": 301215583,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Rèm tivi ở Phòng Ngủ 2 giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0214",
+      "language_style": "regional",
+      "random_key": 443904420,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Đèn trần bếp giúp mình nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0215",
+      "language_style": "standard",
+      "random_key": 749503343,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Không mở Rèm ở Phòng khách nữa, chuyển sang Hút mùi ở Phòng vệ sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0216",
+      "language_style": "standard",
+      "random_key": 1627344834,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Không mở Đèn chùm ở Phòng khách nữa, chuyển sang Đèn ngủ ở Phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0217",
+      "language_style": "standard",
+      "random_key": 599201027,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Đèn gương ở Phòng Thay Đồ giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0218",
+      "language_style": "regional",
+      "random_key": 108398321,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật Rèm mỏng ở Phòng Ngủ Cún, tắt Đèn trần ở Phòng ngủ Ba Mẹ thôi nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0219",
+      "language_style": "standard",
+      "random_key": 50789105,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật Đèn trần ở Phòng ngủ 1, tắt Rèm ở Phòng khách thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0220",
+      "language_style": "regional",
+      "random_key": 1451565980,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Không mở rèm master ở Phòng Master nữa, chuyển sang Đèn bàn ăn ở Phòng khách giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0221",
+      "language_style": "standard",
+      "random_key": 2033246815,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Không mở Led trần ở Phòng Con 2 nữa, chuyển sang Điều Hòa ở Phòng Làm Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0222",
+      "language_style": "standard",
+      "random_key": 1501115633,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Đèn hắt ở Phòng bếp giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0223",
+      "language_style": "standard",
+      "random_key": 570432251,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Không mở Điều Hòa ở Phòng ngủ Henry Ryo nữa, chuyển sang Đèn Trần 2 ở Tập Thể Dục."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0224",
+      "language_style": "standard",
+      "random_key": 983165875,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Không mở Đèn trần ở Phòng khách nữa, chuyển sang Led Trần ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0225",
+      "language_style": "regional",
+      "random_key": 44663096,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Điều Hoà ở Phòng Ngủ giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0226",
+      "language_style": "standard",
+      "random_key": 712900852,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Quạt trần ở Phòng bếp giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0227",
+      "language_style": "regional",
+      "random_key": 1267374458,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Không mở Đèn Thả ở Phòng bếp nữa, chuyển sang Đèn Âm Trần ở Phòng khách nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0228",
+      "language_style": "standard",
+      "random_key": 169451304,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Điều Hòa ở Phòng Làm Việc giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0229",
+      "language_style": "regional",
+      "random_key": 2024051842,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Đừng bật Đèn ray ở Phòng Nhân Viên, tắt Nguồn Điều hoà ở Phòng Nhân Viên thôi giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0230",
+      "language_style": "standard",
+      "random_key": 397364960,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "negative_or_correction",
+      "text": "Bỏ lệnh vừa rồi, tắt Đèn ray ở Phòng Nhân Viên giúp mình."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0231",
+      "language_style": "standard",
+      "random_key": 1994501106,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Đèn sáng ở Sảnh Cửa Phụ sáng hơn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0232",
+      "language_style": "regional",
+      "random_key": 608489747,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Đèn âm trần ở Nhà xe dịu xuống giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0233",
+      "language_style": "regional",
+      "random_key": 982242471,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Đèn cổng ở Sân Vườn sáng hơn nhé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0234",
+      "language_style": "standard",
+      "random_key": 734210350,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Giảm gió Máy Lạnh ở Phòng Master xuống."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0235",
+      "language_style": "standard",
+      "random_key": 1577028603,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Điều Hoà ở Phòng Ngủ lạnh hơn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0236",
+      "language_style": "standard",
+      "random_key": 206388141,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Đèn hành lang dịu xuống."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0237",
+      "language_style": "standard",
+      "random_key": 649490150,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Rèm ở Phòng Khách mở thêm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0238",
+      "language_style": "regional",
+      "random_key": 515370907,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Tăng Đèn Trần ở Phòng bếp thêm chút nữa giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0239",
+      "language_style": "standard",
+      "random_key": 380453285,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Điều hoà 2 ở Phòng ngủ 2 lạnh hơn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0240",
+      "language_style": "standard",
+      "random_key": 1243547882,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Đèn trang trí ở Phòng Ngủ Sau sáng hơn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0241",
+      "language_style": "regional",
+      "random_key": 1936888502,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Led trần ở Phòng ngủ 2 dịu xuống giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0242",
+      "language_style": "standard",
+      "random_key": 1191374217,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Mở Rèm voan tivi ở Phòng Ngủ 2 thêm một chút."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0243",
+      "language_style": "standard",
+      "random_key": 670930558,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Đóng Rèm Phụ ở Phòng Khách bớt lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0244",
+      "language_style": "regional",
+      "random_key": 1831849670,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Mở Rèm ở Phòng khách thêm một chút giúp mình với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0245",
+      "language_style": "standard",
+      "random_key": 2105427017,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Kéo CỬA CUỐN ở TẦNG 1 lại bớt đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0246",
+      "language_style": "regional",
+      "random_key": 1992097022,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Mở Công tắc rèm 1 ở Phòng Ngủ thêm một chút với."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0247",
+      "language_style": "standard",
+      "random_key": 581803522,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Tăng Đèn trần 1 ở Phòng Ngủ Cô Hà thêm chút nữa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0248",
+      "language_style": "standard",
+      "random_key": 514259556,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Rèm Bên ở Phòng Thờ mở thêm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0249",
+      "language_style": "standard",
+      "random_key": 1071745270,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Điều hoà ở Phòng ngủ Sau lạnh hơn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_CENTRAL_H_0250",
+      "language_style": "regional",
+      "random_key": 91045978,
+      "recording_mode": "single",
+      "region_scope": "central",
+      "task_shape": "underspecified",
+      "text": "Cho Đèn Bàn Ăn ở Phòng bếp dịu xuống giúp mình với."
+    }
+  ],
+  "shard": 1
+}

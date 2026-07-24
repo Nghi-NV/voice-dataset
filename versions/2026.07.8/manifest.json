@@ -1,0 +1,184 @@
+{
+  "collection_policy": {
+    "conversation_groups_per_difficulty": {
+      "easy": 0,
+      "hard": 0,
+      "normal": 0
+    },
+    "counts_per_difficulty": {
+      "easy": 10,
+      "hard": 10,
+      "normal": 10
+    },
+    "regional_style_per_difficulty": {
+      "easy": 3,
+      "hard": 3,
+      "normal": 3
+    },
+    "turns": [
+      {
+        "distance_meters": 1,
+        "id": "ONE_METER"
+      },
+      {
+        "distance_meters": 3,
+        "id": "THREE_METERS",
+        "unlock_after": "ONE_METER"
+      }
+    ]
+  },
+  "counts": {
+    "central": {
+      "easy": 250,
+      "hard": 250,
+      "normal": 250,
+      "total": 750
+    },
+    "north": {
+      "easy": 250,
+      "hard": 250,
+      "normal": 250,
+      "total": 750
+    },
+    "south": {
+      "easy": 250,
+      "hard": 250,
+      "normal": 250,
+      "total": 750
+    },
+    "total": 2250
+  },
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.8",
+  "files": [
+    {
+      "count": 250,
+      "difficulty": "easy",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/north/easy-0001.json",
+      "region": "north",
+      "sha256": "3ca42cfabd3546263ce327a704c284e8f796ae6a4941934a584d4072ecf6cff5",
+      "shard": 1,
+      "size_bytes": 74745
+    },
+    {
+      "count": 250,
+      "difficulty": "normal",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/north/normal-0001.json",
+      "region": "north",
+      "sha256": "15c7a88131243aef90938a8e60fa910eb98556123c18922917912c773e720adb",
+      "shard": 1,
+      "size_bytes": 82638
+    },
+    {
+      "count": 250,
+      "difficulty": "hard",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/north/hard-0001.json",
+      "region": "north",
+      "sha256": "4c90c52fb9d2cdb983ed201af3e2b940567ebaef0d2bfe8e8e33e6029e4d3467",
+      "shard": 1,
+      "size_bytes": 78118
+    },
+    {
+      "count": 250,
+      "difficulty": "easy",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/central/easy-0001.json",
+      "region": "central",
+      "sha256": "116f84c4f2c538a718b2a213e337211ea68f4d74ee2340dab7a3148ce0e0b89a",
+      "shard": 1,
+      "size_bytes": 75078
+    },
+    {
+      "count": 250,
+      "difficulty": "normal",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/central/normal-0001.json",
+      "region": "central",
+      "sha256": "22e6f520030aae094cbec2b20ba7e52ec4697b7535a53335991af3caf6464bb4",
+      "shard": 1,
+      "size_bytes": 82729
+    },
+    {
+      "count": 250,
+      "difficulty": "hard",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/central/hard-0001.json",
+      "region": "central",
+      "sha256": "5d33ce8265f3026d17e5552cc3c1973bed343e9fd2d331b2d12ef426564a6648",
+      "shard": 1,
+      "size_bytes": 79349
+    },
+    {
+      "count": 250,
+      "difficulty": "easy",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/south/easy-0001.json",
+      "region": "south",
+      "sha256": "28f219dc9c30ab191d529f89bf5f4be915758c75c01fa12369301727f87efd5e",
+      "shard": 1,
+      "size_bytes": 74855
+    },
+    {
+      "count": 250,
+      "difficulty": "normal",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/south/normal-0001.json",
+      "region": "south",
+      "sha256": "6c97d9d108a2041125f5c0c0efb29545b9ceebfc74d12b9309a75a8e974332e6",
+      "shard": 1,
+      "size_bytes": 82108
+    },
+    {
+      "count": 250,
+      "difficulty": "hard",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/south/hard-0001.json",
+      "region": "south",
+      "sha256": "f046fe2a2858cdadcc06d3121a61d3ae6a7269d1633aa468f2fe74ab8779ce2b",
+      "shard": 1,
+      "size_bytes": 78211
+    }
+  ],
+  "language": "vi-VN",
+  "published_at": "2026-07-24T00:00:00Z",
+  "schema_version": 2
+}
