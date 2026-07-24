@@ -14,7 +14,7 @@
       "recording_mode": "conversation",
       "region_scope": "all",
       "task_shape": "conversation",
-      "text": "Bật đèn phòng khách.",
+      "text": "Bật đèn.",
       "turn_count": 3,
       "turn_index": 1
     },
@@ -53,7 +53,7 @@
       "recording_mode": "conversation",
       "region_scope": "all",
       "task_shape": "conversation",
-      "text": "Đặt điều hòa phòng ngủ ở 26 độ.",
+      "text": "Đặt điều hòa ở 26 độ.",
       "turn_count": 3,
       "turn_index": 1
     },
@@ -92,7 +92,7 @@
       "recording_mode": "conversation",
       "region_scope": "all",
       "task_shape": "conversation",
-      "text": "Mở rèm phòng khách.",
+      "text": "Mở rèm.",
       "turn_count": 3,
       "turn_index": 1
     },
@@ -131,7 +131,7 @@
       "recording_mode": "conversation",
       "region_scope": "all",
       "task_shape": "conversation",
-      "text": "Bật đèn trần phòng khách.",
+      "text": "Bật đèn trần.",
       "turn_count": 3,
       "turn_index": 1
     },

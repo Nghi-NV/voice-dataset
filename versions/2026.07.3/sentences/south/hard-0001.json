@@ -13,7 +13,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 50% ở phòng thờ."
+      "text": "Đổi mức của nó thành 60%."
     },
     {
       "enabled": true,
@@ -23,7 +23,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 20% trong phòng ngủ chính."
+      "text": "Chỉnh nó thành 70%."
     },
     {
       "enabled": true,
@@ -33,7 +33,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 80% ở phòng thờ."
+      "text": "Đổi nó sang mức 30%."
     },
     {
       "enabled": true,
@@ -43,7 +43,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 30% trong phòng ngủ chính."
+      "text": "Đổi nó sang mức 80%."
     },
     {
       "enabled": true,
@@ -53,7 +53,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 30% trong phòng bếp."
+      "text": "Tăng nó đến 20%."
     },
     {
       "enabled": true,
@@ -63,7 +63,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 80% trong phòng ngủ nhỏ."
+      "text": "Chỉnh nó thành 30%."
     },
     {
       "enabled": true,
@@ -73,7 +73,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 40% trong phòng bếp."
+      "text": "Đặt nó ở mức 70%."
     },
     {
       "enabled": true,
@@ -83,7 +83,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 40% trong phòng làm việc."
+      "text": "Cho nó ở mức 40%."
     },
     {
       "enabled": true,
@@ -93,7 +93,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 30% trong phòng ăn."
+      "text": "Chỉnh nó về 30%."
     },
     {
       "enabled": true,
@@ -103,7 +103,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 100% trong phòng làm việc."
+      "text": "Đưa nó lên 40%."
     },
     {
       "enabled": true,
@@ -113,7 +113,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 70% trong phòng làm việc."
+      "text": "Đặt mức của nó là 20%."
     },
     {
       "enabled": true,
@@ -123,7 +123,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 30% ở phòng ngủ nhỏ."
+      "text": "Cho nó ở mức 100%."
     },
     {
       "enabled": true,
@@ -133,7 +133,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 20% trong phòng làm việc."
+      "text": "Cho nó thành 40%."
     },
     {
       "enabled": true,
@@ -143,7 +143,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 50% ở phòng khách."
+      "text": "Tăng nó lên 80%."
     },
     {
       "enabled": true,
@@ -153,7 +153,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 30% trong phòng ngủ nhỏ."
+      "text": "Chọn mức 30% cho nó."
     },
     {
       "enabled": true,
@@ -163,7 +163,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 60% trong phòng khách."
+      "text": "Chuyển nó sang 100%."
     },
     {
       "enabled": true,
@@ -173,7 +173,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 50% trong phòng bếp."
+      "text": "Nâng nó lên 80%."
     },
     {
       "enabled": true,
@@ -183,7 +183,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 100% trong phòng làm việc."
+      "text": "Thiết lập nó ở 70%."
     },
     {
       "enabled": true,
@@ -193,7 +193,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 30% ở phòng ngủ nhỏ."
+      "text": "Chuyển cái đó sang 50%."
     },
     {
       "enabled": true,
@@ -203,7 +203,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 40% ở phòng thờ."
+      "text": "Nâng nó lên 20%."
     },
     {
       "enabled": true,
@@ -213,7 +213,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 40% ở phòng khách."
+      "text": "Cho nó sáng 40%."
     },
     {
       "enabled": true,
@@ -223,7 +223,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 100% ở phòng khách."
+      "text": "Để nó ở mức 60%."
     },
     {
       "enabled": true,
@@ -233,7 +233,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 60% ở phòng làm việc."
+      "text": "Điều chỉnh nó thành 20%."
     },
     {
       "enabled": true,
@@ -243,7 +243,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 70% ở phòng khách."
+      "text": "Cho nó thành 80%."
     },
     {
       "enabled": true,
@@ -253,7 +253,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 60% trong phòng ngủ nhỏ."
+      "text": "Tăng cái đó tới 100%."
     },
     {
       "enabled": true,
@@ -263,7 +263,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 30% trong phòng ngủ nhỏ."
+      "text": "Chuyển cái đó sang 40%."
     },
     {
       "enabled": true,
@@ -273,7 +273,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 100% trong phòng khách."
+      "text": "Cho nó về 30%."
     },
     {
       "enabled": true,
@@ -283,7 +283,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 40% ở phòng ngủ chính."
+      "text": "Điều chỉnh nó còn 80%."
     },
     {
       "enabled": true,
@@ -293,7 +293,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 50% ở phòng ngủ nhỏ."
+      "text": "Tăng nó lên 30%."
     },
     {
       "enabled": true,
@@ -303,7 +303,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 60% ở phòng bếp."
+      "text": "Nâng nó lên 60%."
     },
     {
       "enabled": true,
@@ -313,7 +313,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 100% ở phòng bếp."
+      "text": "Đặt mức của nó là 50%."
     },
     {
       "enabled": true,
@@ -323,7 +323,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 60% ở phòng ngủ chính."
+      "text": "Cho cái đó sáng 30%."
     },
     {
       "enabled": true,
@@ -333,7 +333,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 100% trong phòng ăn."
+      "text": "Đổi mức của nó thành 40%."
     },
     {
       "enabled": true,
@@ -343,7 +343,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 80% ở phòng bếp."
+      "text": "Để nó sáng 20%."
     },
     {
       "enabled": true,
@@ -353,7 +353,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 80% trong phòng ngủ chính."
+      "text": "Tăng nó đến 50%."
     },
     {
       "enabled": true,
@@ -363,7 +363,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 50% ở phòng ăn."
+      "text": "Đặt nó ở mức 100%."
     },
     {
       "enabled": true,
@@ -373,7 +373,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 20% trong phòng ngủ nhỏ."
+      "text": "Thiết lập nó ở 60%."
     },
     {
       "enabled": true,
@@ -383,7 +383,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 100% trong phòng ngủ nhỏ."
+      "text": "Cho cái đó sáng 20%."
     },
     {
       "enabled": true,
@@ -393,7 +393,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 50% trong phòng thờ."
+      "text": "Nâng nó lên 40%."
     },
     {
       "enabled": true,
@@ -403,7 +403,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 60% trong phòng ngủ nhỏ."
+      "text": "Để nó ở mức 80%."
     },
     {
       "enabled": true,
@@ -413,7 +413,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 50% ở phòng làm việc."
+      "text": "Chỉnh nó thành 100%."
     },
     {
       "enabled": true,
@@ -423,7 +423,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 70% trong phòng thờ."
+      "text": "Điều chỉnh nó thành 80%."
     },
     {
       "enabled": true,
@@ -433,7 +433,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 100% ở phòng làm việc."
+      "text": "Chuyển nó sang 20%."
     },
     {
       "enabled": true,
@@ -443,7 +443,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 50% ở phòng ngủ chính."
+      "text": "Để nó ở mức 70%."
     },
     {
       "enabled": true,
@@ -453,7 +453,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 100% trong phòng ăn."
+      "text": "Đổi nó sang mức 100%."
     },
     {
       "enabled": true,
@@ -463,7 +463,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 20% trong phòng làm việc."
+      "text": "Thiết lập nó ở 50%."
     },
     {
       "enabled": true,
@@ -473,7 +473,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 20% trong phòng thờ."
+      "text": "Cho nó ở mức 20%."
     },
     {
       "enabled": true,
@@ -483,7 +483,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 40% trong phòng bếp."
+      "text": "Đổi nó sang mức 60%."
     },
     {
       "enabled": true,
@@ -493,7 +493,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 100% trong phòng ăn."
+      "text": "Đặt cái đó ở 70%."
     },
     {
       "enabled": true,
@@ -503,7 +503,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 20% trong phòng bếp."
+      "text": "Để nó sáng 60%."
     },
     {
       "enabled": true,
@@ -513,7 +513,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 70% trong phòng ngủ chính."
+      "text": "Giảm nó còn 70%."
     },
     {
       "enabled": true,
@@ -523,7 +523,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 80% ở phòng làm việc."
+      "text": "Đưa nó lên 50%."
     },
     {
       "enabled": true,
@@ -533,7 +533,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 30% ở phòng bếp."
+      "text": "Cho nó sáng 70%."
     },
     {
       "enabled": true,
@@ -543,7 +543,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 70% trong phòng ăn."
+      "text": "Đặt nó ở mức 60%."
     },
     {
       "enabled": true,
@@ -553,7 +553,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 20% trong phòng khách."
+      "text": "Đưa nó về mức 40%."
     },
     {
       "enabled": true,
@@ -563,7 +563,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 30% trong phòng thờ."
+      "text": "Điều chỉnh nó còn 20%."
     },
     {
       "enabled": true,
@@ -573,7 +573,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 70% ở phòng thờ."
+      "text": "Để nó sáng 70%."
     },
     {
       "enabled": true,
@@ -583,7 +583,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 50% trong phòng làm việc."
+      "text": "Đưa nó về mức 20%."
     },
     {
       "enabled": true,
@@ -593,7 +593,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 40% ở phòng ngủ chính."
+      "text": "Chuyển cái đó sang 20%."
     },
     {
       "enabled": true,
@@ -603,7 +603,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 40% ở phòng khách."
+      "text": "Chuyển nó sang 70%."
     },
     {
       "enabled": true,
@@ -613,7 +613,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 80% trong phòng khách."
+      "text": "Đổi mức của nó thành 80%."
     },
     {
       "enabled": true,
@@ -623,7 +623,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 80% trong phòng ngủ nhỏ."
+      "text": "Tăng nó lên 50%."
     },
     {
       "enabled": true,
@@ -633,7 +633,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó thành 30% ở phòng ăn."
+      "text": "Để nó ở mức 100%."
     },
     {
       "enabled": true,
@@ -643,7 +643,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh nó về 50% trong phòng thờ."
+      "text": "Điều chỉnh nó còn 30%."
     },
     {
       "enabled": true,
@@ -653,7 +653,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 40% trong phòng ăn."
+      "text": "Chuyển nó sang 60%."
     },
     {
       "enabled": true,
@@ -663,7 +663,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 20% trong phòng khách."
+      "text": "Chuyển nó sang 30%."
     },
     {
       "enabled": true,
@@ -673,7 +673,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 70% trong phòng bếp."
+      "text": "Điều chỉnh nó thành 50%."
     },
     {
       "enabled": true,
@@ -683,7 +683,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Đặt nó ở 60% trong phòng bếp."
+      "text": "Để nó ở mức 20%."
     },
     {
       "enabled": true,
@@ -693,7 +693,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Để nó ở 100% trong phòng ngủ chính."
+      "text": "Cho cái đó sáng 40%."
     },
     {
       "enabled": true,
@@ -703,7 +703,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Tăng nó lên 100% ở phòng ngủ nhỏ."
+      "text": "Chỉnh nó về 40%."
     },
     {
       "enabled": true,
@@ -713,7 +713,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 20% ở phòng ngủ chính."
+      "text": "Để cái đó ở mức 70% giùm."
     },
     {
       "enabled": true,
@@ -723,7 +723,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Giảm cái đó trong phòng ngủ nhỏ giùm tôi."
+      "text": "Để cái đó ở mức 80% giùm."
     },
     {
       "enabled": true,
@@ -733,7 +733,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 70% ở phòng ăn."
+      "text": "Chỉnh cái đó thành 30% giùm."
     },
     {
       "enabled": true,
@@ -743,7 +743,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 40% ở phòng làm việc."
+      "text": "Cho cái đó còn 60% giùm."
     },
     {
       "enabled": true,
@@ -753,7 +753,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 100% ở phòng bếp."
+      "text": "Chỉnh cái đó thành 70% giùm."
     },
     {
       "enabled": true,
@@ -763,7 +763,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 70% ở phòng thờ."
+      "text": "Chỉnh cái đó thành 60% giùm."
     },
     {
       "enabled": true,
@@ -773,7 +773,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 20% ở phòng ăn."
+      "text": "Để cái đó ở mức 50% giùm."
     },
     {
       "enabled": true,
@@ -783,7 +783,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 20% ở phòng thờ."
+      "text": "Cho cái đó còn 50% giùm."
     },
     {
       "enabled": true,
@@ -793,7 +793,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 100% ở phòng ăn."
+      "text": "Để cái đó ở mức 30% giùm."
     },
     {
       "enabled": true,
@@ -803,7 +803,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 100% ở phòng thờ."
+      "text": "Nâng cái đó lên 70% giùm."
     },
     {
       "enabled": true,
@@ -813,7 +813,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 80% ở phòng ăn."
+      "text": "Để cái đó ở mức 60% giùm."
     },
     {
       "enabled": true,
@@ -823,7 +823,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 30% ở phòng ăn."
+      "text": "Cho cái đó còn 100% giùm."
     },
     {
       "enabled": true,
@@ -833,7 +833,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 30% ở phòng ngủ chính."
+      "text": "Cho cái đó còn 80% giùm."
     },
     {
       "enabled": true,
@@ -843,7 +843,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 40% ở phòng thờ."
+      "text": "Chỉnh cái đó thành 40% giùm."
     },
     {
       "enabled": true,
@@ -853,7 +853,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 40% ở phòng ngủ chính."
+      "text": "Để cái đó ở mức 40% giùm."
     },
     {
       "enabled": true,
@@ -863,7 +863,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 20% ở phòng thờ."
+      "text": "Để cái đó ở mức 100% giùm."
     },
     {
       "enabled": true,
@@ -873,7 +873,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 50% ở phòng ăn."
+      "text": "Chỉnh cái đó thành 80% giùm."
     },
     {
       "enabled": true,
@@ -883,7 +883,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 40% ở phòng thờ."
+      "text": "Cho cái đó còn 20% giùm."
     },
     {
       "enabled": true,
@@ -893,7 +893,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 30% ở phòng ngủ chính."
+      "text": "Chỉnh cái đó thành 20% giùm."
     },
     {
       "enabled": true,
@@ -903,7 +903,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 50% ở phòng ngủ chính."
+      "text": "Để cái đó ở mức 20% giùm."
     },
     {
       "enabled": true,
@@ -913,7 +913,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 20% ở phòng bếp."
+      "text": "Cho cái đó còn 70% giùm."
     },
     {
       "enabled": true,
@@ -923,7 +923,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 50% ở phòng ngủ nhỏ."
+      "text": "Chỉnh cái đó thành 100% giùm."
     },
     {
       "enabled": true,
@@ -933,7 +933,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 60% ở phòng bếp."
+      "text": "Cho cái đó còn 30% giùm."
     },
     {
       "enabled": true,
@@ -943,7 +943,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 100% ở phòng ngủ chính."
+      "text": "Nâng cái đó lên 50% giùm."
     },
     {
       "enabled": true,
@@ -953,7 +953,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Chỉnh cái đó còn 30% ở phòng ăn."
+      "text": "Nâng cái đó lên 40% giùm."
     },
     {
       "enabled": true,
@@ -963,7 +963,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 50% ở phòng thờ."
+      "text": "Cho cái đó còn 40% giùm."
     },
     {
       "enabled": true,
@@ -973,7 +973,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 20% ở phòng ăn."
+      "text": "Nâng cái đó lên 30% giùm."
     },
     {
       "enabled": true,
@@ -983,7 +983,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 20% ở phòng bếp."
+      "text": "Nâng cái đó lên 20% giùm."
     },
     {
       "enabled": true,
@@ -993,7 +993,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 60% ở phòng khách."
+      "text": "Chỉnh cái đó thành 50% giùm."
     },
     {
       "enabled": true,
@@ -1003,7 +1003,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "ambiguous",
-      "text": "Nâng cái đó lên 40% ở phòng khách."
+      "text": "Nâng cái đó lên 60% giùm."
     }
   ],
   "shard": 1

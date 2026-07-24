@@ -93,9 +93,9 @@
       },
       "path": "sentences/north/hard-0001.json",
       "region": "north",
-      "sha256": "48254fd1231cd878d1ee485971310460fca603382b8cc0960c3eef4e1a543b74",
+      "sha256": "64e38c7344cb4f905fc17ce9a2eb3c74ced157c9ea7228a4d859fac2e84c95c2",
       "shard": 1,
-      "size_bytes": 29423
+      "size_bytes": 27906
     },
     {
       "count": 100,
@@ -135,9 +135,9 @@
       },
       "path": "sentences/central/hard-0001.json",
       "region": "central",
-      "sha256": "972ff1a1315c80079955a747aa3add15063b9e846ae27c0f362fd14a45673651",
+      "sha256": "5d60abf024792b6c5d3134b1530a2f9a7163124bf7caa27e932f1af54a66031d",
       "shard": 1,
-      "size_bytes": 29725
+      "size_bytes": 28365
     },
     {
       "count": 100,
@@ -177,9 +177,9 @@
       },
       "path": "sentences/south/hard-0001.json",
       "region": "south",
-      "sha256": "fc4f212e42ffc567f874b1e4809382644699d1df82c9a5b5b9d145a37841f1aa",
+      "sha256": "82ad960785ec2ebb49f29416b53fcfdedcfa7a2e365d87cc7a25c001b794f3a2",
       "shard": 1,
-      "size_bytes": 29336
+      "size_bytes": 27793
     },
     {
       "count": 12,
@@ -191,9 +191,9 @@
       },
       "path": "sentences/shared/hard-conversation-0001.json",
       "region": "shared",
-      "sha256": "d034d781697d53628779c1f41873c95f804e7f0e583bd6e7de42132922346090",
+      "sha256": "abcda88dfff3d2fb2b580bebfd3beaed66b4cab522ea02fb756e88ff00d4959f",
       "shard": 1,
-      "size_bytes": 4612
+      "size_bytes": 4557
     }
   ],
   "language": "vi-VN",
