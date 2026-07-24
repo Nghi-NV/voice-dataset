@@ -1,0 +1,1010 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.6",
+  "difficulty": "easy",
+  "region": "north",
+  "schema_version": 2,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0001",
+      "language_style": "standard",
+      "random_key": 1657690770,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn trần ở phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0002",
+      "language_style": "standard",
+      "random_key": 1456101676,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên trái ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0003",
+      "language_style": "standard",
+      "random_key": 537467320,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng đèn trang trí."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0004",
+      "language_style": "standard",
+      "random_key": 236360934,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0005",
+      "language_style": "standard",
+      "random_key": 1389187441,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật máy lạnh ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0006",
+      "language_style": "standard",
+      "random_key": 554895387,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0007",
+      "language_style": "standard",
+      "random_key": 1095755842,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn trần ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0008",
+      "language_style": "standard",
+      "random_key": 1878445608,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0009",
+      "language_style": "standard",
+      "random_key": 48184734,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên trái ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0010",
+      "language_style": "standard",
+      "random_key": 1806084194,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn khu vực hành lang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0011",
+      "language_style": "standard",
+      "random_key": 929385250,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên phải ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0012",
+      "language_style": "standard",
+      "random_key": 1633618349,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật điều hòa ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0013",
+      "language_style": "standard",
+      "random_key": 1204715921,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0014",
+      "language_style": "standard",
+      "random_key": 1964600330,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn trang trí."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0015",
+      "language_style": "standard",
+      "random_key": 1303683186,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật tất cả đèn ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0016",
+      "language_style": "standard",
+      "random_key": 910689714,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0017",
+      "language_style": "standard",
+      "random_key": 663853141,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn trần ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0018",
+      "language_style": "standard",
+      "random_key": 1548156181,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt điều hòa ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0019",
+      "language_style": "standard",
+      "random_key": 1592785272,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm cửa ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0020",
+      "language_style": "standard",
+      "random_key": 800803492,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt trần ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0021",
+      "language_style": "standard",
+      "random_key": 1787324875,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt máy lạnh ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0022",
+      "language_style": "standard",
+      "random_key": 1072681987,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên phải ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0023",
+      "language_style": "standard",
+      "random_key": 1258837457,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0024",
+      "language_style": "standard",
+      "random_key": 1048867194,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt trần ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0025",
+      "language_style": "standard",
+      "random_key": 147128021,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên trái ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0026",
+      "language_style": "standard",
+      "random_key": 388470844,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên trái ở phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0027",
+      "language_style": "standard",
+      "random_key": 1706382070,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm cửa ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0028",
+      "language_style": "standard",
+      "random_key": 683824148,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0029",
+      "language_style": "standard",
+      "random_key": 1221439971,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn ngủ ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0030",
+      "language_style": "standard",
+      "random_key": 559247517,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt điều hòa phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0031",
+      "language_style": "standard",
+      "random_key": 189648015,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn ngủ ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0032",
+      "language_style": "standard",
+      "random_key": 1465838954,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn khu vực cầu thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0033",
+      "language_style": "standard",
+      "random_key": 1754353135,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn khu vực khu vực sofa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0034",
+      "language_style": "standard",
+      "random_key": 671522861,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt trần ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0035",
+      "language_style": "standard",
+      "random_key": 1201908696,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn ngủ ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0036",
+      "language_style": "standard",
+      "random_key": 257784144,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật điều hòa ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0037",
+      "language_style": "standard",
+      "random_key": 1046685056,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên phải ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0038",
+      "language_style": "standard",
+      "random_key": 1184674250,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn trần ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0039",
+      "language_style": "standard",
+      "random_key": 49527322,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng toàn bộ rèm ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0040",
+      "language_style": "standard",
+      "random_key": 1582415650,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm ở phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0041",
+      "language_style": "standard",
+      "random_key": 259460477,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt điều hòa phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0042",
+      "language_style": "standard",
+      "random_key": 527271051,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt điều hòa ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0043",
+      "language_style": "standard",
+      "random_key": 941645464,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0044",
+      "language_style": "standard",
+      "random_key": 1101038245,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn khu vực cầu thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0045",
+      "language_style": "standard",
+      "random_key": 1636843963,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0046",
+      "language_style": "standard",
+      "random_key": 454971061,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0047",
+      "language_style": "standard",
+      "random_key": 1411843484,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn ngủ ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0048",
+      "language_style": "standard",
+      "random_key": 490965862,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0049",
+      "language_style": "standard",
+      "random_key": 1291338971,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng đèn bàn làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0050",
+      "language_style": "standard",
+      "random_key": 1306290357,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở đèn trang trí."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0051",
+      "language_style": "standard",
+      "random_key": 2031888618,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm cửa ở phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0052",
+      "language_style": "standard",
+      "random_key": 1958524722,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt điều hòa ở phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0053",
+      "language_style": "standard",
+      "random_key": 474511126,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt phòng thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0054",
+      "language_style": "standard",
+      "random_key": 220979885,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn bàn làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0055",
+      "language_style": "standard",
+      "random_key": 1935519434,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0056",
+      "language_style": "standard",
+      "random_key": 1529450213,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở toàn bộ rèm ở phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0057",
+      "language_style": "standard",
+      "random_key": 1689686280,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn khu vực bàn ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0058",
+      "language_style": "standard",
+      "random_key": 1571611967,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0059",
+      "language_style": "standard",
+      "random_key": 572478064,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt ở phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0060",
+      "language_style": "standard",
+      "random_key": 463488443,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0061",
+      "language_style": "standard",
+      "random_key": 1961846980,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0062",
+      "language_style": "standard",
+      "random_key": 1463942596,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng rèm ở phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0063",
+      "language_style": "standard",
+      "random_key": 2037517241,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0064",
+      "language_style": "standard",
+      "random_key": 1546667786,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Mở rèm bên phải ở phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0065",
+      "language_style": "standard",
+      "random_key": 377462899,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt trần ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0066",
+      "language_style": "standard",
+      "random_key": 213331978,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt hết đèn ở phòng làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0067",
+      "language_style": "standard",
+      "random_key": 1104101875,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Đóng toàn bộ rèm ở phòng ngủ chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0068",
+      "language_style": "standard",
+      "random_key": 1026854475,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn ngủ ở phòng ngủ nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0069",
+      "language_style": "standard",
+      "random_key": 1141913322,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0070",
+      "language_style": "standard",
+      "random_key": 1317937809,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn ngủ ở phòng ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0071",
+      "language_style": "regional",
+      "random_key": 907359376,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật máy lạnh phòng làm việc lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0072",
+      "language_style": "regional",
+      "random_key": 2122046215,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt phòng ngủ nhỏ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0073",
+      "language_style": "regional",
+      "random_key": 958427585,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt trần phòng thờ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0074",
+      "language_style": "regional",
+      "random_key": 1570977446,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt điều hòa phòng ngủ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0075",
+      "language_style": "regional",
+      "random_key": 1462799078,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn trần phòng ngủ chính đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0076",
+      "language_style": "regional",
+      "random_key": 194866353,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Cho quạt phòng bếp chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0077",
+      "language_style": "regional",
+      "random_key": 2134044777,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Cho quạt phòng ăn chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0078",
+      "language_style": "regional",
+      "random_key": 1673021691,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn ngủ phòng ngủ chính đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0079",
+      "language_style": "regional",
+      "random_key": 826364531,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt phòng ăn lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0080",
+      "language_style": "regional",
+      "random_key": 1405528587,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật máy lạnh phòng ngủ nhỏ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0081",
+      "language_style": "regional",
+      "random_key": 498950319,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt phòng thờ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0082",
+      "language_style": "regional",
+      "random_key": 1622954061,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn trần phòng khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0083",
+      "language_style": "regional",
+      "random_key": 1756359669,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt máy lạnh phòng ngủ nhỏ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0084",
+      "language_style": "regional",
+      "random_key": 1011291184,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn trần phòng ngủ chính lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0085",
+      "language_style": "regional",
+      "random_key": 46485108,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn trần phòng ngủ nhỏ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0086",
+      "language_style": "regional",
+      "random_key": 1252954074,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Cho quạt phòng ngủ chính chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0087",
+      "language_style": "regional",
+      "random_key": 893417744,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt quạt trần phòng ngủ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0088",
+      "language_style": "regional",
+      "random_key": 354212191,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn ngủ phòng bếp lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0089",
+      "language_style": "regional",
+      "random_key": 1283818677,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt phòng thờ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0090",
+      "language_style": "regional",
+      "random_key": 821880211,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Cho quạt phòng ngủ chạy đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0091",
+      "language_style": "regional",
+      "random_key": 1674600970,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật máy lạnh phòng thờ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0092",
+      "language_style": "regional",
+      "random_key": 1628263102,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn trần phòng làm việc đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0093",
+      "language_style": "regional",
+      "random_key": 4276258,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật điều hòa phòng khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0094",
+      "language_style": "regional",
+      "random_key": 2060107904,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt phòng khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0095",
+      "language_style": "regional",
+      "random_key": 817103971,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt trần phòng ăn lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0096",
+      "language_style": "regional",
+      "random_key": 658931605,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn ngủ phòng bếp đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0097",
+      "language_style": "regional",
+      "random_key": 1282766951,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Tắt đèn trần phòng khách đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0098",
+      "language_style": "regional",
+      "random_key": 1750726687,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt trần phòng khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0099",
+      "language_style": "regional",
+      "random_key": 1363994571,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật quạt phòng bếp lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_E_0100",
+      "language_style": "regional",
+      "random_key": 2139414194,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "atomic",
+      "text": "Bật đèn ngủ phòng ngủ nhỏ lên."
+    }
+  ],
+  "shard": 1
+}

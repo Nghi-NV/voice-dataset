@@ -1,0 +1,1010 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.6",
+  "difficulty": "hard",
+  "region": "south",
+  "schema_version": 2,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0001",
+      "language_style": "standard",
+      "random_key": 1078233443,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho nó sáng 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0002",
+      "language_style": "standard",
+      "random_key": 155528659,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn bàn về 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0003",
+      "language_style": "standard",
+      "random_key": 389523017,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn bàn ăn về 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0004",
+      "language_style": "standard",
+      "random_key": 395389443,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn trần lên 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0005",
+      "language_style": "standard",
+      "random_key": 606105118,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn bàn ăn sáng 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0006",
+      "language_style": "standard",
+      "random_key": 613731443,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Bật điều hòa phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0007",
+      "language_style": "standard",
+      "random_key": 571969361,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0008",
+      "language_style": "standard",
+      "random_key": 1649057719,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn trần sáng 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0009",
+      "language_style": "standard",
+      "random_key": 1679941881,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn xuống 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0010",
+      "language_style": "standard",
+      "random_key": 214151468,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tắt máy tạo ẩm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0011",
+      "language_style": "standard",
+      "random_key": 829639120,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn hắt trần lên 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0012",
+      "language_style": "standard",
+      "random_key": 2040187368,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn bàn ăn sáng 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0013",
+      "language_style": "standard",
+      "random_key": 1463255115,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Mở rèm phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0014",
+      "language_style": "standard",
+      "random_key": 1109276262,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ngủ ở 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0015",
+      "language_style": "standard",
+      "random_key": 2009428970,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Bật robot hút bụi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0016",
+      "language_style": "standard",
+      "random_key": 1180681247,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Mở rèm phòng tập."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0017",
+      "language_style": "standard",
+      "random_key": 704684345,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn trần xuống 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0018",
+      "language_style": "standard",
+      "random_key": 1355685263,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn bàn ăn ở 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0019",
+      "language_style": "standard",
+      "random_key": 974895733,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn hắt trần về 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0020",
+      "language_style": "standard",
+      "random_key": 1770426608,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn trần về 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0021",
+      "language_style": "standard",
+      "random_key": 142371462,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn hắt trần ở 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0022",
+      "language_style": "standard",
+      "random_key": 233943334,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Bật đèn phòng chơi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0023",
+      "language_style": "standard",
+      "random_key": 548067448,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn ngủ về 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0024",
+      "language_style": "standard",
+      "random_key": 1929175692,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn ngủ lên 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0025",
+      "language_style": "standard",
+      "random_key": 1623265774,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn trần xuống 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0026",
+      "language_style": "standard",
+      "random_key": 734464519,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ngủ ở 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0027",
+      "language_style": "standard",
+      "random_key": 1190101391,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn xuống 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0028",
+      "language_style": "standard",
+      "random_key": 1965231496,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn bàn ở 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0029",
+      "language_style": "standard",
+      "random_key": 1338330859,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn ngủ lên 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0030",
+      "language_style": "standard",
+      "random_key": 1792972260,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn hắt trần xuống 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0031",
+      "language_style": "standard",
+      "random_key": 577606367,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn ăn xuống 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0032",
+      "language_style": "standard",
+      "random_key": 1699656331,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn bàn ăn về 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0033",
+      "language_style": "standard",
+      "random_key": 729758567,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm nó còn 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0034",
+      "language_style": "standard",
+      "random_key": 79011026,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ngủ ở 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0035",
+      "language_style": "standard",
+      "random_key": 1745036705,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Bật điều hòa phòng đọc sách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0036",
+      "language_style": "standard",
+      "random_key": 67564097,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn ngủ xuống 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0037",
+      "language_style": "standard",
+      "random_key": 363969889,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0038",
+      "language_style": "standard",
+      "random_key": 550324903,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn trần ở 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0039",
+      "language_style": "standard",
+      "random_key": 1440680208,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn ăn xuống 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0040",
+      "language_style": "standard",
+      "random_key": 1640754336,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Bật điều hòa phòng giặt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0041",
+      "language_style": "standard",
+      "random_key": 241995088,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn bàn sáng 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0042",
+      "language_style": "standard",
+      "random_key": 1611752217,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn bàn ăn về 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0043",
+      "language_style": "standard",
+      "random_key": 121026535,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh đèn bàn về 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0044",
+      "language_style": "standard",
+      "random_key": 1846648438,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn trần lên 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0045",
+      "language_style": "standard",
+      "random_key": 1392340428,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn bàn lên 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0046",
+      "language_style": "standard",
+      "random_key": 421998462,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn xuống 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0047",
+      "language_style": "standard",
+      "random_key": 138668004,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn ngủ lên 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0048",
+      "language_style": "standard",
+      "random_key": 1132409207,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn ngủ ở 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0049",
+      "language_style": "standard",
+      "random_key": 404326745,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Bật máy tạo ẩm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0050",
+      "language_style": "standard",
+      "random_key": 490743918,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh nó thành 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0051",
+      "language_style": "standard",
+      "random_key": 235823181,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn hắt trần ở 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0052",
+      "language_style": "standard",
+      "random_key": 1712961976,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn trần sáng 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0053",
+      "language_style": "standard",
+      "random_key": 1539456551,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn xuống 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0054",
+      "language_style": "standard",
+      "random_key": 272346261,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0055",
+      "language_style": "standard",
+      "random_key": 237719524,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn ăn xuống 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0056",
+      "language_style": "standard",
+      "random_key": 121644053,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn ngủ sáng 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0057",
+      "language_style": "standard",
+      "random_key": 836486293,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở mức 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0058",
+      "language_style": "standard",
+      "random_key": 1133756491,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn trần lên 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0059",
+      "language_style": "standard",
+      "random_key": 150020253,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn trần lên 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0060",
+      "language_style": "standard",
+      "random_key": 615294865,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn bàn lên 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0061",
+      "language_style": "standard",
+      "random_key": 1826429771,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn hắt trần lên 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0062",
+      "language_style": "standard",
+      "random_key": 1490746835,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm đèn bàn xuống 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0063",
+      "language_style": "standard",
+      "random_key": 660059486,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt đèn bàn ở 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0064",
+      "language_style": "standard",
+      "random_key": 1348612421,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Giảm nó còn 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0065",
+      "language_style": "standard",
+      "random_key": 1288356802,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn bàn ăn lên 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0066",
+      "language_style": "standard",
+      "random_key": 1619253465,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn trần sáng 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0067",
+      "language_style": "standard",
+      "random_key": 1430591699,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho đèn bàn ăn sáng 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0068",
+      "language_style": "standard",
+      "random_key": 596641064,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng đèn trần lên 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0069",
+      "language_style": "standard",
+      "random_key": 162575878,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Tăng nó lên 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0070",
+      "language_style": "standard",
+      "random_key": 812711475,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Đặt nó ở mức 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0071",
+      "language_style": "regional",
+      "random_key": 299582194,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 70% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0072",
+      "language_style": "regional",
+      "random_key": 325379474,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 80% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0073",
+      "language_style": "regional",
+      "random_key": 770554977,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 80% nghen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0074",
+      "language_style": "regional",
+      "random_key": 1263444424,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó thành 50% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0075",
+      "language_style": "regional",
+      "random_key": 1889438194,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó thành 30% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0076",
+      "language_style": "regional",
+      "random_key": 2141579245,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 70% nghen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0077",
+      "language_style": "regional",
+      "random_key": 1863654242,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó thành 80% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0078",
+      "language_style": "regional",
+      "random_key": 1475126724,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 30% nghen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0079",
+      "language_style": "regional",
+      "random_key": 541434503,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 40% nghen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0080",
+      "language_style": "regional",
+      "random_key": 1682421363,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 50% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0081",
+      "language_style": "regional",
+      "random_key": 1048181700,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 30% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0082",
+      "language_style": "regional",
+      "random_key": 486759989,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 60% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0083",
+      "language_style": "regional",
+      "random_key": 486655520,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho cái đó còn 20% nhen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0084",
+      "language_style": "regional",
+      "random_key": 2139526774,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 40% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0085",
+      "language_style": "regional",
+      "random_key": 1485337073,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 100% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0086",
+      "language_style": "regional",
+      "random_key": 1092430482,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho cái đó còn 70% nhen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0087",
+      "language_style": "regional",
+      "random_key": 1404457924,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó thành 60% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0088",
+      "language_style": "regional",
+      "random_key": 1446081493,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 100% nghen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0089",
+      "language_style": "regional",
+      "random_key": 618535417,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho cái đó còn 60% nhen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0090",
+      "language_style": "regional",
+      "random_key": 1167861478,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Để cái đó ở mức 20% giùm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0091",
+      "language_style": "regional",
+      "random_key": 1166037459,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó thành 100% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0092",
+      "language_style": "regional",
+      "random_key": 2097933244,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho cái đó còn 100% nhen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0093",
+      "language_style": "regional",
+      "random_key": 686391272,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 50% nghen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0094",
+      "language_style": "regional",
+      "random_key": 471046567,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó thành 20% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0095",
+      "language_style": "regional",
+      "random_key": 541249369,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Chỉnh cái đó thành 70% thôi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0096",
+      "language_style": "regional",
+      "random_key": 1192668827,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho cái đó còn 40% nhen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0097",
+      "language_style": "regional",
+      "random_key": 1297748389,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho cái đó còn 80% nhen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0098",
+      "language_style": "regional",
+      "random_key": 258952388,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Cho cái đó còn 50% nhen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0099",
+      "language_style": "regional",
+      "random_key": 1116636416,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 20% nghen."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_H_0100",
+      "language_style": "regional",
+      "random_key": 1629808575,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "ambiguous",
+      "text": "Nâng cái đó lên 60% nghen."
+    }
+  ],
+  "shard": 1
+}
