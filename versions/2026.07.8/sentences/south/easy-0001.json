@@ -1663,7 +1663,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "parameterized",
-      "text": "Chỉnh Đèn trần ở Phòng vệ sinh Master sang nhiệt màu 3000 K."
+      "text": "Chỉnh Đèn trần ở Phòng vệ sinh Master sang màu lạnh."
     },
     {
       "enabled": true,
@@ -1673,7 +1673,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "parameterized",
-      "text": "Chỉnh DOWNLIGHT PHÒNG THỜ sang nhiệt màu 5000 K."
+      "text": "Chỉnh DOWNLIGHT PHÒNG THỜ sang màu ấm."
     },
     {
       "enabled": true,
@@ -2443,7 +2443,7 @@
       "recording_mode": "single",
       "region_scope": "south",
       "task_shape": "status_query",
-      "text": "Cho mình hỏi chuông báo động ở NHA XE đang bật phải không?"
+      "text": "Cho mình hỏi chuông báo động ở NHÀ XE đang bật phải không?"
     },
     {
       "enabled": true,

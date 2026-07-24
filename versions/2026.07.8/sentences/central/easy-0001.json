@@ -1823,7 +1823,7 @@
       "recording_mode": "single",
       "region_scope": "central",
       "task_shape": "parameterized",
-      "text": "Chỉnh Đèn bếp 1 sang nhiệt màu 6500 K."
+      "text": "Chỉnh Đèn bếp 1 sang màu ấm."
     },
     {
       "enabled": true,
@@ -1863,7 +1863,7 @@
       "recording_mode": "single",
       "region_scope": "central",
       "task_shape": "parameterized",
-      "text": "Chỉnh Đèn ngủ ở Phòng Ngủ sang nhiệt màu 4000 K với."
+      "text": "Chỉnh Đèn ngủ ở Phòng Ngủ sang nhiệt độ màu trung tính với."
     },
     {
       "enabled": true,

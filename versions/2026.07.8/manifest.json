@@ -61,9 +61,9 @@
       },
       "path": "sentences/north/easy-0001.json",
       "region": "north",
-      "sha256": "3ca42cfabd3546263ce327a704c284e8f796ae6a4941934a584d4072ecf6cff5",
+      "sha256": "854839e3c0486bc167c0d8cf71816a8c06d7d3f930d8715ad3b7fd9091ec0831",
       "shard": 1,
-      "size_bytes": 74745
+      "size_bytes": 74733
     },
     {
       "count": 250,
@@ -103,9 +103,9 @@
       },
       "path": "sentences/central/easy-0001.json",
       "region": "central",
-      "sha256": "116f84c4f2c538a718b2a213e337211ea68f4d74ee2340dab7a3148ce0e0b89a",
+      "sha256": "3e7bba62e5fad42f4d33d16eb09532f8dd1b971e1264dc2c5137930c2bf3209e",
       "shard": 1,
-      "size_bytes": 75078
+      "size_bytes": 75079
     },
     {
       "count": 250,
@@ -145,9 +145,9 @@
       },
       "path": "sentences/south/easy-0001.json",
       "region": "south",
-      "sha256": "28f219dc9c30ab191d529f89bf5f4be915758c75c01fa12369301727f87efd5e",
+      "sha256": "fd4b44416bc09f37b46ea4420ead0d19dc25d6ef39848da52b0cea95cb605dbf",
       "shard": 1,
-      "size_bytes": 74855
+      "size_bytes": 74838
     },
     {
       "count": 250,

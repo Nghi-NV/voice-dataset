@@ -1663,7 +1663,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "parameterized",
-      "text": "Chỉnh Đèn 6 ở Phòng bếp sang nhiệt màu 3000 K."
+      "text": "Chỉnh Đèn 6 ở Phòng bếp sang nhiệt màu ấm."
     },
     {
       "enabled": true,
@@ -1673,7 +1673,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "parameterized",
-      "text": "Chỉnh RGB ở Phòng ngủ Trước sang nhiệt màu 6500 K."
+      "text": "Chỉnh RGB ở Phòng ngủ Trước sang nhiệt màu lạnh."
     },
     {
       "enabled": true,
@@ -1683,7 +1683,7 @@
       "recording_mode": "single",
       "region_scope": "north",
       "task_shape": "parameterized",
-      "text": "Chỉnh Đèn hành lang sang nhiệt màu 2700 K."
+      "text": "Chỉnh Đèn hành lang sang màu mát."
     },
     {
       "enabled": true,
