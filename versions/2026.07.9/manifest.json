@@ -1,0 +1,202 @@
+{
+  "collection_policy": {
+    "conversation_groups_per_difficulty": {
+      "easy": 0,
+      "hard": 2,
+      "normal": 0
+    },
+    "counts_per_difficulty": {
+      "easy": 10,
+      "hard": 10,
+      "normal": 10
+    },
+    "regional_style_per_difficulty": {
+      "easy": 3,
+      "hard": 3,
+      "normal": 3
+    },
+    "turns": [
+      {
+        "distance_meters": 1,
+        "id": "ONE_METER"
+      },
+      {
+        "distance_meters": 3,
+        "id": "THREE_METERS",
+        "unlock_after": "ONE_METER"
+      }
+    ]
+  },
+  "counts": {
+    "central": {
+      "easy": 243,
+      "hard": 137,
+      "normal": 241,
+      "total": 621
+    },
+    "north": {
+      "easy": 250,
+      "hard": 174,
+      "normal": 250,
+      "total": 674
+    },
+    "shared": {
+      "hard": 12,
+      "total": 12
+    },
+    "south": {
+      "easy": 232,
+      "hard": 136,
+      "normal": 244,
+      "total": 612
+    },
+    "total": 1919
+  },
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.9",
+  "files": [
+    {
+      "count": 250,
+      "difficulty": "easy",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/north/easy-0001.json",
+      "region": "north",
+      "sha256": "2143db5860e0504ed79dd66010392234a1ddbb79473b1ea063bb68437e0a5d00",
+      "shard": 1,
+      "size_bytes": 73391
+    },
+    {
+      "count": 250,
+      "difficulty": "normal",
+      "enabled_count": 250,
+      "language_style_counts": {
+        "regional": 75,
+        "standard": 175
+      },
+      "path": "sentences/north/normal-0001.json",
+      "region": "north",
+      "sha256": "a179288fe78f81926963352dc79cc278e3259fbac0abddf7996aa7f3a8a22092",
+      "shard": 1,
+      "size_bytes": 81269
+    },
+    {
+      "count": 174,
+      "difficulty": "hard",
+      "enabled_count": 174,
+      "language_style_counts": {
+        "regional": 58,
+        "standard": 116
+      },
+      "path": "sentences/north/hard-0001.json",
+      "region": "north",
+      "sha256": "7abcf10663762d7d7334632b35669fd927517e05a74cdd590b50e677ed86c7ba",
+      "shard": 1,
+      "size_bytes": 51184
+    },
+    {
+      "count": 243,
+      "difficulty": "easy",
+      "enabled_count": 243,
+      "language_style_counts": {
+        "regional": 74,
+        "standard": 169
+      },
+      "path": "sentences/central/easy-0001.json",
+      "region": "central",
+      "sha256": "b600f9b91c6ebba2164ba8262af4042f1db4d77afaebc22c57bc89102396437d",
+      "shard": 1,
+      "size_bytes": 71488
+    },
+    {
+      "count": 241,
+      "difficulty": "normal",
+      "enabled_count": 241,
+      "language_style_counts": {
+        "regional": 70,
+        "standard": 171
+      },
+      "path": "sentences/central/normal-0001.json",
+      "region": "central",
+      "sha256": "2ce938c375336a49bde6d6385abc547e8fc8951cfce60e1f91ba192d35d73ca0",
+      "shard": 1,
+      "size_bytes": 78618
+    },
+    {
+      "count": 137,
+      "difficulty": "hard",
+      "enabled_count": 137,
+      "language_style_counts": {
+        "regional": 43,
+        "standard": 94
+      },
+      "path": "sentences/central/hard-0001.json",
+      "region": "central",
+      "sha256": "2774f25e3e5f8c7b59edad13b3073af9b26899bbc9ed5d2947dbf27a54a61a12",
+      "shard": 1,
+      "size_bytes": 41613
+    },
+    {
+      "count": 232,
+      "difficulty": "easy",
+      "enabled_count": 232,
+      "language_style_counts": {
+        "regional": 71,
+        "standard": 161
+      },
+      "path": "sentences/south/easy-0001.json",
+      "region": "south",
+      "sha256": "1d062d010462d49b17ca398afcd3a8f88685e962aa69d7f11c8d362b234b3aac",
+      "shard": 1,
+      "size_bytes": 68225
+    },
+    {
+      "count": 244,
+      "difficulty": "normal",
+      "enabled_count": 244,
+      "language_style_counts": {
+        "regional": 72,
+        "standard": 172
+      },
+      "path": "sentences/south/normal-0001.json",
+      "region": "south",
+      "sha256": "6c3d8f6f6c7c622ee1107b991b42db4189cb8ba7f84d5115a53ad3d908d74984",
+      "shard": 1,
+      "size_bytes": 78926
+    },
+    {
+      "count": 136,
+      "difficulty": "hard",
+      "enabled_count": 136,
+      "language_style_counts": {
+        "regional": 44,
+        "standard": 92
+      },
+      "path": "sentences/south/hard-0001.json",
+      "region": "south",
+      "sha256": "ce14223a5985d533a7a085be85f98faf3ee83f698eb630ddef1db5c685d173ad",
+      "shard": 1,
+      "size_bytes": 40580
+    },
+    {
+      "count": 12,
+      "difficulty": "hard",
+      "enabled_count": 12,
+      "language_style_counts": {
+        "regional": 0,
+        "standard": 12
+      },
+      "path": "sentences/shared/hard-conversation-0001.json",
+      "region": "shared",
+      "sha256": "f49fd1f6a765b81f258f490de5b888c258e20101626a5b1c38cc8c6d0c536420",
+      "shard": 1,
+      "size_bytes": 4557
+    }
+  ],
+  "language": "vi-VN",
+  "published_at": "2026-07-25T00:00:00Z",
+  "schema_version": 2
+}

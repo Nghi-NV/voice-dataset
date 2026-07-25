@@ -1,0 +1,2510 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.9",
+  "difficulty": "normal",
+  "region": "north",
+  "schema_version": 2,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0001",
+      "language_style": "regional",
+      "random_key": 569513657,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Bình nóng lạnh ở Phòng Ngủ Tôm Mon rồi bật Điều hoà ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0002",
+      "language_style": "regional",
+      "random_key": 477536484,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Voan phải ở Phòng khách lại rồi mở Led hắt ở Phòng Con Trai lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0003",
+      "language_style": "standard",
+      "random_key": 584932969,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn tv ở Tầng 1 rồi cho Điều hoà ở Phòng Ngủ 1 chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0004",
+      "language_style": "standard",
+      "random_key": 448811933,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn TIVI ở Phòng Khách rồi bật Downlight ở Nhà Tắm Quang Trung."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0005",
+      "language_style": "regional",
+      "random_key": 771619498,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật Điều hoà ở Phòng Giúp Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0006",
+      "language_style": "standard",
+      "random_key": 1716523052,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Vải ở Phòng Ngủ rồi kéo Rèm vải ở Phòng Khách ra."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0007",
+      "language_style": "regional",
+      "random_key": 888983336,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Đèn Tủ ở Phòng Bếp sáng lên rồi tắt Đèn Hắt Trần ở Phòng Ba đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0008",
+      "language_style": "standard",
+      "random_key": 256658590,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Downlight 2 ở Phòng Ngủ 1 rồi cho Downlight 1 ở Phòng Ngủ 2 sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0009",
+      "language_style": "standard",
+      "random_key": 1996696881,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn TIVI ở Phòng Khách rồi mở Đèn Ban Công lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0010",
+      "language_style": "standard",
+      "random_key": 1032894017,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Đèn Ray ở Sảnh Thang sáng lên rồi mở Đèn Trần ở Sảnh Thang lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0011",
+      "language_style": "standard",
+      "random_key": 1043621402,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn trần 2 ở Phòng Ngủ 3 đi rồi cho Điều hòa ở Phòng Xem Phim chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0012",
+      "language_style": "standard",
+      "random_key": 708852963,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Cửa cuốn ở Phòng khách lại rồi mở Bình Nóng Lạnh ở Phòng vệ sinh lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0013",
+      "language_style": "standard",
+      "random_key": 287589956,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn hành lang lên rồi bật Quạt ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0014",
+      "language_style": "standard",
+      "random_key": 1022337945,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Khởi động Nguồn tv ở Tầng 1 rồi bật Đèn ray ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0015",
+      "language_style": "standard",
+      "random_key": 748375779,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Khởi động Nguồn TIVI ở Phòng Khách rồi bật Điều Hoà ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0016",
+      "language_style": "standard",
+      "random_key": 289598260,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn TIVI ở Phòng Khách rồi cho Đèn Tuýp ở Sân Vườn Sau sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0017",
+      "language_style": "standard",
+      "random_key": 1777688616,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn phòng vệ sinh đi rồi tắt Đèn hắt ở Phòng Bếp đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0018",
+      "language_style": "standard",
+      "random_key": 407799886,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Quạt Trần ở Phòng Trước rồi bật Đèn Hắt Trần ở Sảnh Thang máy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0019",
+      "language_style": "regional",
+      "random_key": 831214102,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nóng Lạnh ở Phòng tắm rồi đóng Rèm Voan ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0020",
+      "language_style": "standard",
+      "random_key": 973471907,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Quạt Trần ở Sảnh Trong lên rồi tắt Quạt Trần ở Phòng Bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0021",
+      "language_style": "standard",
+      "random_key": 296005586,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn phòng vệ sinh đi rồi bật Downlight ở Phòng Bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0022",
+      "language_style": "regional",
+      "random_key": 869360602,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn Điều Hòa ở Phòng Master rồi bật Bình Nóng Lạnh ở Phòng Tắm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0023",
+      "language_style": "regional",
+      "random_key": 913518143,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Bật tắt điều hòa ở Phòng ngủ Master rồi cho Đèn âm trần ở Phòng ngủ Master sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0024",
+      "language_style": "standard",
+      "random_key": 85718041,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn Ban Công rồi mở Cửa Cuốn ở Tầng 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0025",
+      "language_style": "regional",
+      "random_key": 421635511,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Downlight phòng vệ sinh đi rồi bật Quạt hút ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0026",
+      "language_style": "regional",
+      "random_key": 1399625702,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Đóng Rèm vải ở Phòng Khách lại rồi tắt Đèn Tường ở Phòng Vệ Sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0027",
+      "language_style": "standard",
+      "random_key": 1995806088,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Hắt trần ở Phòng Ngủ Trước Tầng 3 rồi tắt Nguồn điều hoà ở Phòng Ngủ Trước Tầng 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0028",
+      "language_style": "standard",
+      "random_key": 402438465,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn tv ở Tầng 1 rồi tắt Điều hoà ở Phòng Giúp Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0029",
+      "language_style": "standard",
+      "random_key": 1654135343,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn tv ở Tầng 1 đi rồi bật Đèn trần 1 ở Phòng Ngủ 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0030",
+      "language_style": "regional",
+      "random_key": 210999030,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi đóng Cửa Cuốn ở Gara lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0031",
+      "language_style": "standard",
+      "random_key": 165953331,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Đèn phòng vệ sinh sáng lên rồi cho đèn trần ở Phòng khách sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0032",
+      "language_style": "standard",
+      "random_key": 1320066061,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Công tắc điều hoà ở Phòng ngủ Master rồi cho Hút mùi bếp chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0033",
+      "language_style": "standard",
+      "random_key": 1188432347,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Điều hoà ở Phòng Mun Yêu đi rồi bật Bình nóng lạnh ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0034",
+      "language_style": "standard",
+      "random_key": 1107339415,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Hắt trần ở Phòng Khách lên rồi mở Rèm voan ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0035",
+      "language_style": "standard",
+      "random_key": 534962217,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Đóng Rèm Vải ở Phòng Khách lại rồi tắt Đèn Tuýp ở Bàn Trà đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0036",
+      "language_style": "standard",
+      "random_key": 1952643680,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn Điều Hoà ở Phòng ngủ Nhỏ đi rồi tắt Đèn Chùm ở Phòng Khách đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0037",
+      "language_style": "regional",
+      "random_key": 16377109,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Quạt thông gió ở Phòng Ngủ Con chạy rồi mở Điều hòa ở Phòng Trà lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0038",
+      "language_style": "standard",
+      "random_key": 886593938,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn TIVI ở Phòng Khách rồi bật Downlight 2 ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0039",
+      "language_style": "standard",
+      "random_key": 1605798769,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn Ban Công lên rồi kéo Rèm Voan ở Phòng Khách ra."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0040",
+      "language_style": "standard",
+      "random_key": 715304876,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hoà ở Phòng Ngủ 2 Vợ Chồng rồi bật Đèn tuýp ở Phòng Thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0041",
+      "language_style": "standard",
+      "random_key": 1132702263,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Voan ở Phòng khách rồi tắt Đèn ray ở Gara đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0042",
+      "language_style": "standard",
+      "random_key": 1596961178,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Nóng Lạnh ở Phòng Ngủ Master lên rồi cho Nóng Lạnh ở Phòng vệ sinh Bếp chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0043",
+      "language_style": "standard",
+      "random_key": 161418816,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Led hắt ở Phòng Bố Mẹ rồi bật Đèn Tường ở Phòng Bà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0044",
+      "language_style": "standard",
+      "random_key": 197727967,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Cửa Cuốn ở Tầng 1 ra rồi tắt Quạt trần ở Tầng 4."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0045",
+      "language_style": "regional",
+      "random_key": 1887241262,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng khách rồi tắt Downlight ở Phòng tắm đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0046",
+      "language_style": "regional",
+      "random_key": 114509450,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Quạt trần 2 ở Phòng Họp lên rồi tắt Đèn phòng vệ sinh đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0047",
+      "language_style": "standard",
+      "random_key": 878845492,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Trần 2 ở Phòng Khách rồi mở Đèn Tranh ở Sảnh Thang Máy lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0048",
+      "language_style": "standard",
+      "random_key": 1430881881,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Át Điều Hoà ở Phòng Ngủ CoCa Ken chạy rồi bật Đèn ban công."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0049",
+      "language_style": "standard",
+      "random_key": 1027823798,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Rèm Vải ở Phòng khách ra rồi bật Spotlight ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0050",
+      "language_style": "standard",
+      "random_key": 269951445,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi đóng Cửa Cuốn ở Gara lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0051",
+      "language_style": "regional",
+      "random_key": 1198630214,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn tv ở Tầng 1 rồi cho Đèn ray ở Phòng Master sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0052",
+      "language_style": "regional",
+      "random_key": 1988743385,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn trần ở Phòng Ngủ 1 rồi cho Bình nóng lạnh ở Phòng vệ sinh Chung chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0053",
+      "language_style": "standard",
+      "random_key": 1407362412,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Led Trần ở Căn Giữa lên rồi tắt Điều Hoà Sau ở Căn Giữa."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0054",
+      "language_style": "standard",
+      "random_key": 1800434265,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Downlight phòng vệ sinh lên rồi bật Đèn Tường ở Ban Công."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0055",
+      "language_style": "regional",
+      "random_key": 2137519917,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn tv ở Tầng 1 rồi mở Điều hoà ở Phòng Giúp Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0056",
+      "language_style": "standard",
+      "random_key": 552445751,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Hút Mùi ở Phòng Bếp chạy rồi bật Đèn Chùm ở Sảnh Thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0057",
+      "language_style": "standard",
+      "random_key": 1161691928,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Led Trần ở Phòng Bếp rồi bật Điều Hoà ở Phòng Ngủ Bé."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0058",
+      "language_style": "standard",
+      "random_key": 489365375,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Rèm voan ở Phòng bếp lại rồi tắt Đèn trần ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0059",
+      "language_style": "regional",
+      "random_key": 808593459,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Điều hoà ở Phòng ngủ Master rồi tắt Đèn trần ở Phòng Thờ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0060",
+      "language_style": "regional",
+      "random_key": 576287495,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Quạt hút mùi ở Phòng Ngủ Master rồi mở Quạt trần ở Phòng Khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0061",
+      "language_style": "regional",
+      "random_key": 1595118392,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi kéo Cửa Cuốn ở Gara lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0062",
+      "language_style": "standard",
+      "random_key": 1767442809,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Điều hoà ở Phòng Ngủ chạy rồi mở Đèn phòng vệ sinh lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0063",
+      "language_style": "standard",
+      "random_key": 1549506499,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn tv ở Tầng 1 đi rồi tắt Đèn trần 1 ở Hành Lang Cầu Thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0064",
+      "language_style": "standard",
+      "random_key": 1030609863,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Downlight ở Gara rồi bật Đèn trần ở Gara."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0065",
+      "language_style": "standard",
+      "random_key": 1046789098,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật Đèn phòng vệ sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0066",
+      "language_style": "regional",
+      "random_key": 604027795,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Nguồn tv ở Tầng 1 lên rồi cho Đèn trần 1 ở Hành Lang Cầu Thang sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0067",
+      "language_style": "standard",
+      "random_key": 165189865,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Bình nóng lạnh ở Phòng vệ sinh Master chạy rồi mở Đèn hắt ở Phòng Ngủ Ông Bà lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0068",
+      "language_style": "standard",
+      "random_key": 159101175,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Cửa Cuốn ở Tầng 1 ra rồi tắt Quạt trần ở Tầng 4 đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0069",
+      "language_style": "regional",
+      "random_key": 989394102,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Quạt hút phòng vệ sinh đi rồi đóng Rèm voan phòng khách lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0070",
+      "language_style": "standard",
+      "random_key": 1467353264,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn led ở Phòng khách đi rồi tắt Đèn trần ở Phòng khách đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0071",
+      "language_style": "standard",
+      "random_key": 1578025389,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Điều hoà ở Phòng Master rồi tắt Quạt bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0072",
+      "language_style": "standard",
+      "random_key": 365871209,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Trần ở Phòng Khách rồi đóng Rèm dày cửa cạnh ở Phòng Khách lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0073",
+      "language_style": "regional",
+      "random_key": 1190877509,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn trần phòng vệ sinh rồi cho Đèn sưởi ở Phòng Master sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0074",
+      "language_style": "standard",
+      "random_key": 1510335766,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn ban công rồi tắt Hắt trần ở Phòng ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0075",
+      "language_style": "regional",
+      "random_key": 556794106,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Rèm Vải 3 ở Phòng khách lại rồi kéo Rèm Vải ở Phòng Ngủ Master lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0076",
+      "language_style": "regional",
+      "random_key": 766091591,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo rèm voan ở Phòng khách ra rồi bật Đèn sưởi ở Phòng tắm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0077",
+      "language_style": "standard",
+      "random_key": 499738791,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Ban Công rồi cho Nguồn Điều Hoà ở Phòng Master chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0078",
+      "language_style": "standard",
+      "random_key": 764400348,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Voan ở Phòng Khách rồi mở Rèm Voan ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0079",
+      "language_style": "standard",
+      "random_key": 1688339330,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi cho Downlight ở Nhà Tắm Kiều Anh sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0080",
+      "language_style": "standard",
+      "random_key": 1805622683,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn Ray ở Phòng Ngủ 1 rồi bật Điều Hòa ở Phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0081",
+      "language_style": "standard",
+      "random_key": 1542113993,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Nguồn TIVI ở Phòng Khách lên rồi bật Điều Hoà ở Phòng Thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0082",
+      "language_style": "regional",
+      "random_key": 1441606318,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Đèn Ban Công sáng lên rồi cho Đèn phòng vệ sinh sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0083",
+      "language_style": "standard",
+      "random_key": 1625373624,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn âm trần ở Phòng vệ sinh rồi tắt Đèn âm trần ở Phòng Kinh Doanh đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0084",
+      "language_style": "regional",
+      "random_key": 62152116,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Led Tủ ở Phòng Thay Đồ đi rồi bật Đèn phòng vệ sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0085",
+      "language_style": "standard",
+      "random_key": 1960360375,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn led ở Phòng 1 rồi mở Rèm vải ở Phòng 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0086",
+      "language_style": "standard",
+      "random_key": 271098400,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Downlight ở Sảnh Cầu Thang sáng lên rồi bật Đèn tường ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0087",
+      "language_style": "regional",
+      "random_key": 1068050049,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Downlight ở Phòng Thờ lên rồi tắt Downlight ở Phòng vệ sinh Chung."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0088",
+      "language_style": "standard",
+      "random_key": 1614263963,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Nguồn tv ở Tầng 1 chạy rồi bật Đèn chùm ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0089",
+      "language_style": "standard",
+      "random_key": 1548659373,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Nguồn TIVI ở Phòng Khách lên rồi mở Điều Hoà ở Kiều Anh lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0090",
+      "language_style": "regional",
+      "random_key": 1157790471,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Điều hoà ở Phòng Ngủ 1 lên rồi mở Nguồn tv ở Tầng 1 lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0091",
+      "language_style": "standard",
+      "random_key": 768451324,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Đóng Voan phải ở Phòng khách rồi bật Downlight phòng vệ sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0092",
+      "language_style": "standard",
+      "random_key": 1811958384,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn hành lang đi rồi tắt Nóng lạnh ở Phòng vệ sinh và Hành Lang đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0093",
+      "language_style": "standard",
+      "random_key": 1712460607,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Downlight ở em tên Giang lên rồi bật Downlight ở Sảnh Thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0094",
+      "language_style": "standard",
+      "random_key": 1900141813,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Đóng Rèm master ở Phòng ngủ Master lại rồi cho Đèn chùm ở Phòng khách sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0095",
+      "language_style": "standard",
+      "random_key": 1921753511,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn TIVI ở Phòng Khách rồi tắt Điều Hoà ở Anh Đạt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0096",
+      "language_style": "standard",
+      "random_key": 45793473,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Bình nóng lạnh ở Phòng vệ sinh Chung lên rồi tắt Đèn hắt ở Gara."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0097",
+      "language_style": "standard",
+      "random_key": 1579593167,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Trần ở Cửa Hàng rồi kéo Cửa cuốn ở Cửa Hàng lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0098",
+      "language_style": "standard",
+      "random_key": 300408015,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn trần ở Phòng Khách đi rồi tắt Đèn hắt ở Phòng Ngủ Trước đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0099",
+      "language_style": "regional",
+      "random_key": 1812714990,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn phòng vệ sinh rồi tắt Đèn âm trần ở Phòng Ngủ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0100",
+      "language_style": "standard",
+      "random_key": 1721078994,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hòa ở Phòng Ngủ 4 rồi mở Đèn trần ở Phòng Ngủ 1 lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0101",
+      "language_style": "standard",
+      "random_key": 1312355466,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn trần ở Phòng tắm đi rồi tắt Đèn hắt ở Phòng bếp đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0102",
+      "language_style": "regional",
+      "random_key": 2030265149,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi bật Điều Hoà ở Quang Trung."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0103",
+      "language_style": "standard",
+      "random_key": 2041826755,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Downlight ở Phòng Khách đi rồi kéo Rèm voan ở Phòng Khách lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0104",
+      "language_style": "standard",
+      "random_key": 677188731,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nóng Lạnh ở Phòng Tắm rồi đóng Rèm Voan ở Phòng Ngủ 2 lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0105",
+      "language_style": "standard",
+      "random_key": 1205430498,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Hắt ở PHÒNG MASTER rồi bật Đèn Trần 2 ở KHÔNG GIAN CHUNG TẦNG 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0106",
+      "language_style": "regional",
+      "random_key": 1224865377,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn Hành Lang đi rồi bật Đèn Trần ở Quảng Cáo."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0107",
+      "language_style": "standard",
+      "random_key": 153740015,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Chùm ở Hành Lang rồi mở Đèn Trần 1 ở Phòng Con Gái lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0108",
+      "language_style": "regional",
+      "random_key": 1935832547,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng ngủ 2 rồi kéo Rèm vải ở Phòng master lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0109",
+      "language_style": "standard",
+      "random_key": 1288400182,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hoà 1 ở Phòng khách rồi tắt Đèn âm trần ở Phòng Ngủ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0110",
+      "language_style": "regional",
+      "random_key": 2136628167,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi mở Đèn Ban Công lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0111",
+      "language_style": "standard",
+      "random_key": 1452006316,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Rèm Vải Trái ở Phòng Họp ra rồi mở Quạt trần 2 ở Phòng Họp lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0112",
+      "language_style": "regional",
+      "random_key": 2121229273,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn Chùm ở Phòng khách đi rồi mở Downlight 1 ở Phòng khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0113",
+      "language_style": "standard",
+      "random_key": 613650846,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nóng lạnh ở Phòng vệ sinh rồi bật Hút mùi ở Phòng vệ sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0114",
+      "language_style": "standard",
+      "random_key": 1017471538,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn TIVI ở Phòng Khách đi rồi mở Cửa Cuốn ở Gara."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0115",
+      "language_style": "standard",
+      "random_key": 1296479,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn Chùm ở Phòng Khách lên rồi bật Spotlight ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0116",
+      "language_style": "standard",
+      "random_key": 2050625815,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Tường ở Phòng Khách rồi cho Downlight ở Phòng Khách sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0117",
+      "language_style": "standard",
+      "random_key": 1661173566,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở rèm voan ở Phòng khách rồi cho Đèn hành lang sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0118",
+      "language_style": "regional",
+      "random_key": 938641344,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hòa ở Phòng Ngủ 2 rồi mở Quạt hút ở Phòng Ngủ 1 lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0119",
+      "language_style": "standard",
+      "random_key": 829715163,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Điều Hòa ở Phòng Ngủ chạy rồi tắt Đèn hắt ở Phòng Bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0120",
+      "language_style": "standard",
+      "random_key": 968300492,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Điều hoà ở Phòng Ngủ 1 đi rồi mở Quạt hút phòng vệ sinh lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0121",
+      "language_style": "standard",
+      "random_key": 95729185,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn tường ở Phòng Ngủ Nhỏ rồi bật Đèn hắt trần ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0122",
+      "language_style": "regional",
+      "random_key": 408863138,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Hắt Trần ở Phòng khách đi rồi tắt Nóng Lạnh Bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0123",
+      "language_style": "regional",
+      "random_key": 213984686,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Nguồn tv ở Tầng 1 đi rồi bật Điều hoà ở Phòng Giúp Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0124",
+      "language_style": "standard",
+      "random_key": 1134256502,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn tường ở Sảnh Chính rồi bật Led hắt ở Phòng ăn 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0125",
+      "language_style": "regional",
+      "random_key": 139538925,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn tv ở Tầng 1 rồi tắt Đèn trần 1 ở Hành Lang Cầu Thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0126",
+      "language_style": "regional",
+      "random_key": 202720358,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Đèn hắt trần ở Phòng Ngủ Con đi rồi mở Rèm voan ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0127",
+      "language_style": "standard",
+      "random_key": 1183141675,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn chùm ở Phòng khách rồi kéo Cửa cuốn ở Mặt Tiền ra."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0128",
+      "language_style": "standard",
+      "random_key": 1951539777,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải phòng khách rồi bật Đèn trần ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0129",
+      "language_style": "standard",
+      "random_key": 866286533,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Điều hoà ở Phòng Ngủ Trước lên rồi cho Đèn trần ở Phòng Bếp sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0130",
+      "language_style": "standard",
+      "random_key": 41800876,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn hắt trần ở Hành Lang Vệ Sinh rồi đóng Cửa Cuốn ở Tầng 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0131",
+      "language_style": "standard",
+      "random_key": 14797764,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt Led hắt ở Phòng Master rồi bật Đèn sưởi ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0132",
+      "language_style": "standard",
+      "random_key": 405359079,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn Tuýp ở Phòng ngủ lên rồi tắt Đèn Tường ở Sảnh Chính."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0133",
+      "language_style": "standard",
+      "random_key": 723681395,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Downlight ở Phòng Thờ rồi cho Downlight ở Phòng Ngủ 1 sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0134",
+      "language_style": "standard",
+      "random_key": 295667057,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Điều Hòa ở Phòng Ngủ Master chạy rồi tắt Bình Nóng Lạnh ở Phòng Ngủ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0135",
+      "language_style": "regional",
+      "random_key": 96810841,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Nguồn TIVI ở Phòng Khách chạy rồi cho Đèn Ban Công sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0136",
+      "language_style": "regional",
+      "random_key": 791156575,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Khởi động Nguồn tv ở Tầng 1 rồi tắt Điều hoà ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0137",
+      "language_style": "standard",
+      "random_key": 924199544,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Bình nóng lạnh ở Phòng vệ sinh Chung rồi tắt Đèn trần ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0138",
+      "language_style": "standard",
+      "random_key": 663281754,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Ban công rồi cho Downlight ở Phòng Thờ sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0139",
+      "language_style": "regional",
+      "random_key": 1986887052,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Trần phòng vệ sinh và Đèn tường ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0140",
+      "language_style": "regional",
+      "random_key": 110180351,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Downlight ở Sảnh và Đèn Ray ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0141",
+      "language_style": "standard",
+      "random_key": 868242377,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Quạt trần ở Phòng Master và Quạt Gió ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0142",
+      "language_style": "regional",
+      "random_key": 1031584231,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Voan ở Phòng ngủ To và Cửa Cuốn ở Tầng 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0143",
+      "language_style": "regional",
+      "random_key": 97532393,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Voan Phải ở Phòng Khách và Cửa cuốn ở Tầng Hầm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0144",
+      "language_style": "standard",
+      "random_key": 1167488096,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Chùm ở Hành Lang Cầu Thang và Đèn hắt trần ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0145",
+      "language_style": "regional",
+      "random_key": 670793744,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở rèm Voan ở Phòng Master và Rèm vải ở Phòng Ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0146",
+      "language_style": "regional",
+      "random_key": 1969474223,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm phòng khách và Rèm master ở Phòng ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0147",
+      "language_style": "standard",
+      "random_key": 133363082,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng ngủ Con Trai và Rèm Vải ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0148",
+      "language_style": "standard",
+      "random_key": 19599801,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn hắt ở Hành Lang và Đèn trần 1 ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0149",
+      "language_style": "regional",
+      "random_key": 1619477511,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Vải ở Phòng Master và Rèm Vải ở Phòng Ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0150",
+      "language_style": "standard",
+      "random_key": 728322201,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Chùm ở Phòng khách và Hắt Trần ở Phòng bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0151",
+      "language_style": "regional",
+      "random_key": 122742191,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Voan 2 ở Phòng Bếp Ăn và Rèm Voan ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0152",
+      "language_style": "standard",
+      "random_key": 115238939,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn thả ở Hành Lang và Đèn trần ở Phòng Bếp."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0153",
+      "language_style": "standard",
+      "random_key": 17648783,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều Hòa sảnh ở Phòng Con Trai và Điều Hòa sảnh ở Phòng Con Gái."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0154",
+      "language_style": "standard",
+      "random_key": 1903698482,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Quạt trần ở Phòng sinh hoạt chung và Quạt hút phòng vệ sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0155",
+      "language_style": "standard",
+      "random_key": 786898133,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải cửa phụ ở Tầng 1 và rèm vải ở Phòng ngủ master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0156",
+      "language_style": "regional",
+      "random_key": 273738954,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Quạt Trần ở Phòng ăn và Quạt gió ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0157",
+      "language_style": "standard",
+      "random_key": 1716333662,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Voan ở Phòng ngủ To và Rèm Voan ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0158",
+      "language_style": "standard",
+      "random_key": 1235294383,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng khách và Rèm voan ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0159",
+      "language_style": "standard",
+      "random_key": 263201929,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hoà ở Phòng ngủ 1 và Điều hoà ở Phòng Ngủ Master 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0160",
+      "language_style": "standard",
+      "random_key": 1438527183,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Sưởi ở Phòng vệ sinh Chung và Led Trần ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0161",
+      "language_style": "regional",
+      "random_key": 1560238369,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hoà 2 ở Phòng khách và Điều hoà ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0162",
+      "language_style": "standard",
+      "random_key": 596902898,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn điều hoà ở Phòng Ngủ ZiDan và Nguồn điều hoà ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0163",
+      "language_style": "regional",
+      "random_key": 761470104,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hoà ở Phòng bếp và Điều hoà ở Phòng Ngủ Bà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0164",
+      "language_style": "regional",
+      "random_key": 953089307,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Downlight ở Phòng Vệ Sinh Chung và Downlight ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0165",
+      "language_style": "standard",
+      "random_key": 1125550902,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn tuýp ở Phòng Bếp Sau và Đèn trần 1 ở Phòng Ngủ Sau."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0166",
+      "language_style": "standard",
+      "random_key": 951978668,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn trần ở Phòng Khách và Đèn hắt ở Phòng Ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0167",
+      "language_style": "regional",
+      "random_key": 1494645519,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hoà ở Phòng Thờ và Điều hoà ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0168",
+      "language_style": "standard",
+      "random_key": 96806002,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Voan ở Phòng Khách và Rèm Vải ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0169",
+      "language_style": "standard",
+      "random_key": 1153551475,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Ray ở Phòng Bếp và Đèn chùm ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0170",
+      "language_style": "standard",
+      "random_key": 984440730,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn tủ ở Phòng Ngủ và Đèn hắt ở Phòng Ngủ 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0171",
+      "language_style": "standard",
+      "random_key": 531230412,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Hắt Trần ở Phòng Ngủ Mạnh và Đèn âm trần ở Sảnh Thang máy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0172",
+      "language_style": "standard",
+      "random_key": 487840340,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật đóng mở cổng 2 cánh ở sân vườn và bình nóng lạnh ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0173",
+      "language_style": "standard",
+      "random_key": 2146088494,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Bình nóng lạnh ở Phòng ngủ 01 và Quạt trần phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0174",
+      "language_style": "standard",
+      "random_key": 806675986,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hoà ở Phòng Ngủ 2 và Điều hoà ở Phòng Ngủ 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0175",
+      "language_style": "regional",
+      "random_key": 743515913,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn chùm ở Phòng Chung và Downlight ở Phòng ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0176",
+      "language_style": "standard",
+      "random_key": 1545533251,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Downlight ở Phòng Con Gái và Hắt Trần ở Phòng Làm Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0177",
+      "language_style": "standard",
+      "random_key": 1209664320,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn điều hòa ở Dứa và nguồn điều hòa ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0178",
+      "language_style": "standard",
+      "random_key": 1277122617,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn Trần 1 ở Phòng Con Trai và Đèn Trần 2 ở Phòng Cháu."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0179",
+      "language_style": "standard",
+      "random_key": 414342463,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn hắt ở Phòng Ngủ và Đèn trần 1 ở Phòng Thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0180",
+      "language_style": "standard",
+      "random_key": 128307727,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng ngủ trước và Rèm voan ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0181",
+      "language_style": "regional",
+      "random_key": 217912898,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng 1 và Rèm voan ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0182",
+      "language_style": "standard",
+      "random_key": 2036413243,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn âm trần ở Phòng Khách và Đèn âm trần ở Hành Lang Vệ Sinh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0183",
+      "language_style": "regional",
+      "random_key": 205565210,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Led Hắt ở Phòng ngủ Con Trai và Downlight 1 ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0184",
+      "language_style": "regional",
+      "random_key": 1196736992,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn trần phòng vệ sinh và Đèn trần ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0185",
+      "language_style": "standard",
+      "random_key": 1247779224,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Nguồn Điều Hoà ở Phòng bếp và Nguồn Điều Hoà ở Phòng Con Gái."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0186",
+      "language_style": "standard",
+      "random_key": 1329150811,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hòa ở Phòng Ngủ Cuối và Điều hòa ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0187",
+      "language_style": "standard",
+      "random_key": 857412582,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm phòng khách và Rèm master ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0188",
+      "language_style": "standard",
+      "random_key": 173122424,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở rèm vải ở Phòng Ngủ Master và Cửa cuốn ở Tầng 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0189",
+      "language_style": "standard",
+      "random_key": 522303569,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Đèn Hắt ở Phòng Khách sáng lên rồi chỉnh xuống 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0190",
+      "language_style": "standard",
+      "random_key": 1227775812,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Khởi động Điều Hoà 1 ở Phòng làm việc rồi đặt ở 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0191",
+      "language_style": "standard",
+      "random_key": 778106937,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật RGBWW hắt viền ở Phòng khách rồi giảm độ sáng xuống 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0192",
+      "language_style": "standard",
+      "random_key": 339491575,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở RGBWW hắt trần ở Phòng khách lên rồi đặt độ sáng ở mức 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0193",
+      "language_style": "standard",
+      "random_key": 475630761,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Đèn 2 ở Gara sáng lên rồi chỉnh xuống 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0194",
+      "language_style": "standard",
+      "random_key": 1201446563,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Rèm mỏng cửa trước ở Phòng ăn ra rồi giữ ở mức 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0195",
+      "language_style": "standard",
+      "random_key": 1213069647,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Spotlight ở Phòng master rồi giảm độ sáng xuống 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0196",
+      "language_style": "standard",
+      "random_key": 1799559836,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng Khách rồi dừng ở mức 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0197",
+      "language_style": "standard",
+      "random_key": 945543055,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều Hòa sảnh ở Phòng Con Trai rồi đặt nhiệt độ ở 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0198",
+      "language_style": "standard",
+      "random_key": 906244971,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Điều Hoà ở Nhà Ăn lên rồi chỉnh về 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0199",
+      "language_style": "regional",
+      "random_key": 971403727,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều hòa ở Phòng Khách rồi đặt nhiệt độ ở 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0200",
+      "language_style": "standard",
+      "random_key": 992668466,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm dày cửa cạnh ở Phòng khách rồi dừng ở mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0201",
+      "language_style": "regional",
+      "random_key": 1503261294,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn 6 ở Phòng bếp lên rồi đặt độ sáng ở mức 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0202",
+      "language_style": "regional",
+      "random_key": 1002207887,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở RGBWW hắt viền ngủ 2 ở Phòng Ngủ 2 lên rồi đặt độ sáng ở mức 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0203",
+      "language_style": "standard",
+      "random_key": 99268885,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Khởi động Điều hòa phòng ngủ 1 rồi đặt ở 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0204",
+      "language_style": "standard",
+      "random_key": 1632927702,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Đèn 3 ở Phòng khách rồi giảm độ sáng xuống 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0205",
+      "language_style": "standard",
+      "random_key": 846850205,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho RGBWW hắt trần ở Phòng Ngủ 1 sáng lên rồi chỉnh xuống 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0206",
+      "language_style": "standard",
+      "random_key": 1149913915,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Cho Spotlight ở Phòng master sáng lên rồi chỉnh xuống 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0207",
+      "language_style": "standard",
+      "random_key": 1744547482,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm mỏng cửa cạnh ở Phòng ăn rồi dừng ở mức 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0208",
+      "language_style": "standard",
+      "random_key": 1733188882,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn 1 ở Hành lang Cầu Thang lên rồi đặt độ sáng ở mức 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0209",
+      "language_style": "regional",
+      "random_key": 48594201,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm voan ở Phòng Khách rồi dừng ở mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0210",
+      "language_style": "regional",
+      "random_key": 1303400459,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm voan ở Phòng ăn rồi chỉnh còn 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0211",
+      "language_style": "standard",
+      "random_key": 524398728,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Khởi động Điều hòa phòng khách rồi đặt ở 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0212",
+      "language_style": "standard",
+      "random_key": 1695012787,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn Hắt ở Hành Lang lên rồi đặt độ sáng ở mức 60%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0213",
+      "language_style": "standard",
+      "random_key": 165870022,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Điều hòa ở Phòng Master lên rồi chỉnh về 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0214",
+      "language_style": "standard",
+      "random_key": 475642024,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Bóng Hành Lang Tầng 1 lên rồi đặt độ sáng ở mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0215",
+      "language_style": "regional",
+      "random_key": 84490486,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật Điều Hoà 2 ở Phòng làm việc rồi đặt nhiệt độ ở 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0216",
+      "language_style": "standard",
+      "random_key": 596345872,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm vải ở Phòng Khách rồi chỉnh còn 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0217",
+      "language_style": "standard",
+      "random_key": 1283474781,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Spotlight ở Phòng Ngủ Nhỏ lên rồi đặt độ sáng ở mức 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0218",
+      "language_style": "standard",
+      "random_key": 430662405,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Khởi động Điều Hòa ở Phòng khách rồi đặt ở 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0219",
+      "language_style": "standard",
+      "random_key": 187978249,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Điều Hoà 1 ở Phòng làm việc lên rồi chỉnh về 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0220",
+      "language_style": "regional",
+      "random_key": 454995535,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo Rèm voan 1 ở Phòng ngủ Lớn ra rồi giữ ở mức 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0221",
+      "language_style": "standard",
+      "random_key": 343951882,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Điều Hoà 2 ở Phòng làm việc lên rồi chỉnh về 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0222",
+      "language_style": "standard",
+      "random_key": 1893874054,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm Vải ở Phòng ngủ Nhỏ rồi chỉnh còn 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0223",
+      "language_style": "regional",
+      "random_key": 782443121,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Đèn 3 ở Phòng khách lên rồi đặt độ sáng ở mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0224",
+      "language_style": "regional",
+      "random_key": 314349378,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Điều Hoà ở Phòng Khách lên rồi chỉnh về 23 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0225",
+      "language_style": "standard",
+      "random_key": 1599162998,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở Rèm voan phòng khách rồi chỉnh còn 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0226",
+      "language_style": "standard",
+      "random_key": 1682866619,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả thiết bị ở Phòng Cụ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0227",
+      "language_style": "standard",
+      "random_key": 1885193754,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả đèn ở Phòng Con Trai."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0228",
+      "language_style": "standard",
+      "random_key": 1321719944,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả đèn ở Phòng vệ sinh chung."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0229",
+      "language_style": "regional",
+      "random_key": 1503909051,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả điều hòa ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0230",
+      "language_style": "regional",
+      "random_key": 1131654622,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết thiết bị trong nhà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0231",
+      "language_style": "standard",
+      "random_key": 1566533858,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết điều hòa trong nhà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0232",
+      "language_style": "standard",
+      "random_key": 84293587,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả điều hòa ở Phòng Ngủ Sau."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0233",
+      "language_style": "standard",
+      "random_key": 98438500,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả điều hòa trong nhà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0234",
+      "language_style": "standard",
+      "random_key": 548275506,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở tất cả rèm ở Phòng ngủ Minh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0235",
+      "language_style": "regional",
+      "random_key": 1874554914,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết đèn ở Phòng Bà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0236",
+      "language_style": "standard",
+      "random_key": 1593046420,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết đèn ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0237",
+      "language_style": "regional",
+      "random_key": 199535809,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết đèn trong nhà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0238",
+      "language_style": "standard",
+      "random_key": 1200892061,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết thiết bị ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0239",
+      "language_style": "standard",
+      "random_key": 1035724276,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả đèn ở Cửa hàng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0240",
+      "language_style": "standard",
+      "random_key": 33586126,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết đèn ở Phòng ngủ khép kín."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0241",
+      "language_style": "standard",
+      "random_key": 353049016,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt hết đèn ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0242",
+      "language_style": "standard",
+      "random_key": 2054220315,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo hết rèm ở Phòng Khách lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0243",
+      "language_style": "standard",
+      "random_key": 604028593,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Mở tất cả rèm ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0244",
+      "language_style": "regional",
+      "random_key": 2045836703,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt toàn bộ thiết bị ở Tầng 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0245",
+      "language_style": "regional",
+      "random_key": 424476771,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả thiết bị trong nhà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0246",
+      "language_style": "standard",
+      "random_key": 1828637688,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Tắt toàn bộ đèn ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0247",
+      "language_style": "regional",
+      "random_key": 1184902587,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả điều hòa ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0248",
+      "language_style": "standard",
+      "random_key": 1364744783,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Kéo hết rèm ở Phòng Ngủ Master lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0249",
+      "language_style": "standard",
+      "random_key": 993428557,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Đóng toàn bộ rèm ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_NORTH_N_0250",
+      "language_style": "regional",
+      "random_key": 1569931858,
+      "recording_mode": "single",
+      "region_scope": "north",
+      "task_shape": "compound",
+      "text": "Bật tất cả đèn trong nhà."
+    }
+  ],
+  "shard": 1
+}

@@ -1,0 +1,2330 @@
+{
+  "dataset_id": "lumi-voice-vi",
+  "dataset_version": "2026.07.9",
+  "difficulty": "easy",
+  "region": "south",
+  "schema_version": 2,
+  "sentences": [
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0001",
+      "language_style": "regional",
+      "random_key": 2145186019,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở hoạt cảnh Buổi Chiều."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0002",
+      "language_style": "standard",
+      "random_key": 1984112094,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Cửa cuốn ở Tầng trệt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0003",
+      "language_style": "regional",
+      "random_key": 367066512,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm Vải ở Phòng Ngủ 2 nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0004",
+      "language_style": "standard",
+      "random_key": 826819188,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Dừng TV Màu ở Phòng khách lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0005",
+      "language_style": "regional",
+      "random_key": 1425933464,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Ổ Cắm TiVi ở Phòng Khách chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0006",
+      "language_style": "standard",
+      "random_key": 1453092879,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn chùm ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0008",
+      "language_style": "standard",
+      "random_key": 508645425,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Chiếu điểm ở Phòng Master đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0009",
+      "language_style": "standard",
+      "random_key": 199091797,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Cửa cuốn ở Phòng khách lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0010",
+      "language_style": "standard",
+      "random_key": 370360296,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm voan ở Phòng Ngủ 1 lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0011",
+      "language_style": "standard",
+      "random_key": 1337602806,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Bàn ăn 3 ở Khu Ăn đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0012",
+      "language_style": "standard",
+      "random_key": 1911291117,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn Hành Lang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0013",
+      "language_style": "standard",
+      "random_key": 1436264733,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật ĐÈN HÀNH LANG."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0015",
+      "language_style": "standard",
+      "random_key": 2130492722,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Led hắt trần ở Phòng ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0016",
+      "language_style": "standard",
+      "random_key": 1456837934,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Led hắt trần ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0018",
+      "language_style": "standard",
+      "random_key": 1309363062,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Ổ Cắm TiVi ở Phòng Khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0019",
+      "language_style": "standard",
+      "random_key": 682260317,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn trần ở Phòng 3 BEN sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0020",
+      "language_style": "standard",
+      "random_key": 971815697,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Led tủ ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0021",
+      "language_style": "standard",
+      "random_key": 855432626,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần 1 ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0023",
+      "language_style": "standard",
+      "random_key": 363450918,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Đèn Trần ở Phòng Bếp lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0024",
+      "language_style": "standard",
+      "random_key": 1014045911,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Màn chiếu ở Phòng 601 lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0025",
+      "language_style": "standard",
+      "random_key": 1920853425,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn sáng ở Sảnh Cầu Thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0027",
+      "language_style": "standard",
+      "random_key": 1053950355,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn tường ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0028",
+      "language_style": "standard",
+      "random_key": 883605578,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở nguồn TV Màu ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0029",
+      "language_style": "regional",
+      "random_key": 2029957328,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn Trần ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0030",
+      "language_style": "standard",
+      "random_key": 1452720267,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt ĐÈN NGỦ ở PHÒNG NGỦ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0031",
+      "language_style": "standard",
+      "random_key": 1270578072,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần 2 ở Sân Vườn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0032",
+      "language_style": "standard",
+      "random_key": 1172068800,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Led Trần ở Phòng Ngủ lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0033",
+      "language_style": "regional",
+      "random_key": 2131289458,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn trần ở Phòng Ngủ Khách nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0034",
+      "language_style": "standard",
+      "random_key": 1484318802,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở TV Màu ở Phòng khách lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0035",
+      "language_style": "standard",
+      "random_key": 1626495569,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn hắt trần ở Phòng Bé Gái đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0036",
+      "language_style": "regional",
+      "random_key": 891895706,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm Trong ở Phòng Ba Mẹ ra nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0037",
+      "language_style": "standard",
+      "random_key": 526059943,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo CỬA CUỐN ở Gara ra."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0038",
+      "language_style": "standard",
+      "random_key": 1972229999,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở rèm voan ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0039",
+      "language_style": "standard",
+      "random_key": 83580053,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt TV Màu ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0040",
+      "language_style": "standard",
+      "random_key": 1204465072,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Nguồn máy lạnh ở Phòng Quỳnh Hương."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0041",
+      "language_style": "regional",
+      "random_key": 1502582028,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kích hoạt cảnh Làm Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0042",
+      "language_style": "regional",
+      "random_key": 1255465716,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn chùm ở Phòng bếp nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0043",
+      "language_style": "standard",
+      "random_key": 1485108066,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn hắt ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0044",
+      "language_style": "regional",
+      "random_key": 651312720,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Ngoài ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0046",
+      "language_style": "standard",
+      "random_key": 235634809,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt TV Màu ở Phòng khách đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0047",
+      "language_style": "regional",
+      "random_key": 1434160189,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn tường ở Phòng Ngủ sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0048",
+      "language_style": "regional",
+      "random_key": 1097645891,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Downlight 2 ở Phòng bếp đi nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0049",
+      "language_style": "regional",
+      "random_key": 1478858371,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm Vải ở Phòng Ăn lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0050",
+      "language_style": "standard",
+      "random_key": 1475987962,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở hoạt cảnh Bật phòng vệ sinh master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0051",
+      "language_style": "standard",
+      "random_key": 496318473,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Led hắt trần ở Phòng ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0052",
+      "language_style": "standard",
+      "random_key": 1232528381,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn tủ ở Phòng Ngủ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0053",
+      "language_style": "regional",
+      "random_key": 1225812133,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn trần ở Phòng Ngủ Nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0054",
+      "language_style": "regional",
+      "random_key": 403186694,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Mỏng ở PHÒNG NGỦ NỮ lại nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0055",
+      "language_style": "standard",
+      "random_key": 831912139,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn chùm ở Phòng vệ sinh đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0056",
+      "language_style": "standard",
+      "random_key": 823732931,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm vải ở PHÒNG HOÀNG lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0057",
+      "language_style": "standard",
+      "random_key": 291305090,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn Ngủ ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0058",
+      "language_style": "standard",
+      "random_key": 184527713,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn Trần 1 ở PHÒNG MÁY LẠNH."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0059",
+      "language_style": "regional",
+      "random_key": 734752170,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn thả ở Sân vườn sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0060",
+      "language_style": "standard",
+      "random_key": 1325115629,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn Trần 1 ở Phòng Ngủ Long."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0061",
+      "language_style": "standard",
+      "random_key": 1302136424,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Đèn chùm ở Phòng Master lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0063",
+      "language_style": "standard",
+      "random_key": 168629404,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Máy lạnh lầu 1 đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0064",
+      "language_style": "standard",
+      "random_key": 528215124,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Led Tủ ở Phòng tắm lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0065",
+      "language_style": "regional",
+      "random_key": 909234746,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Rọi tranh ở Phòng Ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0066",
+      "language_style": "regional",
+      "random_key": 870828238,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn Ban Công nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0067",
+      "language_style": "regional",
+      "random_key": 851557314,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn chùm ở Phòng ăn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0068",
+      "language_style": "standard",
+      "random_key": 382219872,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Ổ cắm ở Phòng Thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0069",
+      "language_style": "standard",
+      "random_key": 320733118,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn Chùm ở Hành Lang Cầu Thang sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0070",
+      "language_style": "standard",
+      "random_key": 594921321,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn Tranh ở Phòng Ngủ 5."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0071",
+      "language_style": "standard",
+      "random_key": 1640497115,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chạy hoạt cảnh Buổi Sáng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0072",
+      "language_style": "standard",
+      "random_key": 1385580792,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần ở Phòng Ngủ Ông đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0075",
+      "language_style": "regional",
+      "random_key": 2022729079,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn 3 ở Phòng Khách sáng lên nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0076",
+      "language_style": "standard",
+      "random_key": 631845046,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở hoạt cảnh tắt đèn mặt tiền."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0077",
+      "language_style": "regional",
+      "random_key": 1865508375,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Dày 2 ở PHÒNG KHÁCH."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0078",
+      "language_style": "regional",
+      "random_key": 1511600046,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Đèn chùm ở Phòng khách lên nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0079",
+      "language_style": "regional",
+      "random_key": 640905024,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm voan ở Phòng master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0080",
+      "language_style": "regional",
+      "random_key": 1673331341,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Dày ở Phòng Bida."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0081",
+      "language_style": "regional",
+      "random_key": 294559997,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở quạt ở Phòng Khách lên nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0082",
+      "language_style": "regional",
+      "random_key": 213558190,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm Vải Phải ở Hành Lang Cầu Thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0086",
+      "language_style": "standard",
+      "random_key": 1782884843,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn trần ở Sân vườn."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0087",
+      "language_style": "standard",
+      "random_key": 2145994956,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Led hắt ở Hành lang sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0088",
+      "language_style": "standard",
+      "random_key": 2131686133,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Đèn cổng ở Sân vườn lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0089",
+      "language_style": "regional",
+      "random_key": 1487540115,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Downlight ở Phòng Thờ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0090",
+      "language_style": "standard",
+      "random_key": 2070906001,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Hắt Trần ở Phòng Ngủ 2 sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0091",
+      "language_style": "standard",
+      "random_key": 1269229048,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn Trần ở Phòng Ngủ Trước sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0092",
+      "language_style": "standard",
+      "random_key": 228811369,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Khởi động Ổ Cắm TiVi ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0093",
+      "language_style": "standard",
+      "random_key": 1654847470,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần ở Phòng 601 đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0094",
+      "language_style": "standard",
+      "random_key": 923214132,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn Trần ở Phòng Ngủ Dâu."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0095",
+      "language_style": "regional",
+      "random_key": 1370242348,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Hắt trần ở Phòng Master sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0096",
+      "language_style": "regional",
+      "random_key": 1588674244,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật TV Màu ở Phòng khách nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0097",
+      "language_style": "regional",
+      "random_key": 1324213897,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Mỏng ở Phòng Ngủ Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0098",
+      "language_style": "standard",
+      "random_key": 2062225756,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm Dày ở Phòng Ngủ 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0099",
+      "language_style": "regional",
+      "random_key": 1062203259,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Đèn cổng ở Gara Cổng lên nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0101",
+      "language_style": "regional",
+      "random_key": 1901554662,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở hoạt cảnh Buổi Tối."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0102",
+      "language_style": "regional",
+      "random_key": 783698599,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn trần 2 ở Phòng Ngủ sáng lên nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0103",
+      "language_style": "regional",
+      "random_key": 1983509663,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Downlight ở Phòng bếp sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0104",
+      "language_style": "standard",
+      "random_key": 306250702,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần 1 ở Bida đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0105",
+      "language_style": "regional",
+      "random_key": 644887283,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Hắt trần ở Phòng Giải Trí lên nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0106",
+      "language_style": "regional",
+      "random_key": 1300343318,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kích hoạt cảnh Sân sau."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0107",
+      "language_style": "standard",
+      "random_key": 509129443,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm voan ở Phòng Ngủ Nhỏ lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0108",
+      "language_style": "regional",
+      "random_key": 1771217003,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần phòng vệ sinh đi nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0109",
+      "language_style": "regional",
+      "random_key": 1910820895,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Đèn trần ở Sân vườn sáng lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0110",
+      "language_style": "standard",
+      "random_key": 1021377558,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Downlight 1 ở Hành Lang 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0111",
+      "language_style": "standard",
+      "random_key": 213088222,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn Trần 2 ở PHÒNG NGỦ NAM đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0112",
+      "language_style": "standard",
+      "random_key": 1145380322,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Downlight ở Phòng Làm Việc lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0113",
+      "language_style": "regional",
+      "random_key": 648035622,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Downlight 1 ở Sảnh Chung đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0114",
+      "language_style": "standard",
+      "random_key": 1661260306,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở hoạt cảnh Làm việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0115",
+      "language_style": "standard",
+      "random_key": 1670542142,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Quạt hút phòng vệ sinh đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0117",
+      "language_style": "regional",
+      "random_key": 1716755687,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm vải ở Phòng Ngủ 1 ra nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0118",
+      "language_style": "standard",
+      "random_key": 880110450,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần 1 ở Phòng khách đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0119",
+      "language_style": "standard",
+      "random_key": 1964382344,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Quạt ở Phòng Bé Gái lên."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0120",
+      "language_style": "standard",
+      "random_key": 212443624,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Cửa cuốn ở Sân Trước."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0121",
+      "language_style": "standard",
+      "random_key": 2029402016,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn lon ở Sảnh Thang đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0123",
+      "language_style": "standard",
+      "random_key": 1609929137,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Ổ Cắm TiVi ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0124",
+      "language_style": "standard",
+      "random_key": 738913521,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn tranh ở Hành Lang Cầu Thang."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0125",
+      "language_style": "standard",
+      "random_key": 1681514722,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kích hoạt cảnh TẮT ĐÈN PHÒNG KHÁCH."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0126",
+      "language_style": "regional",
+      "random_key": 857447419,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn sáng ở Phòng ăn nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0127",
+      "language_style": "regional",
+      "random_key": 1578427464,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Khởi động TV Màu ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0128",
+      "language_style": "standard",
+      "random_key": 1056864310,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật ĐÈN TRẦN 2 ở PHÒNG MASTER."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0129",
+      "language_style": "regional",
+      "random_key": 1915158717,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở LED TỦ ở PHÒNG BẾP lên nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0130",
+      "language_style": "standard",
+      "random_key": 1434830622,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm vải ở Phòng khách ra."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0132",
+      "language_style": "standard",
+      "random_key": 257041586,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn trần 2 ở Phòng Thờ đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0133",
+      "language_style": "standard",
+      "random_key": 262056225,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Mỏng ở Phòng Ngủ Master lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0134",
+      "language_style": "standard",
+      "random_key": 1395100070,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Ổ Cắm TiVi ở Phòng Khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0135",
+      "language_style": "standard",
+      "random_key": 1323233524,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0136",
+      "language_style": "standard",
+      "random_key": 582068516,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm Mỏng ở Phòng khách lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0137",
+      "language_style": "standard",
+      "random_key": 209254739,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Cửa cuốn ở Gara lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0138",
+      "language_style": "standard",
+      "random_key": 29326199,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm voan ở PHÒNG BÉ GÁI lại."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0139",
+      "language_style": "regional",
+      "random_key": 1478452014,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn chùm ở Phòng Sona đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0140",
+      "language_style": "standard",
+      "random_key": 1367475943,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Quạt hút ở Phòng master đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0141",
+      "language_style": "standard",
+      "random_key": 1546975261,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Đèn sáng ở Sảnh Làm Việc."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0142",
+      "language_style": "standard",
+      "random_key": 1594712057,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm voan ở Phòng Thờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0143",
+      "language_style": "standard",
+      "random_key": 218346941,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm vải ở Phòng Ngủ Nhỏ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0144",
+      "language_style": "standard",
+      "random_key": 1020377089,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm vải ở Phòng Master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0145",
+      "language_style": "standard",
+      "random_key": 89624251,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật Đèn Lon ở Sảnh Chờ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0146",
+      "language_style": "standard",
+      "random_key": 424125302,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Điều hòa ở Phòng khách chạy."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0147",
+      "language_style": "standard",
+      "random_key": 298777170,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt Led trần ở Phòng khách đi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0148",
+      "language_style": "regional",
+      "random_key": 1511540300,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chạy hoạt cảnh ĂN TỐI."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0151",
+      "language_style": "standard",
+      "random_key": 1745723417,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt độ sáng lô trần ở Hành Lang Cầu Thang ở mức 100%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0152",
+      "language_style": "standard",
+      "random_key": 1612148529,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Hắt trần ở Phòng Ngủ Lớn sáng ở mức 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0153",
+      "language_style": "standard",
+      "random_key": 1208138410,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt độ sáng Đèn phòng vệ sinh ở mức 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0154",
+      "language_style": "standard",
+      "random_key": 1750648084,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Giảm Bàn ăn 4 ở Phòng bếp xuống còn 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0155",
+      "language_style": "standard",
+      "random_key": 189948447,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Giảm Đèn 2 ở Phòng Bếp xuống còn 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0156",
+      "language_style": "standard",
+      "random_key": 545848927,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Bàn ăn 3 ở Phòng bếp sáng ở mức 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0157",
+      "language_style": "regional",
+      "random_key": 501686082,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Giảm DOWNLIGHT PHÒNG THỜ xuống còn 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0158",
+      "language_style": "standard",
+      "random_key": 1430559435,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt độ sáng Led hắt Trong ở Phòng Khách ở mức 80%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0159",
+      "language_style": "standard",
+      "random_key": 1164373445,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt Led hắt trần ở Phòng khách thành màu xanh lá."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0160",
+      "language_style": "standard",
+      "random_key": 2035859233,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Màu Led RGB ở Vợ Chồng Hậu sang màu vàng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0161",
+      "language_style": "standard",
+      "random_key": 1487451992,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển RGBWW Hắt Thay Đồ Master ở Phòng Master sang màu hồng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0162",
+      "language_style": "regional",
+      "random_key": 80738360,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt MÀU LED HẮT ở PHÒNG KHÁCH thành màu đỏ nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0163",
+      "language_style": "standard",
+      "random_key": 639873828,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển RGB phòng vệ sinh sang màu vàng."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0164",
+      "language_style": "standard",
+      "random_key": 1780458984,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt RGB phòng vệ sinh thành màu tím."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0165",
+      "language_style": "standard",
+      "random_key": 1409882521,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh Đèn sáng ở Sảnh Làm Việc sang nhiệt màu 3000 K."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0166",
+      "language_style": "standard",
+      "random_key": 81998857,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh Đèn trần ở Phòng vệ sinh Master sang màu lạnh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0167",
+      "language_style": "standard",
+      "random_key": 1494709722,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh DOWNLIGHT PHÒNG THỜ sang màu ấm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0168",
+      "language_style": "standard",
+      "random_key": 1271656111,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh ba ở Phòng bếp sang nhiệt màu 5000 K."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0169",
+      "language_style": "standard",
+      "random_key": 2003359902,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt nhiệt màu Lộ 1 ở Phòng khách ở 4000 K."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0170",
+      "language_style": "standard",
+      "random_key": 1665677416,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt nhiệt màu DOWNLIGHT PHÒNG THỜ ở 6500 K."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0171",
+      "language_style": "standard",
+      "random_key": 991282249,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở RÈM VOAN PHÒNG KHÁCH ở mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0172",
+      "language_style": "regional",
+      "random_key": 1001182271,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm Dày 2 ở PHÒNG KHÁCH ở mức 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0173",
+      "language_style": "standard",
+      "random_key": 1276301076,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Trong ở Phòng Ngủ còn 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0174",
+      "language_style": "standard",
+      "random_key": 1417891519,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm voan ở Phòng ngủ 1 ra 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0175",
+      "language_style": "standard",
+      "random_key": 1453745905,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm voan ở PHÒNG HOÀNG còn 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0176",
+      "language_style": "standard",
+      "random_key": 1538687709,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm Mỏng ở Phòng Master ra 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0177",
+      "language_style": "standard",
+      "random_key": 554802830,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Cửa cuốn ở Tầng trệt ở mức 20%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0178",
+      "language_style": "regional",
+      "random_key": 1880343748,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm xếp ly phòng khách ra 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0179",
+      "language_style": "standard",
+      "random_key": 134734771,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm Mỏng ở Phòng Bida ra 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0180",
+      "language_style": "standard",
+      "random_key": 776994463,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm voan ở PHÒNG HOÀNG còn 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0181",
+      "language_style": "standard",
+      "random_key": 1151597127,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở Rèm xếp ly phòng khách ở mức 50%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0182",
+      "language_style": "regional",
+      "random_key": 235475283,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Dày 1 ở PHÒNG KHÁCH còn 40%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0183",
+      "language_style": "regional",
+      "random_key": 119165203,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Mở rèm vải ở Phòng khách ở mức 60% nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0184",
+      "language_style": "standard",
+      "random_key": 824525842,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đóng Rèm Mỏng ở Phòng Giải Trí còn 30%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0185",
+      "language_style": "standard",
+      "random_key": 114900355,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Kéo Rèm Vải ở Phòng Giải Trí ra 70%."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0186",
+      "language_style": "standard",
+      "random_key": 373746572,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh Điều hòa ở Phòng ngủ 1 xuống 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0187",
+      "language_style": "standard",
+      "random_key": 195535423,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh Máy Lạnh Học ở Phòng Học xuống 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0188",
+      "language_style": "regional",
+      "random_key": 10354964,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tăng nhiệt độ máy lạnh ở Phòng ngủ 2 lên 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0189",
+      "language_style": "standard",
+      "random_key": 569416441,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tăng nhiệt độ Máy Lạnh ở Thư Viện lên 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0190",
+      "language_style": "standard",
+      "random_key": 229997295,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt Máy Lạnh ở Phòng Ngủ 2 ở 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0191",
+      "language_style": "regional",
+      "random_key": 809128625,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh Máy Lạnh Phòng Khách xuống 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0192",
+      "language_style": "standard",
+      "random_key": 174055210,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tăng nhiệt độ Máy Lạnh ở Thư Viện lên 24 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0193",
+      "language_style": "standard",
+      "random_key": 933444586,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt Máy Lạnh Học ở Phòng Học ở 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0194",
+      "language_style": "standard",
+      "random_key": 191819914,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh Máy Lạnh ở Phòng Ngủ 5 xuống 28 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0195",
+      "language_style": "standard",
+      "random_key": 2145656390,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chỉnh Máy Lạnh Học ở Phòng Học xuống 27 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0196",
+      "language_style": "regional",
+      "random_key": 839576432,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tăng nhiệt độ Máy Lạnh ở Phòng Ngủ 1 lên 26 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0197",
+      "language_style": "standard",
+      "random_key": 85054820,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tăng nhiệt độ Điều hòa ở Phòng ngủ 1 lên 22 độ."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0198",
+      "language_style": "standard",
+      "random_key": 330912218,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Máy Lạnh ở Phòng Ngủ 4 sang chế độ làm lạnh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0199",
+      "language_style": "regional",
+      "random_key": 426115557,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Máy Lạnh ở Phòng Ngủ 1 sang chế độ hút ẩm."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0200",
+      "language_style": "regional",
+      "random_key": 204425609,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Máy Lạnh ở Phòng Ngủ 5 sang chế độ sưởi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0201",
+      "language_style": "standard",
+      "random_key": 678996824,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Điều hòa ở Phòng ngủ 1 sang chế độ quạt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0202",
+      "language_style": "regional",
+      "random_key": 2020525738,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển máy lạnh ở Phòng ngủ 1 sang chế độ tự động."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0203",
+      "language_style": "standard",
+      "random_key": 466302159,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Máy Lạnh ở Thư Viện sang chế độ làm lạnh."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0204",
+      "language_style": "regional",
+      "random_key": 1241194641,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh Học ở Phòng Học chạy chế độ hút ẩm nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0205",
+      "language_style": "standard",
+      "random_key": 273133215,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Điều hòa ở Phòng master sang chế độ sưởi."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0206",
+      "language_style": "regional",
+      "random_key": 1874717587,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh Phòng Ăn chạy chế độ quạt."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0207",
+      "language_style": "standard",
+      "random_key": 807615240,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Chuyển Điều hòa ở Phòng khách sang chế độ tự động."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0208",
+      "language_style": "regional",
+      "random_key": 882061126,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh Học ở Phòng Học chạy gió mức 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0209",
+      "language_style": "regional",
+      "random_key": 1941955653,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho máy lạnh ở Phòng ngủ 1 chạy gió mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0210",
+      "language_style": "standard",
+      "random_key": 1710448632,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt mức gió Máy Lạnh ở Thư Viện ở mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0211",
+      "language_style": "standard",
+      "random_key": 1748835714,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Điều hòa ở Phòng khách chạy gió mức 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0212",
+      "language_style": "standard",
+      "random_key": 1130893268,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh Học ở Phòng Học chạy gió mức 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0213",
+      "language_style": "standard",
+      "random_key": 805513859,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt mức gió Máy Lạnh Phòng Trà ở mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0214",
+      "language_style": "standard",
+      "random_key": 1219421342,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt mức gió Máy Lạnh ở Phòng Ngủ 4 ở mức 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0215",
+      "language_style": "standard",
+      "random_key": 1053879365,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh Phòng Khách chạy gió mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0216",
+      "language_style": "standard",
+      "random_key": 1935527300,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt đảo gió Máy Lạnh ở Thư Viện."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0217",
+      "language_style": "standard",
+      "random_key": 1631192102,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt đảo gió Điều hòa ở Phòng khách."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0218",
+      "language_style": "standard",
+      "random_key": 1527664005,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt đảo gió Điều hòa ở Phòng ngủ 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0219",
+      "language_style": "regional",
+      "random_key": 491298325,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật đảo gió Máy Lạnh ở Thư Viện nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0220",
+      "language_style": "regional",
+      "random_key": 1771891512,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh Học ở Phòng Học đảo gió tự động."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0221",
+      "language_style": "standard",
+      "random_key": 1115442692,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Điều hòa ở Phòng ngủ 1 chạy gió mức 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0222",
+      "language_style": "regional",
+      "random_key": 1675899719,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh ở Thư Viện chạy gió mức 3 nha."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0223",
+      "language_style": "regional",
+      "random_key": 654749597,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt mức gió Máy Lạnh ở Phòng Ngủ 1 ở mức 3."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0224",
+      "language_style": "standard",
+      "random_key": 1682979758,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đặt gió Máy Lạnh ở Phòng Ngủ 1 ở mức 2."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0225",
+      "language_style": "standard",
+      "random_key": 1382119017,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Điều hòa ở Phòng ngủ 2 chạy gió mức 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0226",
+      "language_style": "regional",
+      "random_key": 450391075,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Tắt đảo gió máy lạnh ở Phòng master."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0227",
+      "language_style": "standard",
+      "random_key": 621629139,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Điều hòa ở Phòng ngủ 1 đảo gió tự động."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0228",
+      "language_style": "standard",
+      "random_key": 1534459535,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho Máy Lạnh ở Phòng Ngủ 2 đảo gió tự động."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0229",
+      "language_style": "standard",
+      "random_key": 626539463,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật đảo gió Máy Lạnh ở Phòng Ngủ 1."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0230",
+      "language_style": "standard",
+      "random_key": 1072643566,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Bật đảo gió Máy Lạnh Phòng Trà."
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0231",
+      "language_style": "regional",
+      "random_key": 2031943782,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho mình hỏi đèn trần ở Phòng Bên Phải đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0232",
+      "language_style": "standard",
+      "random_key": 488815342,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Quạt trần ở Phòng khách đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0233",
+      "language_style": "regional",
+      "random_key": 2058645431,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho mình hỏi quạt Gió Tươi ở Sảnh đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0234",
+      "language_style": "standard",
+      "random_key": 432659541,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đèn hắt ở Phòng khách đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0235",
+      "language_style": "standard",
+      "random_key": 233139010,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đèn trần ở Thang Máy đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0236",
+      "language_style": "standard",
+      "random_key": 2059606141,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Rèm vải 1 ở Phòng Master đã đóng chưa?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0237",
+      "language_style": "regional",
+      "random_key": 947262921,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho mình hỏi rèm Trong ở Phòng Master đã đóng chưa?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0238",
+      "language_style": "standard",
+      "random_key": 839604522,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "TV Màu ở Phòng khách đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0239",
+      "language_style": "standard",
+      "random_key": 402670277,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Đèn Trần ở Phòng Bếp đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0240",
+      "language_style": "standard",
+      "random_key": 107189641,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "TV Màu ở Phòng khách đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0241",
+      "language_style": "standard",
+      "random_key": 1745912374,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Ổ Cắm TiVi ở Phòng Khách đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0242",
+      "language_style": "standard",
+      "random_key": 839106658,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Lộ rọi tranh ở Sảnh đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0243",
+      "language_style": "standard",
+      "random_key": 1258121125,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Nguồn máy lạnh phải ở Phòng Khách đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0244",
+      "language_style": "regional",
+      "random_key": 1416202617,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho mình hỏi chuông báo động ở NHÀ XE đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0245",
+      "language_style": "regional",
+      "random_key": 1555491811,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho mình hỏi đèn Gương ở Phòng Con Trai đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0246",
+      "language_style": "standard",
+      "random_key": 2135458810,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "DOWNLIGHT PHÒNG THỜ đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0247",
+      "language_style": "standard",
+      "random_key": 1983937089,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Nguồn máy lạnh ở Phòng Master đang bật hay tắt?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0248",
+      "language_style": "standard",
+      "random_key": 191170720,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Rèm vải ở Phòng Ngủ 2 đã đóng chưa?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0249",
+      "language_style": "standard",
+      "random_key": 1689387953,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Quạt Trần ở Phòng Ngủ Bé Trước đang bật phải không?"
+    },
+    {
+      "enabled": true,
+      "id": "VI_SOUTH_E_0250",
+      "language_style": "regional",
+      "random_key": 411031975,
+      "recording_mode": "single",
+      "region_scope": "south",
+      "task_shape": "atomic",
+      "text": "Cho mình hỏi đèn hắt ở Phòng Đồ đang bật phải không?"
+    }
+  ],
+  "shard": 1
+}
